@@ -10,8 +10,8 @@
 {% assign link="/registration/" %}
 {% include menu_item %}
 
-{% assign title="Contact" %}
-{% assign link="/contact/" %}
+{% assign title="Posters" %}
+{% assign link="/posters/" %}
 {% include menu_item %}
 
 {% assign title="About" %}
