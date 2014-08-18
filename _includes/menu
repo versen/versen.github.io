@@ -11,12 +11,7 @@
 {% include menu_item %}
 
 {% assign title="Contact" %}
-{% assign link="/developers/" %}
-{% include menu_item %}
-
-{% assign title="Blog" %}
-{% assign link="/blog/" %}
-{% assign blogRoot = true %}
+{% assign link="/contact/" %}
 {% include menu_item %}
 
 {% assign title="About" %}
