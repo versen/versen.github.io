@@ -2,15 +2,15 @@
 {% assign link="/" %}
 {% include menu_item %}
 
-{% assign title="Download" %}
-{% assign link="/start/" %}
+{% assign title="Program" %}
+{% assign link="/program/" %}
 {% include menu_item %}
 
-{% assign title="Help" %}
-{% assign link="/help/" %}
+{% assign title="Registration" %}
+{% assign link="/registration/" %}
 {% include menu_item %}
 
-{% assign title="Developers" %}
+{% assign title="Contact" %}
 {% assign link="/developers/" %}
 {% include menu_item %}
 
