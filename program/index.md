@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-The speakers at the symposium are:
+### Speakers
 
 * Eelco Visser (TU Delft)
 * Mark van den Brand (TU Eindhoven)
@@ -14,6 +14,8 @@ The speakers at the symposium are:
 * Fahrad Arbab (CWI) 	
 * Erik Meijer (TU Delft)
 
-Furthermore the program allows for posters to be presented by junior and senior researchers
-who are active in the field of software engineering in The Netherlands. Please register your poster 
-proposal at _to be announced_
+### Posters
+
+The program features interactive sessions where [posters](../posters/) are presented by junior and senior researchers
+who are active in the field of software engineering in The Netherlands. Please [submit](../posters/) your poster 
+proposal before the deadline.
