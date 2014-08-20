@@ -24,15 +24,12 @@ Due to the nature of software it is natural for academic results in software eng
 
 The SEN symposium is organized by [CWI](http://www.cwi.nl). CWI is the national research institute for mathematics and computer science in the Netherlands and is an institute of the Netherlands Organisation for Scientific Research ([NWO](http://www.nwo.nl)).
 
-_Program chairs_
+_Team_
 
 * Frank de Boer
 * Jurgen Vinju
 * Tijs van der Storm
-
-_Organization_
-
 * Susanne van Dam
 * Hans Hidskes
 * Coby van Vonderen
-
+* Karin Blankers
