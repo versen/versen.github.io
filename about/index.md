@@ -35,4 +35,3 @@ _Team_
 * Susanne van Dam
 * Hans Hidskes
 * Coby van Vonderen
-* Karin Blankers
