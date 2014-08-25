@@ -33,5 +33,3 @@ _Team_
 * Jurgen Vinju
 * Tijs van der Storm
 * Susanne van Dam
-* Hans Hidskes
-* Coby van Vonderen
