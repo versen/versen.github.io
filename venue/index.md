@@ -3,7 +3,9 @@ layout: default
 published: true
 ---
 
-## How to reach SEN by car
+<a href="http://www.cwi.nl"><img src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"></a>
+
+## How to reach CWI by car
 
 ### Navigaton system
 
@@ -18,11 +20,11 @@ The street name ‘Science Park’ is in use since 2011 and is not yet implement
 
 You can park your car at any parking lot after the gate. Follow the signs to number 123, our main entrance. Parking is paid after one hour. Please hold on to the card you receive when entering the gate, you will need it to leave the terrain.
 
-## How to reach SEN by public transport
+## How to reach CWI by public transport
 
 ### Train
 
-SEN is a five minute walk away from NS station Amsterdam Science Park. This station is served four times an hour from the directions Amsterdam Centraal – Schiphol and Almere – Amersfoort.
+CWI is a five minute walk away from NS station Amsterdam Science Park. This station is served four times an hour from the directions Amsterdam Centraal – Schiphol and Almere – Amersfoort.
 
 Walk through the tunnel after leaving the platform, cross the street (Carolina MacGillavrylaan) at the crosswalk and walk past the brown building of Amsterdam University College. You will be able to see CWI’s main entrance on your left behind the parking lot.
 
