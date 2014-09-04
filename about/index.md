@@ -6,10 +6,7 @@ published: true
 
 ## About SEN Symposium
 
-This is the first national symposium for Dutch researchers in the field of _Software Engineering_. 
-The goal is to provide a forum bringing all of us researchers in this broad field together, 
-with exchange of research results and new research directions 
-and a more effective professional network as a result. 
+This is the first national symposium for Dutch researchers in the field of _Software Engineering_. The goal is to provide a yearly forum bringing all of us researchers in this broad field together and reinforcing our network.  The symposium is focused on the  exchange of research results and to address new research directions, related to the societal challenges we are addressing.
 
 ### Software Engineering 
 
