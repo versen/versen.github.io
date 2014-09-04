@@ -38,5 +38,5 @@ Take tram 9 to Diemen at Amsterdam Central Station. Get off at Kruislaan (situat
 
 ## Map 
 
-<img src="/assets/img/map.png">
+![Science park map](/assets/img/map.png)
 
