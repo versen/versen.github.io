@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-<a href="http://www.cwi.nl"><img style="float: right" src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"></a>
+<a href="http://www.cwi.nl"><img style="float: right; white-space: nowrap" src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"></a>
 
 ## How to reach CWI by car
 
