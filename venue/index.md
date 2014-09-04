@@ -36,7 +36,7 @@ Alternatively, bus 40 serves Amsterdam Science Park four times an hour from stat
 
 Take tram 9 to Diemen at Amsterdam Central Station. Get off at Kruislaan (situated at the Middenlaan - Kruislaan intersection). From there, you can walk to Amsterdam Science Park (15 min) or switch to bus 40.
 
-### Map 
+## Map 
 
-<img src="assets/img/map.png">
+<img src="/assets/img/map.png">
 
