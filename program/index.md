@@ -7,7 +7,7 @@ published: true
 
 * Eelco Visser (TU Delft) - [A Language Designer's Workbench](./visser)
 * Mark van den Brand (TU Eindhoven) - title and abstract to be announced
-* Patricia Lago (VU) - [Software with Energy](./lago)
+* Patricia Lago (VU) - [Software with Energy](./lago) - abstract to be announced
 * Paul Klint (CWI research fellow, UvA) - title and abstract to be announced
 * Sjaak Brinkkemper (UU) - title and abstract to be announced
 * Paris Avgeriou (RUG) - [Technical Debt: looking for new solutions for an old problem](./avgeriou)
