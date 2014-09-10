@@ -3,7 +3,7 @@ layout: default
 title: Paris Avgeriou
 ---
 
-# Technical Debt: looking for new solutions for an old problem
+# Technical Debt: looking for new solutions for an old problem - Paris Avgeriou
 
 The term Technical Debt became popular in 1992, when Ward Cunningham
 tried to introduce a metaphor that expresses immature software artifacts

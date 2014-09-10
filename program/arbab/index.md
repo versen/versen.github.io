@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Fahrah Arbab
+title: Fahrad Arbab
 ---
 
-# Composition of Concurrency
+# Composition of Concurrency - Fahrad Arbab
 
 Traditionally, concurrency protocols manifest themselves only as
 ephemeral side-effects of execution of concrete structured primitive

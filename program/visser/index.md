@@ -3,7 +3,7 @@ layout: default
 title: Eelco Visser
 ---
 
-# A Language Designer’s Workbench
+# A Language Designer’s Workbench - Eelco Visser
 
 Domain-specific languages can help reduce the accidental complexity of
 software by capturing and encapsulating the knowledge about computing in a

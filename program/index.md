@@ -6,13 +6,13 @@ published: true
 ### Speakers
 
 * Eelco Visser (TU Delft) - [A Language Designer's Workbench](./visser)
-* Mark van den Brand (TU Eindhoven)
-* Patricia Lago (VU)
-* Paul Klint (CWI research fellow, UvA)
-* Sjaak Brinkkemper (UU)
-* Paris Avgeriou (RUG)
-* Fahrad Arbab (CWI) 	
-* Erik Meijer (TU Delft)
+* Mark van den Brand (TU Eindhoven) - title and abstract to be announced
+* Patricia Lago (VU) - [Software with Energy](./lago)
+* Paul Klint (CWI research fellow, UvA) - title and abstract to be announced
+* Sjaak Brinkkemper (UU) - title and abstract to be announced
+* Paris Avgeriou (RUG) - [Technical Debt: looking for new solutions for an old problem](./avgeriou)
+* Fahrad Arbab (CWI) - [Composition of Concurrency](./arbab) 	
+* Erik Meijer (TU Delft) - title and abstract to be announced
 
 ### Posters
 
