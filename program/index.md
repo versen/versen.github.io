@@ -5,7 +5,7 @@ published: true
 
 ### Speakers
 
-* Eelco Visser (TU Delft)
+* Eelco Visser (TU Delft) - [A Language Designer's Workbench](./visser)
 * Mark van den Brand (TU Eindhoven)
 * Patricia Lago (VU)
 * Paul Klint (CWI research fellow, UvA)
