@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jaco van de Pol
+published: true
 ---
 
 # Power optimisation for multi-processor dataflow applications - Jaco van de Pol
@@ -26,3 +27,5 @@ the hardware (PAM) to Timed Automata with costs. Subsequently, we use UPPAAL
 to determine efficient mappings and schedules on a minimal set of processors, and
 UPPAAL CORA to compute optimal schedules and energy-management strategies,
 taking into account trade-offs between time and energy.
+
+_(this is joint work with Waheed Ahmad, Philip Hölzenspies and Mariëlle Stoelinga)_
