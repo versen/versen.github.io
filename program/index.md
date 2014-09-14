@@ -6,7 +6,7 @@ published: true
 ### Speakers
 
 * Eelco Visser (TU Delft) - [A Language Designer's Workbench](./visser)
-* Mark van den Brand (TU Eindhoven) - title and abstract to be announced
+* Mark van den Brand (TU Eindhoven) - [Model Driven Engineering and Functional Safety](./vandenbrand)
 * Patricia Lago (VU) - [Software with Energy](./lago) - abstract to be announced
 * Paul Klint (CWI research fellow, UvA) - title and abstract to be announced
 * Sjaak Brinkkemper (UU) - title and abstract to be announced
