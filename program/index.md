@@ -12,7 +12,7 @@ published: true
 * Sjaak Brinkkemper (UU) - title and abstract to be announced
 * Paris Avgeriou (RUG) - [Technical Debt: looking for new solutions for an old problem](./avgeriou)
 * Fahrad Arbab (CWI) - [Composition of Concurrency](./arbab) 	
-* Erik Meijer (TU Delft) - title and abstract to be announced
+* Erik Meijer (TU Delft) - [Contravariance is the Dual of Covariance Implies Iterable is the Dual of Observable (Making Money Using Math)](./meijer)
 * Jaco van de Pol (UTwente) - [Power optimisation for multi-processor dataflow applications](./vdpol)
 
 ### Posters
