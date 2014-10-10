@@ -9,7 +9,7 @@ published: true
 * Mark van den Brand (TU Eindhoven) - [Model Driven Engineering and Functional Safety](./vandenbrand)
 * Patricia Lago (VU) - [Software with Energy](./lago) - abstract to be announced
 * Paul Klint (CWI research fellow, UvA) - title and abstract to be announced
-* Sjaak Brinkkemper (UU) - title and abstract to be announced
+* Sjaak Brinkkemper (UU) - [Software Production: fundamental research for the software society.](./brinkkemper) - abstract to be announced
 * Paris Avgeriou (RUG) - [Technical Debt: looking for new solutions for an old problem](./avgeriou)
 * Fahrad Arbab (CWI) - [Composition of Concurrency](./arbab) 	
 * Erik Meijer (TU Delft) - [Contravariance is the Dual of Covariance Implies Iterable is the Dual of Observable (Making Money Using Math)](./meijer)
