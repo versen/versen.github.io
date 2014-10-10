@@ -21,9 +21,9 @@ In this talk we will provide trauma recovery therapy for victims of
 variance by explaining the concepts from first principles using real world
 examples such as vending machines and garbage cans.
 For additional fun, we will throw in some good old imperative side-effects
-and show how the simplest possible covariant type of getters()=>T and the
-simplest contra-variant type of setters T=>() are essentially the same as
-Iterator[+T] and Observer[-T].
+and show how the simplest possible covariant type of getters `()=>T` and the
+simplest contra-variant type of setters `T=>()` are essentially the same as
+`Iterator[+T]` and `Observer[-T]`.
 
 Add a pinch of self-application on top of that, and we discover that
 `Iterable[+T]` boils down to `Iterator[Iterator[T]] = ()=>(()=>T)` and
