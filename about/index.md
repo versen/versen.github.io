@@ -31,7 +31,7 @@ It is  urgent that software engineering research and its transfer is happening: 
 
 ### Organization
 
-<img style="float: left;" src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"/>
+<img style="float: none;" src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"/>
 
 The SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl). CWI is the national research institute for mathematics and computer science in the Netherlands and is an institute of the Netherlands Organisation for Scientific Research ([NWO](http://www.nwo.nl)).
 
