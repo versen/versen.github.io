@@ -10,7 +10,6 @@ This is the first national symposium for Dutch researchers in the field of _Soft
 
 ### Software Engineering 
 
-<img style="float: right;" src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"/>
 
 Software is driving us; based on the availability of cheap and fast computing and networking hardware, software is now a key factor in our private, public and professional lives. We expect the role for software to grow in the future:
 
@@ -31,6 +30,8 @@ Due to the nature of software it is natural for academic results in software eng
 It is  urgent that software engineering research and its transfer is happening: we as a society need to be able to better understand and manipulate software, because software is influencing our way of living in very profound manners.
 
 ### Organization
+
+<img style="float: left;" src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"/>
 
 The SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl). CWI is the national research institute for mathematics and computer science in the Netherlands and is an institute of the Netherlands Organisation for Scientific Research ([NWO](http://www.nwo.nl)).
 
