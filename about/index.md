@@ -10,6 +10,8 @@ This is the first national symposium for Dutch researchers in the field of _Soft
 
 ### Software Engineering 
 
+<img style="float: right;" src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"/>
+
 Software is driving us; based on the availability of cheap and fast computing and networking hardware, software is now a key factor in our private, public and professional lives. We expect the role for software to grow in the future:
 
 * Innovative products and services are becoming _software only_ or at least _software centric_: what is new will be written as source code;
