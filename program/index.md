@@ -8,7 +8,7 @@ published: true
 * [Eelco Visser](http://eelcovisser.org/) (TU Delft) - [A Language Designer's Workbench](./visser)
 * [Mark van den Brand](http://www.win.tue.nl/~mvdbrand/) (TU Eindhoven) - [Model Driven Engineering and Functional Safety](./vandenbrand)
 * [Patricia Lago](http://www.cs.vu.nl/~patricia/Patricia_Lago/Home.html) (VU) - [Software with Energy](./lago) 
-* [Paul Klint](http://homepages.cwi.nl/~paulk/) (CWI research fellow, UvA) - title and abstract to be announced
+* [Paul Klint](http://homepages.cwi.nl/~paulk/) (CWI research fellow, UvA) - [The Revenge of the Coroutines](./paulklint)
 * [Sjaak Brinkkemper](http://www.cs.uu.nl/staff/sjaak.html) (UU) - [Software Production: fundamental research for the software society.](./brinkkemper) - abstract to be announced
 * [Paris Avgeriou](http://www.cs.rug.nl/~paris/) (RUG) - [Technical Debt: looking for new solutions for an old problem](./avgeriou)
 * [Fahrad Arbab](http://homepages.cwi.nl/~farhad/) (CWI) - [Composition of Concurrency](./arbab) 	
