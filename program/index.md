@@ -5,6 +5,8 @@ published: true
 
 ### Program
 
+The program features 9 speakers who each have 30 minutes to demonstrate their vision on software engineering. Each session (except the final session) has two speakers and a 15 minute open discussion.
+
 <table class="table borderless nowrap"><thead>
 <tr>
 <th style="text-align: left">Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
