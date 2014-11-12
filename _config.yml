@@ -4,17 +4,20 @@ gems:
   - jekyll-sitemap
 
 markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
 safe: true
 lsi: false
-pygments: true
+highlighter: true
 
-name: Rascal - Meta Programming Language
-title: Rascal - Meta Programming Language
+name: SEN Symposium
+title: SEN Symposium
 
-production_url: http://rascal.landman.nl.eu.org/
+production_url: http://www.sen-symposium.nl
 
 exclude: ["README.md"]
 
-blogname: RascalMPL Blog 
-description: Rascal's blog.
-url: http://www.rascal-mpl.org/ 
+blogname: SEN Symposium Blog 
+description: SEN Symposium Blog.
+url: http://www.sen-symposium.nl
