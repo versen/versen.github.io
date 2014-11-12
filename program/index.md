@@ -91,7 +91,6 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 </tr>
 </tbody></table>
 
-_Each presentation slot is 30 minutes + 15 minutes questions and discussion on the future of software engineering._
 
 <!--
 | Time  | Speaker | Title |
