@@ -38,12 +38,11 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 </tr>
 <tr>
 <td style="text-align: left">11:00-12:15</td>
-<td style="text-align: left"><a href="http://homepages.cwi.nl/%7Efarhad/">Fahrad Arbab</a><br>
-<a href="http://www.win.tue.nl/%7Emvdbrand/">Mark van den Brand</a>
+<td style="text-align: left"><a href="http://wwwhome.ewi.utwente.nl/%7Evdpol/">Jaco van de Pol</a><br>
+<a href="http://www.cs.vu.nl/%7Epatricia/Patricia_Lago/Home.html">Patricia Lago</a>
 </td>
-<td style="text-align: left"><a href="./arbab">Composition of Concurrency</a><br>
-<a href="./vandenbrand">Model Driven Engineering and Functional Safety</a>
-</td>
+<td style="text-align: left"><a href="./vdpol">Power optimisation for multi-processor dataflow applications</a><br>
+<a href="./lago">Software with Energy</a>
 </tr>
 <tr>
 <td style="text-align: left">12:15-13:15</td>
@@ -67,11 +66,12 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 </tr>
 <tr>
 <td style="text-align: left">14:45-16:00</td>
-<td style="text-align: left"><a href="http://wwwhome.ewi.utwente.nl/%7Evdpol/">Jaco van de Pol</a><br>
-<a href="http://www.cs.vu.nl/%7Epatricia/Patricia_Lago/Home.html">Patricia Lago</a>
 </td>
-<td style="text-align: left"><a href="./vdpol">Power optimisation for multi-processor dataflow applications</a><br>
-<a href="./lago">Software with Energy</a>
+<td style="text-align: left"><a href="http://homepages.cwi.nl/%7Efarhad/">Fahrad Arbab</a><br>
+<a href="http://www.win.tue.nl/%7Emvdbrand/">Mark van den Brand</a>
+</td>
+<td style="text-align: left"><a href="./arbab">Composition of Concurrency</a><br>
+<a href="./vandenbrand">Model Driven Engineering and Functional Safety</a>
 </td>
 </tr>
 <tr>
