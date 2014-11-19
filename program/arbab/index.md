@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fahrad Arbab
+title: Farhad Arbab
 ---
 
 # Composition of Concurrency - Fahrad Arbab
