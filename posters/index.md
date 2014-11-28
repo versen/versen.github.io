@@ -20,7 +20,7 @@ GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots
 * Ulyana Tikhonova. Reusable Specification Patterns for Defining DSL Dynamic Semantics
 * Cigdem Aytekin and Tijs Van Der Storm.  "What Programmers Do With Inheritance in Java" - Replicated on Source Code
 * Vadim Zaytsev. Grammar Zoo
-* Vadim Zaytsev. Master Software Engineering
+* Magiel Bruntink, Vadim Zaytsev. Software Engineering Master Students Replicate (Your) Research.
 * Gabriël D.P. Konat, Guido H. Wachsmuth, Vlad A. Vergu, Danny M. Groenewegen and Eelco Visser. Declarative Specifcation and Incremental Execution of Name and Type Analysis
 * Steven te Brinke.  Interpreting Energy Profiles with CEGAR
 * Jos de Jong, Alex de Mulder, Giovanni Pazienza, Andries Stam, Ludo Stellingwerff and Rick van Krevelen. Software engineering for the Collective Human-Agent Paradigm 
