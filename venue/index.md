@@ -18,7 +18,8 @@ The street name ‘Science Park’ is in use since 2011 and is not yet implement
 * Turn left onto the Carolina MacGillavrylaan after passing through the railroad tunnel
 * Take the Science Park entry at your right and enter the gate Parking
 
-You can park your car at any parking lot after the gate. Follow the signs to number 123, our main entrance. Parking is paid after one hour. Please hold on to the card you receive when entering the gate, you will need it to leave the terrain.
+You can park your car at any parking lot after the gate. Follow the signs to number 123, our main entrance. Parking is paid after one hour but you can pick up a free exit card at the reception of the symposium in the morning. Please hold on to the card you receive when entering the gate _and_ the free exit card. You will need both to leave the terrain.
+
 
 ## How to reach CWI by public transport
 
