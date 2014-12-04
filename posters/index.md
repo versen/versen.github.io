@@ -26,7 +26,7 @@ GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots
 * Jos de Jong, Alex de Mulder, Giovanni Pazienza, Andries Stam, Ludo Stellingwerff and Rick van Krevelen. Software engineering for the Collective Human-Agent Paradigm 
 * Eric Bouwers and Joost Visser. The Open-Code Clinic - Software quality assessment in the classroom
 * [Waheed Ahmad, Robert de Groote, Philip Hölzenspies, Mariëlle Stoelinga and Jaco van de Pol. Smart Scheduling of Streaming Applications via Timed Automata](Ahmad.pdf)
-* Rick Smetsers and Paul Fiterau-Brostean. Active Learning of State Machines: Theory and Practice
+* [Rick Smetsers and Paul Fiterau-Brostean. Active Learning of State Machines: Theory and Practice](Smetsers.pdf)
 * Haiyun Xu and Joost Visser. Cyber Security: By accident or by design?
 * Magiel Bruntink. Towards Base Rates in Software Analytics
 * Michael Steindorfer and Jurgen Vinju.  Profiling Sharing Opportunities in Java
