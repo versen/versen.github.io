@@ -11,7 +11,7 @@ The SEN symposium sollicited for poster presentations by any researcher in softw
 
 The following posters will be presented:
 
-* Ella Roubtsova. Executable and Scalable Method for Requirements Engineering, Management and Evolution
+* [Ella Roubtsova. Executable and Scalable Method for Requirements Engineering, Management and Evolution](Roubtsova.pdf)
 * Daco Harkes and Eelco Visser. Relational Programming Languages
 * [Eelco Visser and Pierre Neron. A Language Designer's Workbench: A One-Stop-Shop for Implementation and Verification of Language Designs](PierreNeron.pdf)
 * Giuseppe Procaccianti, Patricia Lago, Antonio Vetro', Daniel Méndez Fernández and Roel Wieringa. 
@@ -23,7 +23,7 @@ GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots
 * Magiel Bruntink, Vadim Zaytsev. Software Engineering Master Students Replicate (Your) Research.
 * Gabriël D.P. Konat, Guido H. Wachsmuth, Vlad A. Vergu, Danny M. Groenewegen and Eelco Visser. Declarative Specifcation and Incremental Execution of Name and Type Analysis
 * [Steven te Brinke.  Interpreting Energy Profiles with CEGAR](Brinke.pdf)
-* Jos de Jong, Alex de Mulder, Giovanni Pazienza, Andries Stam, Ludo Stellingwerff and Rick van Krevelen. Software engineering for the Collective Human-Agent Paradigm 
+* [Jos de Jong, Alex de Mulder, Giovanni Pazienza, Andries Stam, Ludo Stellingwerff and Rick van Krevelen. Software engineering for the Collective Human-Agent Paradigm](Pazienza.pdf) 
 * Eric Bouwers and Joost Visser. The Open-Code Clinic - Software quality assessment in the classroom
 * [Waheed Ahmad, Robert de Groote, Philip Hölzenspies, Mariëlle Stoelinga and Jaco van de Pol. Smart Scheduling of Streaming Applications via Timed Automata](Ahmad.pdf)
 * [Rick Smetsers and Paul Fiterau-Brostean. Active Learning of State Machines: Theory and Practice](Smetsers.pdf)
