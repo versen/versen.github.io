@@ -39,6 +39,7 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 <td style="text-align: left">10:45-11:00</td>
 <td style="text-align: left"></td>
 <td style="text-align: left">Coffee break</td>
+<td style="text-align: left"></td>
 </tr>
 <tr>
 <td style="text-align: left">11:00-12:15</td>
@@ -53,6 +54,7 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 <td style="text-align: left">12:15-13:15</td>
 <td style="text-align: left"></td>
 <td style="text-align: left">Lunch</td>
+<td style="text-align: left"></td>
 </tr>
 <tr>
 <td style="text-align: left">13:15-14:30</td>
@@ -71,6 +73,7 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 <td style="text-align: left">14:30-14:45</td>
 <td style="text-align: left"></td>
 <td style="text-align: left">Coffee break</td>
+<td style="text-align: left"></td>
 </tr>
 <tr>
 <td style="text-align: left">14:45-16:00</td>
@@ -81,21 +84,25 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 <td style="text-align: left"><a href="./arbab">Composition of Concurrency</a><br>
 <a href="./vandenbrand">Model Driven Engineering and Functional Safety</a>
 </td>
+<td style="text-align: left"></td>
 </tr>
 <tr>
 <td style="text-align: left">16:00-16:15</td>
 <td style="text-align: left"></td>
 <td style="text-align: left">Coffee break</td>
+<td style="text-align: left"></td>
 </tr>
 <tr>
 <td style="text-align: left">16:15-17:00</td>
 <td style="text-align: left"><a href="http://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)">Erik Meijer</a></td>
 <td style="text-align: left"><a href="./meijer">Contravariance is the Dual of Covariance Implies Iterable is the Dual of Observable (Making Money Using Math)</a></td>
+<td style="text-align: left"></td>
 </tr>
 <tr>
 <td style="text-align: left">17:00-18:00</td>
 <td style="text-align: left"></td>
 <td style="text-align: left">Reception</td>
+<td style="text-align: left"></td>
 </tr>
 </tbody></table>
 
