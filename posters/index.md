@@ -22,7 +22,7 @@ GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots
 * Vadim Zaytsev. Grammar Zoo
 * Magiel Bruntink, Vadim Zaytsev. Software Engineering Master Students Replicate (Your) Research.
 * Gabriël D.P. Konat, Guido H. Wachsmuth, Vlad A. Vergu, Danny M. Groenewegen and Eelco Visser. Declarative Specifcation and Incremental Execution of Name and Type Analysis
-* Steven te Brinke.  Interpreting Energy Profiles with CEGAR
+* [Steven te Brinke.  Interpreting Energy Profiles with CEGAR](Brinke.pdf)
 * Jos de Jong, Alex de Mulder, Giovanni Pazienza, Andries Stam, Ludo Stellingwerff and Rick van Krevelen. Software engineering for the Collective Human-Agent Paradigm 
 * Eric Bouwers and Joost Visser. The Open-Code Clinic - Software quality assessment in the classroom
 * [Waheed Ahmad, Robert de Groote, Philip Hölzenspies, Mariëlle Stoelinga and Jaco van de Pol. Smart Scheduling of Streaming Applications via Timed Automata](Ahmad.pdf)
