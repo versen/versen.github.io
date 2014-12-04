@@ -12,17 +12,20 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 <th style="text-align: left">Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th style="text-align: left">Speaker</th>
 <th style="text-align: left">Title</th>
+<th style="text-align: left">Slides</th>
 </tr>
 </thead><tbody>
 <tr>
 <td style="text-align: left">08:30-09:15</td>
 <td style="text-align: left"></td>
 <td style="text-align: left">Doors open</td>
+<td></td>
 </tr>
 <tr>
 <td style="text-align: left">09:15-09:30</td>
 <td style="text-align: left">Jos Baeten, Frank de Boer, Jurgen Vinju</td>
 <td style="text-align: left">Welcome</td>
+<td style="text-align: left"><a href="Intro.pdf">pdf</a></td>
 </tr>
 <tr>
 <td style="text-align: left">09:30-10:45</td>
@@ -30,6 +33,7 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 <a href="http://www.cs.rug.nl/%7Eparis/">Paris Avgeriou</a></td>
 <td style="text-align: left"><a href="./paulklint">The Revenge of the Coroutines</a><br>
 <a href="./avgeriou">Technical Debt: looking for new solutions for an old problem</a></td>
+<td style="text-align: left"><a href="PaulKlint.pdf">pdf</a></td>
 </tr>
 <tr>
 <td style="text-align: left">10:45-11:00</td>
@@ -43,6 +47,7 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 </td>
 <td style="text-align: left"><a href="./vdpol">Power optimisation for multi-processor dataflow applications</a><br>
 <a href="./lago">Software with Energy</a>
+<td style="text-align: left"><br><a href="PatriciaLago.pdf">pdf</a></td>
 </tr>
 <tr>
 <td style="text-align: left">12:15-13:15</td>
@@ -58,6 +63,9 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 <td style="text-align: left"><a href="./visser">A Language Designer&#39;s Workbench</a><br>
 <a href="./brinkkemper">Software Production: fundamental research for the software society</a>
 </td>
+<td style="text-align: left">
+<a href=""http://eelcovisser.org/post/279">blog</a>
+<br><a href="SjaakBrinkkemper">pdf</a></td>
 </tr>
 <tr>
 <td style="text-align: left">14:30-14:45</td>
