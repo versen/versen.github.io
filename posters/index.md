@@ -30,5 +30,5 @@ GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots](Proca
 * Haiyun Xu and Joost Visser. Cyber Security: By accident or by design?
 * Magiel Bruntink. Towards Base Rates in Software Analytics
 * Michael Steindorfer and Jurgen Vinju.  Profiling Sharing Opportunities in Java
-* Fahimeh Alizadeh Moghaddam, Thomas Geenen, Patricia Lago and Paola Grosso. A user perspective on energy profiling tools in HPC environments 
+* [Fahimeh Alizadeh Moghaddam, Thomas Geenen, Patricia Lago and Paola Grosso. A user perspective on energy profiling tools in HPC environments](Alizadeh.pdf)
 
