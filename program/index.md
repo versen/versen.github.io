@@ -66,8 +66,8 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 <a href="./brinkkemper">Software Production: fundamental research for the software society</a>
 </td>
 <td style="text-align: left">
-<a href=""http://eelcovisser.org/post/279">blog</a>
-<br><a href="SjaakBrinkkemper">pdf</a></td>
+<a href="http://eelcovisser.org/post/279">blog</a>
+<br><a href="SjaakBrinkkemper.pdf">pdf</a></td>
 </tr>
 <tr>
 <td style="text-align: left">14:30-14:45</td>
