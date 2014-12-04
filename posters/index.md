@@ -14,8 +14,8 @@ The following posters will be presented:
 * [Ella Roubtsova. Executable and Scalable Method for Requirements Engineering, Management and Evolution](Roubtsova.pdf)
 * Daco Harkes and Eelco Visser. Relational Programming Languages
 * [Eelco Visser and Pierre Neron. A Language Designer's Workbench: A One-Stop-Shop for Implementation and Verification of Language Designs](PierreNeron.pdf)
-* Giuseppe Procaccianti, Patricia Lago, Antonio Vetro', Daniel Méndez Fernández and Roel Wieringa. 
-GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots
+* [Giuseppe Procaccianti, Patricia Lago, Antonio Vetro', Daniel Méndez Fernández and Roel Wieringa. 
+GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots](Procaccianti.pdf)
 * [Yaping Luo, Mark Van Den Brand and Luc Engelen. Using Model-Driven Engineering to Support Safety Assurance](YapingLuo.pdf)
 * Ulyana Tikhonova. Reusable Specification Patterns for Defining DSL Dynamic Semantics
 * Cigdem Aytekin and Tijs Van Der Storm.  "What Programmers Do With Inheritance in Java" - Replicated on Source Code
