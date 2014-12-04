@@ -33,7 +33,7 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 <a href="http://www.cs.rug.nl/%7Eparis/">Paris Avgeriou</a></td>
 <td style="text-align: left"><a href="./paulklint">The Revenge of the Coroutines</a><br>
 <a href="./avgeriou">Technical Debt: looking for new solutions for an old problem</a></td>
-<td style="text-align: left"><a href="PaulKlint.pdf">pdf</a></td>
+<td style="text-align: left"></td>
 </tr>
 <tr>
 <td style="text-align: left">10:45-11:00</td>
