@@ -107,40 +107,10 @@ The program features 9 speakers who each have 30 minutes to demonstrate their vi
 </tbody></table>
 
 
-<!--
-| Time  | Speaker | Title |
-|:-------|:------- |:----------| 
-| 08:30-09:15 |         | Doors open |
-| 09:15-09:30 | Jos Baeten, Frank de Boer, Jurgen Vinju | Welcome |
-| 09:30-10:45 | [Paul Klint](http://homepages.cwi.nl/~paulk/) | [The Revenge of the Coroutines](./paulklint) | 
-|             | [Paris Avgeriou](http://www.cs.rug.nl/~paris/) | [Technical Debt: looking for new solutions for an old problem](./avgeriou) |
-| 10:45-11:00 |         | Coffee break |
-| 11:00-12:15 | [Farhad Arbab](http://homepages.cwi.nl/~farhad/) | [Composition of Concurrency](./arbab) |
-|             | [Mark van den Brand](http://www.win.tue.nl/~mvdbrand/) | [Model Driven Engineering and Functional Safety](./vandenbrand) |
-| 12:15-13:15 |         | Lunch
-| 13:15-14:30 | [Eelco Visser](http://eelcovisser.org/) |  [A Language Designer's Workbench](./visser) |
-|             | [Sjaak Brinkkemper](http://www.cs.uu.nl/staff/sjaak.html) | [Software Production: fundamental research for the software society.](./brinkkemper) |
-| 14:30-14:45 |         | Coffee break |
-| 14:45-16:00 | [Jaco van de Pol](http://wwwhome.ewi.utwente.nl/~vdpol/) | [Power optimisation for multi-processor dataflow applications](./vdpol) |
-|             | [Patricia Lago](http://www.cs.vu.nl/~patricia/Patricia_Lago/Home.html) | [Software with Energy](./lago) |
-| 16:00-16:15 |         | Coffee break |
-| 16:15-17:00 | [Erik Meijer](http://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)) | [Contravariance is the Dual of Covariance Implies Iterable is the Dual of Observable (Making Money Using Math)](./meijer) | 
-| 17:00-18:00 | | Reception |
- 
-
-* [Eelco Visser](http://eelcovisser.org/) (TU Delft) - [A Language Designer's Workbench](./visser)
-* [Mark van den Brand](http://www.win.tue.nl/~mvdbrand/) (TU Eindhoven) - [Model Driven Engineering and Functional Safety](./vandenbrand)
-* [Patricia Lago](http://www.cs.vu.nl/~patricia/Patricia_Lago/Home.html) (VU) - [Software with Energy](./lago) 
-* [Paul Klint](http://homepages.cwi.nl/~paulk/) (CWI research fellow, UvA) - [The Revenge of the Coroutines](./paulklint)
-* [Sjaak Brinkkemper](http://www.cs.uu.nl/staff/sjaak.html) (UU) - [Software Production: fundamental research for the software society.](./brinkkemper) - abstract to be announced
-* [Paris Avgeriou](http://www.cs.rug.nl/~paris/) (RUG) - [Technical Debt: looking for new solutions for an old problem](./avgeriou)
-* [Fahrad Arbab](http://homepages.cwi.nl/~farhad/) (CWI) - [Composition of Concurrency](./arbab) 	
-* [Erik Meijer](http://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)) (TU Delft) - [Contravariance is the Dual of Covariance Implies Iterable is the Dual of Observable (Making Money Using Math)](./meijer)
-* [Jaco van de Pol](http://wwwhome.ewi.utwente.nl/~vdpol/) (UTwente) - [Power optimisation for multi-processor dataflow applications](./vdpol)
--->
-
 ### Posters
 
 The program features posters which [posters](../posters/) are presented during coffee breaks, lunch and the reception, by junior and senior researchers
-who are active in the field of software engineering in The Netherlands. Please [submit](../posters/) your poster 
-proposal before the deadline.
+who are active in the field of software engineering in The Netherlands. 
+
+<!--Please [submit](../posters/) your poster 
+proposal before the deadline. -->
