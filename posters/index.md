@@ -9,7 +9,7 @@ The SEN symposium sollicited for poster presentations by any researcher in softw
 
 <!--Please submit your proposals via <https://easychair.org/conferences/?conf=sen2014> before the deadline of November 15th, 2014.-->
 
-The following posters will be presented:
+The following posters have been presented on December 3rd, 2014:
 
 * [Ella Roubtsova. Executable and Scalable Method for Requirements Engineering, Management and Evolution](Roubtsova.pdf)
 * Daco Harkes and Eelco Visser. Relational Programming Languages
