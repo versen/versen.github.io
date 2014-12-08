@@ -18,7 +18,7 @@ The following posters have been presented on December 3rd, 2014:
 GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots](Procaccianti.pdf)
 * [Yaping Luo, Mark Van Den Brand and Luc Engelen. Using Model-Driven Engineering to Support Safety Assurance](YapingLuo.pdf)
 * Ulyana Tikhonova. Reusable Specification Patterns for Defining DSL Dynamic Semantics
-* Cigdem Aytekin and Tijs Van Der Storm.  "What Programmers Do With Inheritance in Java" - Replicated on Source Code
+* [Cigdem Aytekin and Tijs Van Der Storm.  "What Programmers Do With Inheritance in Java" - Replicated on Source Code](Cigdem.pdf)
 * [Vadim Zaytsev. Grammar Zoo](GrammarwareZoo.pdf)
 * [Magiel Bruntink, Vadim Zaytsev. Software Engineering Master Students Replicate (Your) Research.](GrammarwareSattose.pdf)
 * Gabriël D.P. Konat, Guido H. Wachsmuth, Vlad A. Vergu, Danny M. Groenewegen and Eelco Visser. Declarative Specifcation and Incremental Execution of Name and Type Analysis
