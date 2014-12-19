@@ -21,7 +21,7 @@ GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots](Proca
 * [Cigdem Aytekin and Tijs Van Der Storm.  "What Programmers Do With Inheritance in Java" - Replicated on Source Code](Cigdem.pdf)
 * [Vadim Zaytsev. Grammar Zoo](GrammarwareZoo.pdf)
 * [Magiel Bruntink, Vadim Zaytsev. Software Engineering Master Students Replicate (Your) Research.](GrammarwareSattose.pdf)
-* Gabriël D.P. Konat, Guido H. Wachsmuth, Vlad A. Vergu, Danny M. Groenewegen and Eelco Visser. Declarative Specifcation and Incremental Execution of Name and Type Analysis
+* [Gabriël D.P. Konat, Guido H. Wachsmuth, Vlad A. Vergu, Danny M. Groenewegen and Eelco Visser. Declarative Specifcation and Incremental Execution of Name and Type Analysis](Konat.pdf)
 * [Steven te Brinke.  Interpreting Energy Profiles with CEGAR](Brinke.pdf)
 * [Jos de Jong, Alex de Mulder, Giovanni Pazienza, Andries Stam, Ludo Stellingwerff and Rick van Krevelen. Software engineering for the Collective Human-Agent Paradigm](Pazienza.pdf) 
 * [Eric Bouwers and Joost Visser. The Open-Code Clinic - Software quality assessment in the classroom](BouwersClinic.pdf)
