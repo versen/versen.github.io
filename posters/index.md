@@ -29,6 +29,6 @@ GREENSWEEP: Guided Recognition and EvaluatioN of SoftWare Energy hotsPots](Proca
 * [Rick Smetsers and Paul Fiterau-Brostean. Active Learning of State Machines: Theory and Practice](Smetsers.pdf)
 * [Haiyun Xu and Joost Visser. Cyber Security: By accident or by design?](BouwersSecurity.pdf)
 * Magiel Bruntink. Towards Base Rates in Software Analytics
-* Michael Steindorfer and Jurgen Vinju.  Profiling Sharing Opportunities in Java
+* [Michael Steindorfer and Jurgen Vinju.  Profiling Sharing Opportunities in Java](Steindorfer.pdf)
 * [Fahimeh Alizadeh Moghaddam, Thomas Geenen, Patricia Lago and Paola Grosso. A user perspective on energy profiling tools in HPC environments](Alizadeh.pdf)
 
