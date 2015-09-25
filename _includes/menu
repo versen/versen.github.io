@@ -2,24 +2,16 @@
 {% assign link="/" %}
 {% include menu_item %}
 
-{% assign title="Program" %}
-{% assign link="/program/" %}
+{% assign title="Symposium" %}
+{% assign link="http://www.sen-symposium.nl" %}
 {% include menu_item %}
 
-{% assign title="Registration" %}
-{% assign link="/registration/" %}
+{% assign title="Contact" %}
+{% assign link="/contact/" %}
 {% include menu_item %}
 
-{% assign title="Posters" %}
-{% assign link="/posters/" %}
-{% include menu_item %}
-
-{% assign title="Venue" %}
-{% assign link="/venue/" %}
-{% include menu_item %}
-
-{% assign title="History" %}
-{% assign link="/history/" %}
+{% assign title="WhoIsWho" %}
+{% assign link="/directory/" %}
 {% include menu_item %}
 
 {% assign title="About" %}
