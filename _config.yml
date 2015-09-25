@@ -9,7 +9,6 @@ redcarpet:
 
 safe: true
 lsi: false
-highlighter: true
 
 name: SEN Symposium
 title: SEN Symposium
