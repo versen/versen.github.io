@@ -7,3 +7,4 @@ The first Dutch national symposium on software engineering (SEN) was held on Dec
 
 * [posters](./2014/posters/)
 * [program](./2014/program)
+* [2014 twitter stream](https://twitter.com/search?q=%23sensym2014&src=typd)
