@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-# Call for posters
+# Poster session 2014
 
 The SEN symposium sollicited for poster presentations by any researcher in software engineering who is posted in The Netherlands. The deadline was November 15th, 2014.
 

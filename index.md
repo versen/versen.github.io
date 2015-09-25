@@ -3,9 +3,7 @@ layout: front
 ---
 
 <p class="lead"> 
-The first Dutch national symposium on software engineering (SEN) was held on December 3rd, 2014 in Amsterdam. The day was appreciated by the participants and there will be another SEN symposium in 2015.
+The second Dutch national symposium on software engineering (SEN) will be held on January 23rd, 2016 in Amsterdam. After the success of the SEN Symposium of 2014 we cordially invite you to the second edition. At this conference we bring together the research community for software engineering. The theme for 2015 is “Foundations of Software Engineering”. There will be a young talent section, a poster session, and senior visionaries in the software engineering domain.
 
-The first symposium in 2014 presented leading researchers in the field of software engineering and provided
-an opportunity for students, researchers and engineers to interact. The topic of the day was "the future of software engineering". <a href="/program/Intro.pdf">Read more about the symposium</a> <!--, or <a href="./posters/index.html">submit a poster</a> and <a href="./registration/index.html">register for free participation. --><!-- if you register before November 15th.</a>-->.
-
+<!--<a href="./posters/index.html">submit a poster</a> and <a href="./registration/index.html">register for free participation. --><!-- if you register before December 31th 2015.</a>-->
 </p>
