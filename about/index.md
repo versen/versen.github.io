@@ -19,14 +19,17 @@ The Netherlands has a great _international reputation_ in the field of Software 
 * VERSEN organizes [the yearly SEN symposium](http://www.sen-symposium.nl)
 * We meet once or twice a year to evaluate past actions and make plans for the future.
 
-### Meetings
+### Project groups
 
-* The next meeting for VERSEN is the SEN Symposium.
-* The next board meeting is on _to be announced_ at CWI in Amsterdam.
+| Project | Start date | End date | People |
+|------| --------   | -------  | -----  |
+| SEN Symposium 2016 | tba | tba | tba |
+| Manifesto | tba | tba | tba |
+| VERSEN Website | tba | tba | tba | 
 
-### Board members
+### Members
 
-To be announced.
+The current board members and members are listed [here](../directory/members.html).
 
 ### Statuten
 
