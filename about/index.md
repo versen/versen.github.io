@@ -6,7 +6,7 @@ published: true
 
 ## About VERSEN
 
-VERSEN is a new Dutch national association for Software Engineering. It is currently being formed. The *mission of the VERSEN association* is to bring together researchers and practitioners in the field of software engineering, in The Netherlands and abroad, who share the common goals of advancing the field of software engineering, raising public awareness of the challenges and opportunities of the field, acquiring funding for groundbreaking research, and transferring academic results to broader society.
+VERSEN is a new Dutch national association for Software Engineering. It is currently being formed. The *mission of the VERSEN association* is to bring together researchers and practitioners in the field of software engineering in The Netherlands, who share the common goals of advancing the field of software engineering, raising public awareness of the challenges and opportunities of the field, acquiring funding for groundbreaking research, and transferring academic results to broader society.
 
 The Netherlands has a great _international reputation_ in the field of Software Engineering which stems both from the early and continued achievements in Computer Science and Software Engineering _research_ as well as the early adoption and continued leadership in _industry_ (administrative systems, high-tech, creative industry). 
 

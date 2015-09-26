@@ -19,6 +19,8 @@ Science Park 123
 ```
 
 * Or send email to:
-   * [secretary@versen.nl](mailto:secretary@versen.nl) to contact the secretary of VERSEN.
+   * [secretary@versen.nl](mailto:secretary@versen.nl) to contact the secretary of VERSEN:
+      * [Become a member](mailto:secretary@versen.nl?subject="VERSEN membership")
+      * [Website feedback](mailto:secretary@versen.nl?subject="VERSEN website feedback")
    * [board@versen.nl](mailto:board@versen.nl) to reach all board members at once.
    * [info@versen.nl](mailto:info@versen.nl) for general questions (an appropriate board member will be matched to your question)

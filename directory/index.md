@@ -8,17 +8,20 @@ _under construction_
 
 ## Who is who in Software Engineering in The Netherlands?
 
-This page serves as an access portal to what is happening and who is active in the field of software engineering. If your group, club, company or institute is not on this page or not linked well please [contact us](../contact) or send a [pull request](http://www.versen.nl/contact/pullrequest.html).
+This page serves as an access portal to what is happening and who is active in the field of software engineering in The Netherlands. If your group, club, event, company or institute is not on this page or not linked well please [contact us](../contact) or send a [pull request](http://www.versen.nl/contact/pullrequest.html).
 
 TODO: put all this on a google map.
 
-### Upcoming meetings and conferences in The Netherlands
+### Upcoming events
 
 * SPLASH 2016
+* Yearly meeting of the NWO special interest group Software Engineering
 * [SEN Symposium (January 21st, 2016)](http://www.sen-symposium.nl)
 * ETAPS 2016 (add details)
 * Goto Amsterdam
 * Devnology meetings
+* Spider events
+* ??? conferences 2018
 
 ### Research groups
 
@@ -38,6 +41,10 @@ TODO: put all this on a google map.
 * Universiteit Wageningen, Bedir Tekinerdogan
 * TNO ESI 
 
+### Members
+
+VERSEN [members](members.html) are listed [here](members.html).
+
 ### Related national research schools
 
 * IPA
@@ -45,12 +52,13 @@ TODO: put all this on a google map.
 * SIKS
 * NBIC (Bio Informatica)
 
-### Professional associations
+### Professional organizations
 
 * Informatica Platform Nederland (IPN)
 * Spider
 * Devnology
 * NWO Special Interest Group Software Engineering
+* BIT
 
 ### Education
 
@@ -64,9 +72,10 @@ TODO: put all this on a google map.
    * Fonteys Eindhoven - 
    * Hogeschool Zuid
 
-### Software services industry
+### Software products & services industry
 
 * Software Improvement Group
+* AFAS
 * PinkRoccade
 * CapGemini
 * Ordina
@@ -78,8 +87,11 @@ TODO: put all this on a google map.
 * Logica
 * InfoSupport
 * Tiobe
+* Vtech
+* Finalist
+* KPMG
 
-### In-house software producers
+### Notable in-house software producers
 
 * ING Nederland
 * ABN-AMRO
@@ -89,12 +101,17 @@ TODO: put all this on a google map.
 * Philips Lighting
 * AimValley
 * Booking.com
+* NXP
+* Shell
+* Schiphol
+* ProRail
+* Port of Rotterdam
+* Defensie
+* Politie Nederland
+* Rijkswaterstaat 
+* Belastingdienst
+* PWC
 
-### Software related government bodies
-
-* BIT
-* NWO
-* KNAW
 
 ### Software related press
 
