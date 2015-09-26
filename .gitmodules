@@ -1,3 +1,0 @@
-[submodule "conferences"]
-	path = conferences
-	url = https://github.com/cwi-swat/conferencetracker.git
