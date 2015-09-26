@@ -4,21 +4,18 @@ title: About
 published: true
 ---
 
-## About SEN Symposium
+## About VERSEN
 
-This is the national symposium for Dutch researchers in the field of _Software Engineering_. The goal is to provide a yearly forum bringing all of us researchers in this broad field together and reinforcing our network.  The symposium is focused on the  exchange of research results and to address new research directions, related to the societal challenges we are addressing.
+VERSEN is a new Dutch national association for Software Engineering. It is currently being formed. The *mission of the VERSEN association* is to bring together researchers and practitioners in the field of software engineering, in The Netherlands and abroad, who share the common goals of advancing the field of software engineering, raising public awareness of the challenges and opportunities of the field, acquiring funding for groundbreaking research, and transferring academic results to broader society.
 
 ### Organization
 
-<img style="float: none;" src="https://www.cwi.nl/sites/all/themes/newCWI/logo.png"/>
+* VERSEN is an informal and flat organization with a relatively large board and a large group of members. It is a club of people from different institutes, universities, companies and other organizations, who share a common enthusiasm for the field of software engineering and the drive to improve it. 
+* CWI (Centrum Wiskunde \& Informatica) is the administrative home of VERSEN.
+* VERSEN organizes [the yearly SEN symposium](http://www.sen-symposium.nl)
+* We meet once or twice a year to evaluate past actions and make plans for the future.
 
-The next SEN symposium is organized by [Centrum Wiskunde & Informatica (CWI)](http://www.cwi.nl) in collaboration with Universiteit Utrecht. CWI is the national research institute for mathematics and computer science in the Netherlands and is an institute of the Netherlands Organisation for Scientific Research ([NWO](http://www.nwo.nl)).
+#### Board members
 
-_Team_
-
-* Frank de Boer
-* Jurgen Vinju
-* Slinger Jansen
-* Sjaak Brinkkemper
-* Susanne van Dam
+To be announced.
 
