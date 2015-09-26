@@ -8,7 +8,7 @@ _under construction_
 
 ## Who is who in Software Engineering in The Netherlands?
 
-This page serves as an access portal to what is happening and who is active in the field of software engineering. If your group, club, company or institute is not on this page or not linked well please [contact us](http://www.versen.nl/contact) or send a [pull request](http://www.versen.nl/contact/pullrequest.html).
+This page serves as an access portal to what is happening and who is active in the field of software engineering. If your group, club, company or institute is not on this page or not linked well please [contact us](../contact) or send a [pull request](http://www.versen.nl/contact/pullrequest.html).
 
 TODO: put all this on a google map.
 
@@ -17,6 +17,8 @@ TODO: put all this on a google map.
 * SPLASH 2016
 * [SEN Symposium (January 21st, 2016)](http://www.sen-symposium.nl)
 * ETAPS 2016 (add details)
+* Goto Amsterdam
+* Devnology meetings
 
 ### Research groups
 
@@ -36,17 +38,19 @@ TODO: put all this on a google map.
 * Universiteit Wageningen, Bedir Tekinerdogan
 * TNO ESI 
 
-### Research schools
+### Related national research schools
 
 * IPA
 * ASCI
 * SIKS
+* NBIC (Bio Informatica)
 
 ### Professional associations
 
 * Informatica Platform Nederland (IPN)
 * Spider
 * Devnology
+* NWO Special Interest Group Software Engineering
 
 ### Education
 
@@ -57,7 +61,8 @@ TODO: put all this on a google map.
    * Universiteit Utrecht
 * Bachelor schools
    * Hogeschool van Amsterdam -
-   * Fonteys Eindhovenn - 
+   * Fonteys Eindhoven - 
+   * Hogeschool Zuid
 
 ### Software services industry
 
@@ -70,9 +75,11 @@ TODO: put all this on a google map.
 * Chess-IT
 * NSPYRE
 * Lost boyz
-* 
+* Logica
+* InfoSupport
+* Tiobe
 
-### "in-house" software producers
+### In-house software producers
 
 * ING Nederland
 * ABN-AMRO
@@ -81,29 +88,27 @@ TODO: put all this on a google map.
 * Bol.com
 * Philips Lighting
 * AimValley
+* Booking.com
 
-### Related government bodies
+### Software related government bodies
 
 * BIT
+* NWO
+* KNAW
 
-### International Conferences
+### Software related press
 
-See also (link website here)
-
-* International Conference on Software Engineerig (ICSE)
-* SPLASH/OOPSLA
-* European Conference on Object-Oriented Programming (ECOOP)
-* International Conference on Programmig Languages Design and Implementation (PLDI)
-* International Conference on Software Maintenance and Evolution (ICSME)
-* International Working Conference on Source Code Analysis and Manipulation (SCAM)
-* International Conference on Principle of Programming Languages (POPL)
-* Formal Methods (FM)
-* Fundamental Aspects of Software Engineering (FASE)
-* European Symposium on Object-oriented Programming (ESOP)
-* International Conference on Software Language Engineering (SLE)
-* SANER
+* Bits & Chips
+* Automateringsgids
+* Kennis van NU
 
 ### Past conferences in The Netherlands
 
 * ICSME 2013
 * SCAM 2013
+* Scratch2015
+* GOTOAms
+* Scaladays 2015
+* Bits&Chips Software 2015
+* Turing Exhibition
+
