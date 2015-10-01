@@ -60,6 +60,7 @@ VERSEN [members](members.html) are listed [here](members.html).
 * NWO Special Interest Group Software Engineering
 * BIT
 
+<!--
 ### Education
 
 * Master schools
@@ -129,3 +130,4 @@ VERSEN [members](members.html) are listed [here](members.html).
 * Bits&Chips Software 2015
 * Turing Exhibition
 
+-->
