@@ -17,6 +17,6 @@ production_url: http://www.versen.nl
 
 exclude: ["README.md"]
 
-blogname: SEN Symposium Blog 
-description: SEN Symposium Blog.
-url: http://www.sen-symposium.nl
+blogname: VERSEN Blog 
+description: VERSEN Blog
+url: http://www.versen.nl
