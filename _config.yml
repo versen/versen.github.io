@@ -10,10 +10,10 @@ redcarpet:
 safe: true
 lsi: false
 
-name: SEN Symposium
-title: SEN Symposium
+name: VERSEN
+title: VERSEN
 
-production_url: http://www.sen-symposium.nl
+production_url: http://www.versen.nl
 
 exclude: ["README.md"]
 
