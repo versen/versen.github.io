@@ -10,18 +10,17 @@ _under construction_
 
 This page serves as an access portal to what is happening and who is active in the field of software engineering in The Netherlands. If your group, club, event, company or institute is not on this page or not linked well please [contact us](../contact) or send a [pull request](http://www.versen.nl/contact/pullrequest.html).
 
-TODO: put all this on a google map.
-
 ### Upcoming events
 
 * SPLASH 2016
 * Yearly meeting of the NWO special interest group Software Engineering
 * [SEN Symposium (January 21st, 2016)](http://www.sen-symposium.nl)
-* ETAPS 2016 (add details)
+* ETAPS 2016
 * Goto Amsterdam
 * Devnology meetings
 * Spider events
-* ??? conferences 2018
+* ECOOP 2018
+* ISSTA 2018
 
 ### Research groups and professors
 
