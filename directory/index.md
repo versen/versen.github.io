@@ -23,23 +23,21 @@ TODO: put all this on a google map.
 * Spider events
 * ??? conferences 2018
 
-### Research groups
+### Research groups and professors
 
-* Centrum Wiskunde & Informatica (CWI), Software Analysis & Transformation (SWAT), Jurgen Vinju, Paul Klint
-* Centrum Wiskunde & Informatica (CWI), Formal Methods (FM), Frank de Boer, Farhad Arbab
-* TU Delft, Software Engineering Research Lab (SWERL), Arie van Deursen, Eelco Visser, Erik Meijer
-* TU Eindhoven, Model Driven Software Engieering (MDSE), Jan Friso Groote, Mark van den Brand
-* Universiteit Utrecht, ..., Sjaak Brinkkemper
-* Universiteit Groningen, Paris Avgeriou
-* Vrije Universiteit (VU), Patrica Lago
-* Vrije Universiteit (VU), Chris Verhoef
-* Universiteit Nijmegen, Frits Vaandrager, Joost Visser
-* Universiteit Twente, Arend Rensink
-* Universiteit Twente, Jaco van de Pol
-* Universiteit Twente, Roel Wieringa
-* Universiteit Twente, Marieke Huisman
-* Universiteit Wageningen, Bedir Tekinerdogan
-* TNO ESI 
+* Centrum Wiskunde & Informatica (CWI), Software Analysis & Transformation, Jurgen Vinju, Paul Klint
+* Centrum Wiskunde & Informatica (CWI), Formal Methods, Frank de Boer, Farhad Arbab
+* Open Universiteit, Software Technology, Marko van Eekelen
+* TU Delft, Software Engineering Research Group, Arie van Deursen, Eelco Visser, Erik Meijer
+* TU Eindhoven, Formal Systems Analysis, Jan Friso Groote
+* TU Eindhoven, Software Engineering and Technology, Mark van den Brand
+* Universiteit Utrecht, Software Systems, Sjaak Brinkkemper 
+* Universiteit Groningen, Software Engineering and Architecture, Paris Avgeriou
+* Vrije Universiteit (VU), Software and Services, Patrica Lago
+* Universiteit Nijmegen, Model Based System Development, Frits Vaandrager, Joost Visser
+* Universiteit Twente, Formal Methods and Tools, Jaco van de Pol, Arend Rensink, Marieke Huisman
+* Universiteit Twente, Services Cybersecurity and Safety, Roel Wieringa
+* Universiteit Wageningen, Information Technology, Bedir Tekinerdogan
 
 ### Members
 
