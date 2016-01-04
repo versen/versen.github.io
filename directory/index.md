@@ -33,7 +33,7 @@ This page serves as an access portal to what is happening and who is active in t
 * Universiteit Utrecht, Software Systems, Sjaak Brinkkemper 
 * Universiteit Groningen, Software Engineering and Architecture, Paris Avgeriou
 * Vrije Universiteit (VU), Software and Services, Patrica Lago
-* Universiteit Nijmegen, Model Based System Development, Frits Vaandrager, Joost Visser
+* Universiteit Nijmegen, Model Based System Development, Frits Vaandrager, Joost Visser, Jozef Hooman
 * Universiteit Twente, Formal Methods and Tools, Jaco van de Pol, Arend Rensink, Marieke Huisman
 * Universiteit Twente, Services Cybersecurity and Safety, Roel Wieringa
 * Universiteit Wageningen, Information Technology, Bedir Tekinerdogan
