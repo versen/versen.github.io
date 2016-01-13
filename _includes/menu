@@ -6,6 +6,10 @@
 {% assign link="http://www.sen-symposium.nl" %}
 {% include menu_item %}
 
+{% assign title="Membership" %}
+{% assign link="/register/" %}
+{% include menu_item %}
+
 {% assign title="Contact" %}
 {% assign link="/contact/" %}
 {% include menu_item %}
