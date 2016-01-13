@@ -8,10 +8,35 @@ _under construction_
 
 ## Board members
 
-* Chairman
-* Secretary
-* Finance chair
-* Symposium chair
+* (Chairman) TBA
+* (Secretary) TBA
+* (Finance chair) TBA
+
+* Arend Rensink
+* Arie van Deursen
+* Bedir Tekinerdogan
+* Eelco Visser
+* Erik Meijer
+* Frank de Boer
+* Frits Vaandrager
+* Farhad Arbab
+* Frank de Boer
+* Jaco van de Pol
+* Jan Friso Groote
+* Joost Visser
+* Johan Jeuring
+* Jozef Hooman
+* Jurgen Vinju
+* Mehmet Aksit
+* Mark van den Brand
+* Marieke Huisman
+* Marko van Eekelen
+* Paris Avgeriou
+* Paul Klint
+* Patricia Lago
+* Roel Wieringa
+* Sjaak Brinkkemper
+* Tanja Vos
 
 ## Members
 
