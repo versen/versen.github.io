@@ -27,10 +27,11 @@ _under construction_
 * Johan Jeuring
 * Jozef Hooman
 * Jurgen Vinju
-* Mehmet Aksit
 * Mark van den Brand
 * Marieke Huisman
 * Marko van Eekelen
+* Mehmet Aksit
+* Mike Papazoglou
 * Paris Avgeriou
 * Paul Klint
 * Patricia Lago

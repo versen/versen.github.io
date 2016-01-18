@@ -37,6 +37,7 @@ This page serves as an access portal to what is happening and who is active in t
 * Universiteit Twente, Formal Methods and Tools, Jaco van de Pol, Arend Rensink, Marieke Huisman
 * Universiteit Twente, Services Cybersecurity and Safety, Roel Wieringa
 * Universiteit Wageningen, Information Technology, Bedir Tekinerdogan
+* Universiteit Tilburg, Computer Science, Mike Papazoglou
 
 ### Members
 
