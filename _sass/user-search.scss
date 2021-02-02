@@ -1,0 +1,131 @@
+.search-container {
+  font-size: 0;
+  letter-spacing: 0;
+  width: 100%;
+  .search-form {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 1rem;
+    input[type=text] {
+      font-size: 1.1rem;
+      padding: 0.5rem 1rem;
+      margin-right: 1rem;
+    }
+    input[type=submit] {
+      @include button;
+      font-size: 1.1rem;
+      padding: 0.5rem 1rem;
+    }
+    .member-search__form-row.user-group-ids {
+      display: none;
+    }
+  }
+
+  .pagination {
+    font-size: 1rem;
+    display: block;
+    text-align: center;
+    span a {
+      display: inline-block;
+      margin: 0 0.25rem;
+      border-radius: 0.5rem;
+      padding: 0.25rem 0.75rem;
+      text-align: center;
+      border: 1px solid lighten($primary, 40%);
+      &:hover {
+        background: lighten($primary, 40%);
+      }
+    }
+    span.current {
+      display: inline-block;
+      margin: 0 0.5rem;
+      border-radius: 0.5rem;
+      padding: 0.25rem 0.75rem;
+      text-align: center;
+      background: $primary;
+      color: white;
+    }
+  }
+
+  .search-results {
+    width: 100%;
+    display: inline-block;
+    .result-group {
+      margin-bottom: 1rem;
+    }
+    .result {
+      margin: 1rem 0;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid $primary;
+      &:last-child {
+        border-bottom: 0;
+      }
+      .image {
+        vertical-align: top;
+        display: inline-block;
+        width: 13%;
+        margin-right: 2%;
+        img {
+          width: 100%;
+        }
+      }
+      .description {
+        font-size: 1rem;
+        vertical-align: top;
+        display: inline-block;
+        width: 85%;
+        .title {
+          font-size: 1.1rem;
+        }
+        .highlights {
+          font-size: 0.9rem;
+          em {
+            font-weight: bold;
+            font-style: normal;
+            color: $primary;
+          }
+        }
+      }
+    }
+  }
+}
+
+.member-search__form-row {
+  margin: 0.5rem 0;
+  .member-search__form-label, .member-search__form-field {
+    display: inline-block;
+    vertical-align: top;
+    width: 47%;
+    margin-right: 1%;
+    select, input {
+      font-size: 1rem;
+      width: 100%;
+      padding: 0.5rem;
+      border: 1px solid lightgrey;
+    }
+    input {
+      width: calc(100% - 2rem);
+      box-sizing: content-box;
+    }
+  }
+  .member-search__form-remove {
+    display: inline-block;
+    vertical-align: top;
+    width: 4%;
+    font-size: 1rem;
+    a {
+      @include button;
+      padding: 0.5rem 1rem;
+      text-decoration: none;
+    }
+  }
+}
+
+a.add_field {
+  @include button;
+  color: black;
+  background: #eee;
+  font-size: 1rem;
+  margin-right: 1rem;
+  padding: 0.5rem 1rem;
+}

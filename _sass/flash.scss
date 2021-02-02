@@ -1,0 +1,21 @@
+#flash {
+  .flash {
+    padding: 1rem;
+    text-align: center;
+    background: #eee;
+    color: white;
+    font-weight: bold;
+
+    &.recaptcha_error {
+      display: none;
+    }
+
+    &.error, &.alert {
+      background: #f12332;
+    }
+
+    &.notice {
+      background: #7ed800;
+    }
+  }
+}

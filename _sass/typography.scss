@@ -1,0 +1,48 @@
+h1 {
+  padding-top: 1rem;
+  font-weight: 900;
+  font-size: 2.0rem;
+  line-height: 3.0rem;
+  color: #0D43F2;
+}
+
+h2 {
+	padding-top: 0.75rem;
+	font-weight: 700;
+	font-size: 1.5rem;
+	line-height: 2.38rem;
+	color: #0D43F2;
+}
+
+h3 {
+	padding-top: 0.5rem;
+	font-weight: 700;
+	font-size: 1.2rem;
+	line-height: 1.8rem;
+	color: #0D43F2;
+}
+
+strong {
+	padding-top: 0.5rem;
+	font-weight: 700;
+	color: #0D43F2;
+}
+
+.button {
+	font-weight: bold;
+	display: inline-block;
+	border: 2px solid #0D43F2;
+	border-radius: 24px;
+	height: 40px;
+	padding-top: 6px;
+	min-width: 160px;
+	text-align: center;
+	color: #0D43F2 !important;
+	background-color: rgba(13, 67, 242, 0);
+	-webkit-transition: background .2s ease-out;
+	-moz-transition: background .2s ease-out;
+	-o-transition: background .2s ease-out;
+	transition: background .2s ease-out;
+	text-transform: uppercase;
+	text-decoration: none;
+}

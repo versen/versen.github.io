@@ -1,0 +1,36 @@
+form.formtastic legend span {
+	padding-top: 8px;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 28px;
+	color: #0D43F2;
+	text-decoration: none;
+	border: 0;
+}
+
+form.formtastic legend label {
+  font-size: 16px;
+  color: #777;
+}
+
+form.formtastic fieldset > ol > li.string input, form.formtastic fieldset > ol > li.text textarea {
+	width: 100%;
+	max-width: 700px;
+	border: 2px solid #0D43F2;
+	border-radius: 5px;
+	margin-bottom: 16px;
+	padding: 4px 8px;
+}
+
+form.formtastic fieldset > ol > li > label {
+  width: 100%;
+}
+
+form.formtastic fieldset > ol > li.checkbox label {
+  padding-left: 0;
+  width: auto;
+}
+
+.inline-hints {
+  display: none;
+}
