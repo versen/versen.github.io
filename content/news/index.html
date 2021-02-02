@@ -1,0 +1,46 @@
+---
+layout: content
+permalink: /news_items
+pagination:
+  enabled: true
+  per_page: 5
+  sort_reverse: true
+  collection: news
+---
+
+{% for news in paginator.posts %}
+
+<div class="row my-2">
+    <div class="col-3">
+    	{% if news.picture == "" %}
+    	<img src="/assets/img/news/default.png" class="w-100">
+    	{% else %}
+    	<img src="/assets/img/news/{{ news.picture }}" class="w-100">
+    	{% endif %}
+    </div>
+    <div class="col-9">
+    	<h3><a href="{{ news.url }}">{{ news.title }}</a></h3>
+    	<p>{{ news.date  | date: "%d-%b-%Y" }}</p>
+    	<p>{{ news.content | strip_html | slice: 0, 500 }}...</p>
+    </div>
+</div>
+
+{% endfor %}
+
+
+<!-- pagination -->
+{% if paginator.total_pages > 1 %}
+  {% if paginator.previous_page %}
+  [
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  ]
+  {% endif %}
+  {% if paginator.next_page %}
+  [
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  ]
+  {% endif %}
+{% endif %}
+
+
+
