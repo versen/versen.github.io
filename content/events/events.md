@@ -12,7 +12,6 @@ permalink: /contents/events
 
 ### Past VERSEN Events
 
-*   [ICT Open VERSEN Track](https://www.ictopen.nl/programme2020) (detailed VERSEN programme will be made public on the ICT open web site, [preliminary speakers announced here](https://www.ictopen.nl/softwareengineeringtechnologyversen)) (Cancelled, due to Covid-19 crisis)
 *   [SEN Symposium 2020](http://sen-symposium.nl/)
 *   [SEN-Symposium 2019](http://www.sen-symposium.nl/)
 *   [SEN Symposium 2018](http://www.sen-symposium.nl/)

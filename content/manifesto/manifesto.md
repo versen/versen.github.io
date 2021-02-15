@@ -6,9 +6,7 @@ permalink: /contents/manifesto
 
 ## Manifesto
 
-In 2019 and 2020 VERSEN has been working on a manifesto, entitled "Manifesto on Software Research and Education in the Netherlands".
-
-The [full manifesto can be downloaded here](/assets/manifesto/manifesto_software_onderzoekers_06-2.pdf). There is also [an excerpt available](/assets/manifesto/digitalfolder.pdf).
+VERSEN proposes a "Manifesto on Software Research and Education in the Netherlands". The [full manifesto can be downloaded here](/assets/manifesto/manifesto_software_onderzoekers_06-2.pdf). There is also [an excerpt available](/assets/manifesto/digitalfolder.pdf).
 
 The manifesto has been covered in the I/O Magazine (find [the actual publication here, March edition](https://ict-research.nl/2017/11/i-o-magazine/)). Please [find the excerpt from I/O magazine here](/assets/manifesto/IO-magazine-Manifesto-VERSEN-2020.pdf).
 
@@ -17,7 +15,7 @@ A visual has been created to support the manifesto:
 *   [A low resolution version (11mb)](https://www.dropbox.com/s/jna5nq7wsynmcvh/VERSEN_Manifest_Poster_Lowres.pdf?dl=0)
 *   [A high resolution version (37mb)](https://www.dropbox.com/s/lnx2api8ammqot2/VERSEN_Manifest_Poster.pdf?dl=0)
 
-[[![Manifesto poster](/assets/manifesto/poster.png)](https://www.dropbox.com/s/lnx2api8ammqot2/VERSEN_Manifest_Poster.pdf?dl=0)
+[![Manifesto poster](/assets/manifesto/poster.png)](https://www.dropbox.com/s/lnx2api8ammqot2/VERSEN_Manifest_Poster.pdf?dl=0)
 
 ## Endorsements
 

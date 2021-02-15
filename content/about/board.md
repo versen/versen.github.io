@@ -95,7 +95,7 @@ permalink: /contents/board
 *   [Mark van den Brand](http://www.win.tue.nl/~mvdbrand/), **Eindhoven University of Technology**
 *   [Marko van Eekelen](http://www.cs.ru.nl/M.vanEekelen/), **Open University, Radboud University**
 *   [Marten van Sinderen](https://wwwhome.ewi.utwente.nl/~sinderen/)**, University of Twente **
-*   [Mehmet Aksit](https://people.utwente.nl/m.aksit)**, **University of Twente****
+*   [Mehmet Aksit](https://people.utwente.nl/m.aksit)**, **University of Twente**
 *   [Michel Chaudron](https://research.tue.nl/nl/persons/michel-rv-chaudron)**, Eindhoven University of Technology**
 *   [Paris Avgeriou](http://www.cs.rug.nl/~paris/), **University of Groningen**
 *   [Patricia Lago](https://www.cs.vu.nl/~patricia/Patricia_Lago/Home.html), **VU Amsterdam**

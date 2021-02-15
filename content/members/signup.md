@@ -43,13 +43,13 @@ Please fill out the form below:
 </div>
 <div class="mc-field-group input-group">
     <strong>List your name and affiliation on versen.nl </strong>
-    <ul><li><input type="radio" value="1" name="group[79508]" id="mce-group[79508]-79508-0"><label for="mce-group[79508]-79508-0">yes</label></li>
+    <ul style="margin-left:1em;"><li><input type="radio" value="1" name="group[79508]" id="mce-group[79508]-79508-0"><label for="mce-group[79508]-79508-0">yes</label></li>
 <li><input type="radio" value="2" name="group[79508]" id="mce-group[79508]-79508-1"><label for="mce-group[79508]-79508-1">no</label></li>
 </ul>
 </div>
 <div class="mc-field-group input-group">
-    <strong>Receive (bi)montly newsletter </strong>
-    <ul><li><input type="radio" value="4" name="group[79512]" id="mce-group[79512]-79512-0"><label for="mce-group[79512]-79512-0">yes</label></li>
+    <strong>Receive (bi)montly newsletter</strong>
+    <ul style="margin-left:1em;"><li><input type="radio" value="4" name="group[79512]" id="mce-group[79512]-79512-0"><label for="mce-group[79512]-79512-0">yes</label></li>
 <li><input type="radio" value="8" name="group[79512]" id="mce-group[79512]-79512-1"><label for="mce-group[79512]-79512-1">no</label></li>
 </ul>
 </div>
