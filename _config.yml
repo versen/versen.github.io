@@ -41,7 +41,7 @@ collections:
     permalink: /news_items/:slug/
     output: true
 
-plugins: [jekyll-paginate-v2]
+# plugins: [jekyll-paginate-v2]
 
 sass:
   style: compressed
