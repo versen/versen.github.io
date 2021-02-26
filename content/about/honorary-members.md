@@ -27,10 +27,5 @@ At the 2020 SEN Symposium eight honorary fellows were announced. The following
 
 Some images from the ceremony at the 2020 SEN Symposium:
 
-![](/assets/img/honorary-members/Screenshot_2020-02-20_at_10.11.01.png)
 
-![](/assets/img/honorary-members/Screenshot_2020-02-20_at_10.09.39.png)![](/assets/img/honorary-members/Screenshot_2020-02-20_at_10.10.13.png)![](/assets/img/honorary-members/Screenshot_2020-02-20_at_10.10.24.png)
-
-![](/assets/img/honorary-members/Screenshot_2020-02-20_at_10.10.35.png)![](/assets/img/honorary-members/Screenshot_2020-02-20_at_10.10.45.png)![](/assets/img/honorary-members/Screenshot_2020-02-20_at_10.10.53.png)
-
-![](/assets/img/honorary-members/Screenshot_2020-02-20_at_10.11.18.png)
+{% include image-gallery.html folder="/assets/img/honorary-members" %}
