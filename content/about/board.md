@@ -5,65 +5,93 @@ permalink: /contents/board
 
 ## Executive Board
 
-<table>
-<tbody>
-<tr>
-<td width="25%"><img src="/assets/img/board/marieke.jpg" alt="Marieke Huisman"></td>
-<td width="25%"><img src="/assets/img/board/paris.jpg" alt="Paris Avgeriou"></td>
-<td width="25%"><img src="/assets/img/board/jurgen.jpg" alt="Jurgen Vinju"></td>
-<td width="25%"><img src="/assets/img/board/alex.jpg" alt="Alexander Serebrenik"></td>
-</tr>
-<tr>
-<td><a href="http://wwwhome.ewi.utwente.nl/~marieke/">Marieke Huisman</a></td>
-<td><a href="http://www.cs.rug.nl/~paris/">Paris Avgeriou</a></td>
-<td><a href="https://homepages.cwi.nl/~jurgenv/">Jurgen Vinju</a></td>
-<td><a href="http://www.win.tue.nl/~aserebre/">Alexander Serebrenik</a></td>
-</tr>
-<tr>
-<td>Chair</td>
-<td>Vice Chair</td>
-<td>Treasurer</td>
-<td>Secretary</td>
-</tr>
-<tr>
-<td>University of Twente</td>
-<td>University of Groningen</td>
-<td>CWI</td>
-<td>Eindhoven University of Technology</td>
-</tr>
-</tbody>
-</table>
+<style>
+  .img-wrap{
+    width: 150px;
+    height: 200px;
+    overflow: hidden;
+  }
+  .img-adj{
+    height: 200px;
+  }
+</style>
 
+<div class="row">
+    <div class="col-md-3 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/marieke.jpg" alt="Marieke Huisman"></p>
+      <p>
+        <a href="http://wwwhome.ewi.utwente.nl/~marieke/">Marieke Huisman</a>
+        <br/>
+        Chair
+        <br/>
+        University of Twente
+      </p>
+    </div>
+    <div class="col-md-3 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" style="margin-left: -15px;" src="/assets/img/board/paris.jpg" alt="Paris Avgeriou"></p>
+      <p>
+        <a href="http://www.cs.rug.nl/~paris/">Paris Avgeriou</a>
+        <br/>
+        Vice Chair
+        <br/>
+        University of Groningen
+      </p>
+    </div>
+    <div class="col-md-3 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" style="margin-left: -20px;" src="/assets/img/board/jurgen.jpg" alt="Jurgen Vinju"></p>
+      <p>
+        <a href="https://homepages.cwi.nl/~jurgenv/">Jurgen Vinju</a>
+        <br/>
+        Treasurer
+        <br/>
+        Secretary
+      </p>
+    </div>
+    <div class="col-md-3 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/alex.jpg" alt="Alexander Serebrenik"></p>
+      <p>
+        <a href="http://www.win.tue.nl/~aserebre/">Alexander Serebrenik</a>
+        <br/>
+        CWI
+        <br/>
+        Eindhoven University of Technology
+      </p>
+    </div>
+</div>
 
 ## Board support
 
-<table>
-<tbody>
-<tr>
-<td width="33%"><img src="/assets/img/board/ivano.png" alt="Ivano Malavolta"></td>
-<td width="33%"><img src="/assets/img/board/slinger.png" alt="Slinger Jansen"></td>
-<td width="33%"><img src="/assets/img/board/daniel.jpg" alt="Daniel Feitosa"></td>
-</tr>
-<tr>
-<td><a href="http://ivanomalavolta.com">Ivano Malavolta</a></td>
-<td><a href="http://www.slingerjansen.nl">Slinger Jansen</a></td>
-<td><a href="https://www.rug.nl/staff/d.feitosa/">Daniel Feitosa</a></td>
-</tr>
-<tr>
-<td>Publicity co-chair</td>
-<td>Publicity co-chair</td>
-<td></td>
-</tr>
-<tr>
-<td>Vrije Universiteit Amsterdam</td>
-<td>Utrecht University</td>
-<td>University of Groningen</td>
-</tr>
-</tbody>
-</table>
-
-
-
+<div class="row">
+    <div class="col-md-4 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/ivano.png" alt="Ivano Malavolta"></p>
+      <p>
+        <a href="http://ivanomalavolta.com">Ivano Malavolta</a>
+        <br/>
+        Publicity co-chair
+        <br/>
+        Vrije Universiteit Amsterdam
+      </p>
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/slinger.png" alt="Slinger Jansen"></p>
+      <p>
+        <a href="http://www.slingerjansen.nl">Slinger Jansen</a>
+        <br/>
+        Publicity co-chair
+        <br/>
+        Utrecht University
+      </p>
+    </div>
+    <div class="col-md-4">
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/daniel.jpg" alt="Daniel Feitosa"></p>
+      <p>
+        <a href="https://www.rug.nl/staff/d.feitosa/">Daniel Feitosa</a>
+        <br/>
+        <br/>
+        University of Groningen
+      </p>
+    </div>
+</div>
 
 
 ## Board members
