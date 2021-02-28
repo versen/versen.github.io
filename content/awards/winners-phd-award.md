@@ -5,6 +5,24 @@ permalink: /contents/winners-phd-award
 
 ## Winners VERSEN PhD Thesis Award
 
+### 2020
+
+* 1st place: dr. Wytse Oortwijn, Twente University
+	* Deductive techniques for model-based concurrency verification ([pdf](https://drive.google.com/file/d/1zXNxWR29d9lwRRRPptNfouPFYoU7h1QY/view))
+	* Supervisors: Prof. dr. Marieke Huisman
+
+* 2nd place: dr. Riemer van Rozen, University of Amsterdam
+	* Languages of games and play: automating game design & enabling live programming ([pdf](https://drive.google.com/file/d/1bYXrtyiiOd2s-zpdgW4EypSGWJYochxT/view))
+	* Supervisors: Prof. dr. Paul Klint, Prof. dr. Tijs van der Storm
+
+* 3rd place - A: dr. Mauricio Cano, University of Groningen
+	* Session-based concurrency: between operational and declarative views ([pdf](https://drive.google.com/file/d/1ZWpgvT1rRkOrFlC7F6hbt32eeyQr6vD_/view))
+	* Supervisors: Dr. Jorge A. Perez, Prof. dr. Gerard Renardel
+
+* 3rd place - B: Gabriël Konat, TU Delft
+	* Language-Parametric Methods for Developing Interactive Programming Systems ([pdf](https://drive.google.com/file/d/1F1nD308_y37hj2KQcmB22DmfVDZO3Jyr/view))
+	* Supervisors: Prof. dr. Eelco Visser, Prof. dr. S.T. Erdweg
+
 ### 2019
 
 * 1st place: dr. Moritz Beller, TU Delft
