@@ -7,7 +7,7 @@ permalink: /contents/winners-phd-award
 
 ### 2020
 
-* 1st place: dr. Wytse Oortwijn, Twente University
+* 1st place: dr. Wytse Oortwijn, University of Twente
 	* Deductive techniques for model-based concurrency verification ([pdf](https://drive.google.com/file/d/1zXNxWR29d9lwRRRPptNfouPFYoU7h1QY/view))
 	* Supervisors: Prof. dr. Marieke Huisman
 
