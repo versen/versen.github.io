@@ -20,7 +20,7 @@ permalink: /contents/board
     <div class="col-md-3 col-sm-6">
       <p class="img-wrap"><img class="img-adj" src="/assets/img/board/tijs.jpg" alt="Tijs van der Storm"></p>
       <p>
-        <a href="http://homepages.cwi.nl/~tvdstorm">Tijs van der Storm</a>
+        <a href="http://homepages.cwi.nl/~storm">Tijs van der Storm</a>
         <br/>
         Chair
         <br/>
