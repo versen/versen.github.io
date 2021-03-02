@@ -28,14 +28,6 @@ permalink: /contents/board
       </p>
     </div>
     <div class="col-md-3 col-sm-6">
-      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/marieke.jpg" alt="Marieke Huisman"></p>
-      <p>
-        <a href="http://wwwhome.ewi.utwente.nl/~marieke/">Marieke Huisman</a>
-        <br/>
-        University of Twente
-      </p>
-    </div>
-    <div class="col-md-3 col-sm-6">
       <p class="img-wrap"><img class="img-adj" style="margin-left: -15px;" src="/assets/img/board/paris.jpg" alt="Paris Avgeriou"></p>
       <p>
         <a href="http://www.cs.rug.nl/~paris/">Paris Avgeriou</a>
@@ -63,6 +55,14 @@ permalink: /contents/board
         Secretary
         <br/>
         Eindhoven University of Technology
+      </p>
+    </div>
+    <div class="col-md-3 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/marieke.jpg" alt="Marieke Huisman"></p>
+      <p>
+        <a href="http://wwwhome.ewi.utwente.nl/~marieke/">Marieke Huisman</a>
+        <br/>
+        University of Twente
       </p>
     </div>
 </div>
