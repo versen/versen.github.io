@@ -50,9 +50,10 @@ permalink: /contents/board
       <p>
         <a href="https://homepages.cwi.nl/~jurgenv/">Jurgen Vinju</a>
         <br/>
+        NWO-I Centrum Wiskunde & Informatica
+        <br/>
         Treasurer
         <br/>
-        Secretary
       </p>
     </div>
     <div class="col-md-3 col-sm-6">
@@ -60,7 +61,7 @@ permalink: /contents/board
       <p>
         <a href="http://www.win.tue.nl/~aserebre/">Alexander Serebrenik</a>
         <br/>
-        CWI
+        Secretary
         <br/>
         Eindhoven University of Technology
       </p>
