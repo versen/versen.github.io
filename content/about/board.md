@@ -18,11 +18,19 @@ permalink: /contents/board
 
 <div class="row">
     <div class="col-md-3 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/tijs.jpg" alt="Tijs van der Storm"></p>
+      <p>
+        <a href="http://homepages.cwi.nl/~tvdstorm">Tijs van der Storm</a>
+        <br/>
+        Chair
+        <br/>
+        NWO-I Centrum Wiskunde & Informatica
+      </p>
+    </div>
+    <div class="col-md-3 col-sm-6">
       <p class="img-wrap"><img class="img-adj" src="/assets/img/board/marieke.jpg" alt="Marieke Huisman"></p>
       <p>
         <a href="http://wwwhome.ewi.utwente.nl/~marieke/">Marieke Huisman</a>
-        <br/>
-        Chair
         <br/>
         University of Twente
       </p>
