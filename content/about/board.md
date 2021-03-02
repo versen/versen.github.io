@@ -53,7 +53,6 @@ permalink: /contents/board
         NWO-I Centrum Wiskunde & Informatica
         <br/>
         Treasurer
-        <br/>
       </p>
     </div>
     <div class="col-md-3 col-sm-6">
