@@ -1,4 +1,3 @@
-
 ---
 layout: content
 permalink: /contents/works/symposium
