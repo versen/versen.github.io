@@ -5,6 +5,24 @@ permalink: /contents/winners-msc-awards
 
 ## Winners VERSEN MSc Thesis Award
 
+### 2020
+
+* 1st place: Lukas Miedema, University of Twente
+	* QuickInterp - JIT-like performance in a cross-platform cross-CPU way ([pdf](https://drive.google.com/open?id=1Fkyfy6m8JUBM78L51soAh_RUNbCWrrQM))
+	* Supervisors: Marieke Huisman, Tom van Dijk, Andre Kokkeler
+
+* 1st place: Taico Aerts, Delft University of Technology
+	* Incrementalizing Statix ([pdf](https://drive.google.com/open?id=1SiR0hetZcv6pvYXkBa69cGflx1dWsjvi))
+	* Supervisors: Eelco Visser, Hendrik van Antwerpen
+
+* 3rd place - A: Katerina Chinnappan, Vrije Universiteit Amsterdam
+	* Mining Green Tactics For Energy-Efficient And Energy-Aware Robotics Software ([pdf](https://drive.google.com/open?id=1K3OQ4EPZ8Vs4vidn5kjeetNLtcUctN66))
+	* Supervisors: Ivano Malavolta, Patricia Lago
+
+* 3rd place - B: Jakob Lohnertz, Universiteit van Amsterdam
+	* Toward automatic decomposition of monolithic software into microservices ([pdf](https://drive.google.com/open?id=1HUEQnQyX0uIiuOef9_r4tJDKqqPDvXHZ))
+	* Supervisors: Ana Oprescu, Stephan Schroevers
+
 ### 2019
 
 * 1st place: Nathan Cassee, TU/e
