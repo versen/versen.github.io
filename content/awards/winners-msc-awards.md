@@ -19,7 +19,7 @@ permalink: /contents/winners-msc-awards
 	* Mining Green Tactics For Energy-Efficient And Energy-Aware Robotics Software ([pdf](https://drive.google.com/open?id=1K3OQ4EPZ8Vs4vidn5kjeetNLtcUctN66))
 	* Supervisors: Ivano Malavolta, Patricia Lago
 
-* 3rd place - B: Jakob Lohnertz, Universiteit van Amsterdam
+* 3rd place - B: Jakob Löhnertz, Universiteit van Amsterdam
 	* Toward automatic decomposition of monolithic software into microservices ([pdf](https://drive.google.com/open?id=1HUEQnQyX0uIiuOef9_r4tJDKqqPDvXHZ))
 	* Supervisors: Ana Oprescu, Stephan Schroevers
 
