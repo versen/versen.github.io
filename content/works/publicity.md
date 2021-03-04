@@ -11,4 +11,3 @@ The members are:
 
 * Ivano Malavolta (Lead)
 * Slinger Jansen 
-* Daniel Feitosa
