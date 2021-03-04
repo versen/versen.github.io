@@ -60,6 +60,7 @@ The (large) group of members changes every year. They are documented [here](http
 
 * Jurgen Vinju
 * Frank de Boer
+* Slinger Jansen
 * Susanne van Dam
 
 ## Committee of (end of) 2014
