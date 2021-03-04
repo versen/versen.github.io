@@ -35,8 +35,8 @@ Any member of the VERSEN community is welcome to join our next (monthly) meeting
 
 ### 2018
 
-* Marieke Huisman became chair
-* Slinger Jansen became co-secretary
+* Marieke Huisman became the new chair
+* Slinger Jansen became co-secretary 
 
 ### 2016
 
