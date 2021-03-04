@@ -16,14 +16,14 @@ The (large) group of members changes every year. They are documented [here](http
 * Jurgen Vinju (local organization)
 * Tijs van der Storm (local organization)
 * Thom Badings
-* Dennis Großa
+* Dennis Groß
 * Femke Harms (local organization)
 
 ## Committee of 2020
 
-* Yanja Dajsuren (chair)
-* Jorge Pérez
-* Wouter Swierstra
+* Yanja Dajsuren (co chair)
+* Jorge Pérez (co chair)
+* Wouter Swierstra (co chair)
 * Tijs van der Storm (local organization)
 * Femke Harms (local organization)
 * Ivano Malovolta
