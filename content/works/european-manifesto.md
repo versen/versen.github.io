@@ -1,6 +1,6 @@
 ---
 layout: content
-permalink: /content/works/european-manifesto
+permalink: /contents/works/european-manifesto
 ---
 
 ## Working Group: European Software Manifesto
