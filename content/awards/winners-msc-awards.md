@@ -11,7 +11,7 @@ permalink: /contents/winners-msc-awards
 	* QuickInterp - JIT-like performance in a cross-platform cross-CPU way ([pdf](https://drive.google.com/open?id=1Fkyfy6m8JUBM78L51soAh_RUNbCWrrQM))
 	* Supervisors: Marieke Huisman, Tom van Dijk, Andre Kokkeler
 
-* 1st place: Taico Aerts, Delft University of Technology
+* 2nd place: Taico Aerts, Delft University of Technology
 	* Incrementalizing Statix ([pdf](https://drive.google.com/open?id=1SiR0hetZcv6pvYXkBa69cGflx1dWsjvi))
 	* Supervisors: Eelco Visser, Hendrik van Antwerpen
 
