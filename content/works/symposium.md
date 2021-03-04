@@ -10,7 +10,7 @@ The (large) group of members changes every year. They are documented [here](http
 
 ## Committee of 2021
 
-* Helle Hvid Hansen (Program co-chair)
+* Helle Hvid Hansen (General chair)
 * Ilias Gerostathopoulos (Program co-chair)
 * Nils Jansen (Program co-chair)
 * Jurgen Vinju (local organization)
