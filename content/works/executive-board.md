@@ -54,6 +54,6 @@ The initiators of VERSEN were:
 * Frank de Boer
 * Sjaak Brinkkemper
 
-The VERSEN board was bootstrapped by inviting practically all software professors in The Netherlands to its board. Everybody accepted.
+We initiated VERSEN with the permission and support of everybody who was present at the SEN symposium in January 2016. The VERSEN board was then given shape by inviting practically all software professors in The Netherlands to its board. Everybody accepted.
 
 VERSEN was funded via the budget of the software "societal theme" at Centrum Wiskunde & Informatica.
