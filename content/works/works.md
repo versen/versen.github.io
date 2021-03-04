@@ -23,4 +23,4 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 
 This is a list of Working Groups that have completed.
 
-* [Visual Story](/content/works/visual-story): explain our research field in a visual story, for use in the [Manifesto](/contents/works/manifesto) and other communications.
+* [Visual Story](/content/works/visual-story): explain our research field in a visual story, for use in the [Manifesto](/contents/manifesto) and other communications.
