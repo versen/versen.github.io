@@ -26,6 +26,7 @@ The (large) group of members changes every year. They are documented [here](http
 * Wouter Swierstra
 * Tijs van der Storm (local organization)
 * Femke Harms (local organization)
+* Ivano Malovolta
 
 ## Committee of 2019
 
