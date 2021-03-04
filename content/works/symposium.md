@@ -16,7 +16,8 @@ The (large) group of members changes every year. They are documented [here](http
 * Jurgen Vinju (local organization)
 * Tijs van der Storm (local organization)
 * Thom Badings
-* Dennis Groß
+* Dennis Großa
+* Femke Harms (local organization)
 
 ## Committee of 2020
 
@@ -24,6 +25,7 @@ The (large) group of members changes every year. They are documented [here](http
 * Jorge Pérez
 * Wouter Swierstra
 * Tijs van der Storm (local organization)
+* Femke Harms (local organization)
 
 ## Committee of 2019
 
@@ -31,6 +33,7 @@ The (large) group of members changes every year. They are documented [here](http
 * Georgios Gousios
 * Sung-Shik Jongmans
 * Tijs van der Storm
+* Susanne van Dam
 
 ## Committee of 2018
 
@@ -40,6 +43,7 @@ The (large) group of members changes every year. They are documented [here](http
 * Bedir Tekinerdogan
 * Tanja Vos
 * Tim Willemse
+* Susanne van Dam
 
 ## Committee of 2017
 
@@ -49,13 +53,16 @@ The (large) group of members changes every year. They are documented [here](http
 * Marieke Huisman (program co-chair)
 * Tanja Vos (program co-chair)
 * Alexander Serebrenik (program co-chair)
+* Susanne van Dam
 
 ## Committee of 2016
 
 * Jurgen Vinju
 * Frank de Boer
+* Susanne van Dam
 
 ## Committee of (end of) 2014
 
 * Jurgen Vinju
 * Frank de Boer
+* Susanne van Dam
