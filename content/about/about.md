@@ -15,15 +15,18 @@ The Netherlands has a great international reputation in the field of Software 
 * CWI (Centrum Wiskunde & Informatica) is the administrative home of VERSEN.
 * VERSEN organizes the yearly SEN symposium
 * VERSEN meets regularly to evaluate past actions and make plans for the future.
+* [VERSEN Working Groups](/contents/works) are our way of effectively working together towards a specific goal.
 
-## Statutes
+## Procedures 
 
-The statutes can be found here. 
+* The formal statutes of the VERSEN organization can be found [here](/assets/pdf/statuten.pdf). 
+* All VERSEN members are committed to our [Code of Conduct](/contents/about/code-of-conduct).
+* This [document](/assets/pdf/working-groups.pdf) describes the procedures for the creation, running and termination of a VERSEN working group.
 
 ## Research Groups
 
 * Centrum Wiskunde & Informatica (CWI), Software Analysis & Transformation
-* Centrum Wiskunde & Informatica (CWI), Formal Methods
+* Centrum Wiskunde & Informatica (CWI), Computer Security
 * Delft University of Technology, Software Engineering Research Group
 * Delft University of Technology, Programming Languages Group
 * Eindhoven University of Technology, Formal Systems Analysis
