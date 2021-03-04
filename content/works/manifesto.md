@@ -10,10 +10,10 @@ This working group has completed. The goal of the group was to author a manifest
 
 ### Members
 
-* Patricia Lago (Leader)
 * Marieke Huisman 
-* Paris Avgeriou
 * Alexander Serebrenik
+* Patricia Lago 
+* Paris Avgeriou
 
 ### Result
 
