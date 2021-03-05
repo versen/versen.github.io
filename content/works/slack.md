@@ -1,6 +1,6 @@
 ---
 layout: content
-permalink: /content/works/slack
+permalink: /contents/works/slack
 ---
 
 ## Working Group: Slack
