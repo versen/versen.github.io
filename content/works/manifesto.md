@@ -1,6 +1,6 @@
 ---
 layout: content
-permalink: /content/works/manifesto
+permalink: /contents/works/manifesto
 ---
 
 ## Working Group: Manifesto

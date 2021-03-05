@@ -1,6 +1,6 @@
 ---
 layout: content
-permalink: /content/works/visual-story
+permalink: /contents/works/visual-story
 ---
 
 ## Working Group: Visual Story
