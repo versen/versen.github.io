@@ -18,6 +18,7 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 * If you would like to participate in an existing Working Group, please contact its Lead person;
 * If you are interested in starting a new Working Group (any member can), please contact the VERSEN secretary;
 * Each VERSEN member is committed to our [Code of Conduct](/contents/about/code-of-conduct), especially so when participating in one of our working groups.
+* This [document](/assets/pdf/working-groups.pdf) describes the procedures for the creation, running and termination of a VERSEN working group.
 
 
 ## Archive
