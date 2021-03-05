@@ -24,6 +24,7 @@ The (large) group of members changes every year. They are documented [here](http
 * Yanja Dajsuren (co chair)
 * Jorge Pérez (co chair)
 * Wouter Swierstra (co chair)
+* Ivano Malavolta 
 * Tijs van der Storm (local organization)
 * Femke Harms (local organization)
 
