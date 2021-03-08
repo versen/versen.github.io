@@ -13,4 +13,5 @@ The [VERSEN Slack team](slack://app?team=versen) aims to tie together software e
 ### Members
 
 * Fabiano Dalpiaz (Leader)
-
+* Ayushi Rastogi 
+* Ilias Gerostathopoulos
