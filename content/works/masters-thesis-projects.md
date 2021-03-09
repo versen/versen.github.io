@@ -1,6 +1,6 @@
 ---
 layout: content
-permalink: /contents/works
+permalink: /contents/works/masters-thesis-projects
 ---
 
 ## Working Group: Master's Thesis Projects
