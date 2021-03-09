@@ -13,6 +13,7 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 * [Publicity](/contents/works/publicity) has the goal to create and edit content for the newsletter and the website.
 * [European Manifesto](/contents/works/european-manifesto) find synergy among different other manifesto initiatives in Europe.
 * [Slack](/contents/works/slack) boosts the participation of community members in Slack by adding content, triggering discussions, and scouting new members to be invited.
+* [Master's Thesis Projects](/contents/works/masters-thesis-projects) national platform for Master thesis projects in software research.
 
 ## Participation
 
