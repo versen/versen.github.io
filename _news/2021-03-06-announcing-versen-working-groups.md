@@ -1,5 +1,6 @@
 ---
 layout: news
+picture: "default.png"
 title: "Announcing VERSEN working groups"
 ---
 

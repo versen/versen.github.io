@@ -1,5 +1,6 @@
 ---
 layout: news
+picture: "default.png"
 title: "VERSEN Slack Channel - Working Group members wanted!"
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: news
+picture: "default.png"
 title: "Call for participation to new working group: a national platform for Master thesis projects in software research"
 ---
 

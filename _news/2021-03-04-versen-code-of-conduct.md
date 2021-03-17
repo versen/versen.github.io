@@ -1,5 +1,6 @@
 ---
 layout: news
+picture: "default.png"
 title: "VERSEN Code of Conduct"
 ---
 

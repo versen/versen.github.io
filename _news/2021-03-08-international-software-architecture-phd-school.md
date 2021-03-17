@@ -1,5 +1,6 @@
 ---
 layout: news
+picture: "default.png"
 title: "International Software Architecture PhD School (ISAPS 2021)"
 ---
 

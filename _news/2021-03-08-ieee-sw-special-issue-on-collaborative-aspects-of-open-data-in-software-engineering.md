@@ -1,6 +1,7 @@
 ---
 layout: news
-\title: "IEEE SW Special Issue on Collaborative Aspects of Open Data in Software Engineering"
+picture: "default.png"
+title: "IEEE SW Special Issue on Collaborative Aspects of Open Data in Software Engineering"
 ---
 
 High-quality data is becoming increasingly important for software engineers in the design and implementation of today’s software, for example, as an input to machine-learning algorithms and visualization- and analytics-based features. Open data–data shared under a license that gives users the right to study, process, and distribute the data to anyone and for any purpose–offers a mechanism for addressing this need. Data may be crowdsourced, shared by government agencies, or shared between commercial entities.
