@@ -1,6 +1,6 @@
 ---
 layout: news
-picture: "default.png"
+picture: "awards.png"
 title: "Onward Most Notable Paper Award 2020 for Declarative Syntax Definition"
 ---
 

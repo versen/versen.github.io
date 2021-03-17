@@ -1,6 +1,6 @@
 ---
 layout: news
-picture: "default.png"
+picture: "awards.png"
 title: "OOPSLA 2010 Most Influential Paper for Spoofax"
 ---
 
