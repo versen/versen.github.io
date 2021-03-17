@@ -12,6 +12,7 @@ The [VERSEN Slack team](slack://app?team=versen) aims to tie together software e
 
 ### Members
 
-* Fabiano Dalpiaz (Leader)
-* Ayushi Rastogi 
-* Ilias Gerostathopoulos
+* Fabiano Dalpiaz - Utrecht University (leader)
+* Ilias Gerostathopoulos - Vrije Universiteit Amsterdam
+* Ayushi Rastogi - University of Groningen
+* Vadim Zaytsev - University of Twente
