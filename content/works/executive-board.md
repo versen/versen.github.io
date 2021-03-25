@@ -3,7 +3,7 @@ layout: content
 permalink: /contents/works/executive-board
 ---
 
-## Working Group: Executive Board
+## Executive Board
 
 The goal of the executive board is to manage, animate and improve the entire VERSEN community. They also have formal responsibilities as 
 listed in the VERSEN charter. 
