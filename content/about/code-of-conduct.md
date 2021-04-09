@@ -13,12 +13,12 @@ VERSEN board members and VERSEN working group leaders have the right and respons
 
 This code of conduct applies not only within VERSEN community spaces --the SEN Symposium, the VERSEN Github organization, the VERSEN Slack team, VERSEN Working Group meetings, files on the VERSEN Google Drive -- but also in public spaces when an individual is representing our community.
 
-If you have witnessed or suffered an instance of abusive, harassing, or otherwise unacceptable behavior you can contact any or all of these people, and especially if you are unsure what to do about the situation:
+If you have witnessed or suffered a instance of abusive, harassing, or otherwise unacceptable behavior you are encouraged to contact any or all of these people:
 * the respective Working Group lead
 * the current [chair of VERSEN](/contents/board)
-* any member of the [VERSEN board](/contents/board), or any member of the [VERSEN executive board](/contents/board)
+* [Alexander Serebrenik](mailto://aserebre@win.tue.nl)
+* [Jurgen Vinju](mailto://jurgen.vinju@cwi.nl)
 
-
-Your story will be treated with the respect and privacy required, and will therefore be off-the-record. You can decide to log a formal complaint, which is to be communicated via email to the current chair of VERSEN. If the current chair of VERSEN has apparently violated our code of conduct, then the formal complaint should be sent to all members of the executive board, excluding the chair.
+Your story will be treated with the respect and privacy required, and will therefore be off-the-record. You may decide to log a formal complaint, which is to be communicated via email to the current chair of VERSEN. We can advise you and help you through the process. If the current chair of VERSEN has apparently violated our code of conduct, then the formal complaint should be sent to all members of the executive board, excluding the chair.
 
 This Code of Conduct is adapted from the "Contributor Covenant", version 1.1.0, available at <https://www.contributor-covenant.org/version/1/1/0/code-of-conduct.html>
