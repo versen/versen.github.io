@@ -7,7 +7,7 @@ permalink: /contents/partners
 
 * [ICT-Research Platform Netherlands (IPN)](https://ict-research.nl/) - Seat on the board as a special member.
 * [KNVI](https://www.knvi.nl/) - Collaborative meetings and events.
-* [ICTng](https://www.ictng.nl/) - Collaborative meetings and events.
+* [ICTng](https://ictng.nl/) - Collaborative meetings and events.
 
 ## Endorsements
 
