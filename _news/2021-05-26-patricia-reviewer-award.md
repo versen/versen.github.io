@@ -1,7 +1,7 @@
 ---
 layout: news
 picture: "patricia-best-reviewer-award-icsa-2021.jpeg"
-title: Patricia Lago receives Best Reviewer Award at ICSA 2021
+title: "Patricia Lago receives Best Reviewer Award at ICSA 2021"s
 ---
 
 ![Patricia best reviewer award](/img/news/patricia-best-reviewer-award-icsa-2021.jpeg){: .mx-auto.d-block :}

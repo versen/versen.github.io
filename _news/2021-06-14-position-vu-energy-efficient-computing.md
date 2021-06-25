@@ -12,7 +12,7 @@ You have a proven track record in Computer Science and would like to advance you
 
 Because we want to increase the number of women in our department, female candidates are particularly encouraged to apply for this position. In case of equal suitability of candidates, preference will be given to female candidates.
 
-Your duties
+### Your duties
 * The tenure track position is starting at the level of assistant professor in the areas of research, education, and management (40%, 40%, 20%, respectively), and contains among others the following duties:
 * you develop your own research line and profile your research around it
 * you acquire and contribute to externally funded research projects
