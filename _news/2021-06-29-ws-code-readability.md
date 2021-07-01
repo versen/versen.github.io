@@ -13,7 +13,7 @@ Case studies of real-world applications;
 Replication studies on state-of-the-art tools and techniques for measuring and improving code legibility, readability, and understandability.
 The 1st edition of the Workshop on Automated Support to Improve code Readability (AeSIR) will be held virtually on 15 November 2021, co-located with ASE 2021.
 
-** Important dates
+## Important dates
 
 * Abstract Submission: July 30, 2021
 * Paper Submission: August 6, 2021

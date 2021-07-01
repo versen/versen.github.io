@@ -11,7 +11,7 @@ title: "10 assistant/associate professor vacancies at Utrecht University"
 * Deadline: 31 August 2021
 * Apply [here](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/assistant-or-associate-professors-in-information-and-computing-sciences-tenure-track-08-10-fte)
 
-** Job description
+## Job description
 
 Due to our successful educational programmes and our ambitions in research, the Department of Information and Computing Sciences is expanding. We are therefore actively searching for 10 or more motivated and committed Assistant or Associate Professors in Information and Computing Sciences. Please note that the levels of the positions offered will vary, depending on experience and expertise.
 
@@ -21,7 +21,7 @@ You possess a proven commitment and talent for research. As teaching is also an 
 
 If you are excited to actively participate and collaborate in shaping the department, we invite you to apply.
 
-**  Qualifications
+##  Qualifications
 
 We are looking for new colleagues to complement our team at an academic as well as a personal level, and who fit well with the following qualifications:
 
@@ -36,7 +36,7 @@ We are looking for new colleagues to complement our team at an academic as well 
 * has a vision on teaching and your own contribution to teaching;
 * the ability to speak and write English fluently.
 
-** Offer
+## Offer
 
 * an appointment at the level of Assistant or Associate Professor, initially for a period of 5 years. The position will be subject to a mid-term evaluation after approximately 2.5 years and an end-term evaluation. Following a positive evaluation the position will become permanent after 5 years;
 * a gross salary – depending on previous qualifications and experience - ranges between €3,353 and €6,940 (scale 10-14 according to the Collective Labour Agreement Dutch Universities (cao)) per month for full-time employment;
@@ -52,7 +52,7 @@ More information about working at the Faculty of Science can be found here.
 
 Utrecht is an attractive city located in the Netherlands, one of the world’s most open and connected countries. Utrecht University reflects this philosophy by offering a flexible work/life balance that prioritizes your well-being within an understanding and supportive, family-friendly environment.
 
-** About the organisation
+## About the organisation
 
 The Department of Information and Computing Sciences is nationally and internationally renowned for its fundamental and applied research in computer science and information science. In our constantly changing (digital) society, we are constantly looking for new, realistic ways to push the boundaries of both science and social application. We contribute to innovative information technologies through the development and application of new concepts, theories, algorithms, and software methods. Relevant areas of interdisciplinary research include Game Research, Foundations of Complex Systems, Applied Data Science, and Artificial Intelligence.
 
@@ -62,13 +62,13 @@ At the Faculty of Science there are 6 departments to make a fundamental connecti
 
 Utrecht University is a friendly and ambitious university at the heart of an ancient city. We love to welcome new scientists to our city – a thriving cultural hub that is consistently rated as one of the world’s happiest cities. We are renowned for our innovative interdisciplinary research, and our emphasis on inspirational research and excellent education. We are equally well-known for our informal atmosphere and the can-do mentality of our people. This lively and inspiring academic environment attracts professors, researchers, and PhD candidates from all over the globe, making both the University and the Faculty of Science a vibrant international and wonderfully diverse community.
 
-** Additional information
+## Additional information
 
 Do you have any questions that you would like an answer to first? No problem. Please contact Professor Marc van Kreveld (Research Director) via M.J.vanKreveld@uu.nl.
 
 Do you have a question about the application procedure? Then please send an email to science.recruitment@uu.nl 
 
-** Apply
+## Apply
 
 Everyone deserves to feel at home at our university. We welcome employees with a wide variety of backgrounds and perspectives and we attach great importance to diversity and gender balance. Applicants are encouraged to mention any personal circumstances that need to be taken into account, for example, parental leave or military service. If you prefer a part-time appointment, you are also invited to apply, stating the desired part-time ratio.
 
