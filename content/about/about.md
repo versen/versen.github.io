@@ -41,7 +41,7 @@ The Netherlands has a great international reputation in the field of Software 
 * Universiteit Twente, Services Cybersecurity and Safety
 * Universiteit Utrecht, Intelligent Software Systems
 * Universiteit Wageningen, Information Technology
-* Vrije Universiteit Amsterdam (VU), Software and Services
+* Vrije Universiteit Amsterdam (VU), Software and Sustainability
 
 
 ## Related national research schools
