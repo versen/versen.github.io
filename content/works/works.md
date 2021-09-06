@@ -15,6 +15,7 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 * [Slack](/contents/works/slack) boosts the participation of community members in Slack by adding content, triggering discussions, and scouting new members to be invited.
 * [Master's Thesis Projects](/contents/works/masters-thesis-projects) national platform for Master thesis projects in software research.
 * [Education](/contents/works/education) explore how software engineering education can be improved across all levels.
+* [Post-master Education](/contents/works/se-postmaster) investigate the needs of Software Engineers for education at the post-Master level.
 * [Communication Plan](/contents/works/communication-plan) formulation of a strategic communication plan.
 * [Community Events](/contents/works/community-events) organization of regular opportunities for the VERSEN community to meet.
 
