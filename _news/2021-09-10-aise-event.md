@@ -1,7 +1,7 @@
 ---
 layout: news
 picture: "default.png"
-title: "Joint IPA & VERSEN seminar on "Artificial Intelligence in Software Engineering""
+title: "Joint IPA and VERSEN seminar on Artificial Intelligence in Software Engineering"
 ---
 
 Earlier this year the "VERSEN Community Events" working group was formed to organize regular opportunities for get-togethers and knowledge exchange in the Dutch Software Engineering community. Now that vaccination rates are rising and restrictions being lifted, we are happy to announce that the first event in the series can happen in person!
