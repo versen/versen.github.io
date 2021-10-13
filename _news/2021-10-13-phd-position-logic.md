@@ -15,16 +15,16 @@ Founded in 1614, the University of Groningen is proud to number among the worldâ
 Three fully-funded 4-year PhD positions are available. 
 
 * **PhD Position in Non-Classical Logics through Proof Theory**
-   Supervisor: Revantha Ramanayake <d.r.s.ramanayake@rug.nl>
-   [https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PRP&cat=phd](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PRP&cat=phd)
+  * Supervisor: Revantha Ramanayake <d.r.s.ramanayake@rug.nl>
+  * [https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PRP&cat=phd](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PRP&cat=phd)
 
 * **PhD Position in Logic, Coalgebra and Semantics of Computing**
-   Supervisor: Helle Hvid Hansen <h.h.hansen@rug.nl>
-   [https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PPP&cat=phd](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PPP&cat=phd)
+  * Supervisor: Helle Hvid Hansen <h.h.hansen@rug.nl>
+  * [https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PPP&cat=phd](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PPP&cat=phd)
 
 * **PhD Position in Proof Theory of Modal Logics**
-   Supervisors: Helle Hvid Hansen <h.h.hansen@rug.nl> and Revantha Ramanayake <d.r.s.ramanayake@rug.nl>
-   [https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PQP&cat=phd](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PQP&cat=phd)
+  * Supervisors: Helle Hvid Hansen <h.h.hansen@rug.nl> and Revantha Ramanayake <d.r.s.ramanayake@rug.nl>
+  * [https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PQP&cat=phd](https://www.rug.nl/about-ug/work-with-us/job-opportunities/?details=00347-02S0008PQP&cat=phd)
 
 Applications received *no later than 29 November 2021 (CET)* will receive full consideration but applications will be accepted until the positions are filled. 
 
