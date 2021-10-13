@@ -5,14 +5,14 @@ permalink: /contents/works/web
 
 ## Working Group: Web
 
-The goal of the Web working group is to manage implement and maintain the VERSEN website and the member administration.
+The goal of the Web working group is to manage, implement and maintain the VERSEN website and the member administration.
 
 The members are:
 
-* Maurício Aniche (Lead)
+* Daniel Feitosa (Lead)
 * Jurgen Vinju
-* Daniel Feitosa
 * Dennis Groß
+* Maurício Aniche 
 * Slinger Jansen
 
 The VERSEN website is maintained here: <https://github.com/versen/versen.github.io>, and we welcome pull requests.
