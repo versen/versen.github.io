@@ -12,7 +12,6 @@ The members are:
 * Daniel Feitosa (Lead)
 * Jurgen Vinju
 * Dennis Groß
-* Maurício Aniche 
 * Slinger Jansen
 
 The VERSEN website is maintained here: <https://github.com/versen/versen.github.io>, and we welcome pull requests.
