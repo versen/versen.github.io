@@ -11,4 +11,12 @@ The goal of this working group is to explore how software engineering education 
 
 ## Members
 
-* Bastiaan Heeren (Leader)
+* Bastiaan Heeren - Open Universiteit (Leader)
+* Vadim Zaytsev - Universiteit Twente
+* Tom van Dijk - Universiteit Twente
+* Andrea Capiluppi - Universiteit Groningen
+* Fabiano Dalpiaz - Universiteit Utrecht
+* Ion Barosan - Universiteit Eindhoven
+* Ana Oprescu - Universiteit van Amsterdam
+* Jeroen Keiren - Universiteit Eindhoven
+* Annibale Panichella - Universiteit Delft
