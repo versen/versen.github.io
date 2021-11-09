@@ -9,6 +9,8 @@ This working group aims to organize regular opportunities for the VERSEN communi
 
 ### Members
 
-* Anna-Lena Lamprecht (leader)
-* Loek Cleophas
-* Önder Babur
+* Anna-Lena Lamprecht (leader; UU)
+* Loek Cleophas (TU/e)
+* Önder Babur (WUR and TU/e)
+* Mauricio Verano Merino (CWI and TU/e)
+* Samira Shirzadehhajimahmood (UU)
