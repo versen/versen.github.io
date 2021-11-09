@@ -10,7 +10,7 @@ This working group aims to organize regular opportunities for the VERSEN communi
 ### Members
 
 * Anna-Lena Lamprecht (leader; UU)
-* Loek Cleophas (TU/e)
+* Loek Cleophas (TU/e and research school IPA)
 * Önder Babur (WUR and TU/e)
 * Mauricio Verano Merino (CWI and TU/e)
 * Samira Shirzadehhajimahmood (UU)
