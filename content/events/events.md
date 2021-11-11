@@ -9,6 +9,7 @@ permalink: /contents/events
 
 ### Past VERSEN Events
 
+*   IPA & VERSEN [Seminar Afternoon on "Artificial Intelligence meets Software Engineering"](https://ipa.win.tue.nl/?event=joint-ipa-versen-seminar-afternoon-on-artificial-intelligence-meets-software-engineering)
 *   [SEN-Symposium 2021](http://www.sen-symposium.nl/)
 *   [ICT-Open 2021](https://www.ictopen.nl/)
 *   [SEN Symposium 2020](http://www.sen-symposium.nl/history/2020/program)
