@@ -9,6 +9,8 @@ This working group aims to organize regular opportunities for the VERSEN communi
 
 The working group has also set up an [OSF page](https://osf.io/mg29a/) to collect material (presentation slides and the like) from our events.
 
+An updated list of current and past events can be found [here]({% link /contents/events/events.md %}).
+
 ### Members
 
 * Loek Cleophas (acting leader; TU/e and research school IPA)
