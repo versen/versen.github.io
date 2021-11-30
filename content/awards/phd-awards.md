@@ -31,7 +31,7 @@ The Award can only be awarded to graduate students who have obtained their degre
 
 *   01-10-2021 Awards are announced, [submission form open](https://docs.google.com/forms/d/e/1FAIpQLSfZHJEdbKldmLLMWMSGn7cilm28jv8czO1ESMEUFGCbpF5uIg/viewform?usp=sf_link)
 
-*   01-12-2021 Deadline for submission
+*   05-12-2021 Deadline for submission (EXTENDED)
 
 *   01-02-2022 Notification
 
