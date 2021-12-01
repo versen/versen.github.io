@@ -35,14 +35,16 @@ The Dutch universities have a few requirements for such collaborations to happen
 
 
 * The project to be worked on must be agreed upon between the university researcher   
-and the company supervisor. The type of work needs to be scientific enough for the university to grant the title of MSc to the student. Engineering work (e.g., develop some website or fix bugs for the current application) are not considered suitable for a MSc   
+and the company supervisor. The type of work needs to be scientific enough for the    
+university to grant the title of MSc to the student. Engineering work (e.g., develop    
+some website or fix bugs for the current application) are not considered suitable for a MSc   
 thesis. The work should be defined as a project on its own, and it should not be the   
 day-to-day business of the company.
-* The company should host the student for the entire period of the MSc thesis research.   
-Different universities have different regulations. For example, a TU Delft student should   
-be hosted for 9 months, a MSc project at the University of Twente consists of a   
-preparation phase of approx 1,5 months, followed by a thesis project of  5 - 6 months,   
-and a MSc thesis at University of Amsterdam has a 1 month preparation phase plus a 3-5 months project.
+*  Universities prefer theses to be publicly available and any differences between the    
+involved institutions in terms of confidentiality conditions should be discussed and    
+resolved before the start of the project.
+* The company should host the student for the entire period of the MSc thesis research 
+(check the respective master program description for specific details).
 * The company should offer a great work environment for the student. We recommend   
 companies to embed the student in one of the teams, so that the student feels really   
 welcome. A company supervisor must be available for the student whenever they have   
@@ -51,7 +53,8 @@ questions.
 performance of the student.
 * The company supervisor should attend the final MSc thesis defense.
 * Although not compulsory, companies tend to offer a small stipend to support the student   
-throughout this phase. 
+throughout this phase. If this takes the form of a contract, please note that non-EU students    
+might not be allowed to sign contracts with companies, and a tripartite agreement might be needed.
 
 
 ### How to get started
