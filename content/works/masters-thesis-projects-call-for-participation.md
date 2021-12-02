@@ -62,7 +62,7 @@ The first step is to find the best match between the university (and researcher)
 company. 
 
 
-VERSEN offers such support. To get started, send us an e-mail to m.huisman@utwente.nl, with the following  
+VERSEN offers such support. To get started, send us an e-mail to [m.huisman@utwente.nl](mailto:m.huisman@utwente.nl), with the following  
 information:
 
 

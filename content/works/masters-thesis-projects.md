@@ -9,7 +9,7 @@ Many VERSEN members supervise master thesis students. Often these students do a 
 
 However, universities also all have their own way of working, and have certain companies that they have already have relationships with. This working group will try to get an overview of how master students get connected with companies in the different VERSEN partners, and if suitable, it will then come with a proposal to provide a national platform to connect master students to companies.
 
-For more detail, please refer to the current [Call for Participation](/contents/works/masters-thesis-projects-call-for-participation).
+If you would like to collaborate with members of VERSEN in the form of a master thesis project, see our [call for participation](/contents/works/masters-thesis-projects-call-for-participation) on master thesis collaboration between companies and universities.
 
 ## Members
 
