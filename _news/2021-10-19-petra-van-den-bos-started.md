@@ -1,6 +1,6 @@
 ---
 layout: news
-picture: "default.png"
+picture: "PetravandenBos.jpg"
 title: "Petra van den Bos started as assistant professor in Twente"
 ---
 
