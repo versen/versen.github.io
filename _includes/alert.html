@@ -1,0 +1,7 @@
+<div class="alert alert-{{include.type | default: 'info'}}" role="alert">
+    {%- if include.badge -%}
+    <span class="badge badge-pill badge-{{include.type | default: 'info'}}">{{include.badge}}</span> <span class="align-middle">{{include.msg}}</span>
+    {%- else -%}
+    <span>{{include.msg}}</span>
+    {%- endif -%}
+</div>
