@@ -9,7 +9,7 @@ permalink: /contents/procedure-thesis-award
 
 To further promote and encourage excellence in software engineering research, VERSEN has introduced the VERSEN Thesis Awards. The awards are indications of excellence that can support talent in future applications in the current competitive academic climate.
 
-The awards are supported by NWO and promoted at ICT.Open.
+The awards are supported by NWO and promoted at [ICT.Open](https://ict-research.nl/ict-open/).
 
 The theses will be judged on the following factors, in equal parts:
 
@@ -37,20 +37,8 @@ The Award can only be awarded to graduate students who have obtained their degre
 
 There are a maximum of four awards awarded per category. It is at the jury's discretion to decide how awards are awarded, ideally with a minimum of one award per category and a cash prize for at least the first award.
 
-### Important Dates (Both Awards)
+### Important Dates & Submission (Both Awards)
 
-01-10: Awards are announced, [submission form](https://docs.google.com/forms/d/e/1FAIpQLSfZHJEdbKldmLLMWMSGn7cilm28jv8czO1ESMEUFGCbpF5uIg/viewform?usp=sf_link) open
+For the important dates, submission procedure, and status of the current edition, please see the [call for submissions](/contents/awards-cfs).
 
-01-11: Determining where awards are presented, typically ICT-Open and SEN-Symposium
-
-01-12: Deadline for submission
-
-15-12: Jury meeting
-
-15-01: Proposal for award winners is announced to the board of VERSEN
-
-01-02: Notification of awards to the candidates
-
-01-03: Call for a new member for the coming year by the jury chair
-
-01-04: Resolution of awards and prizes, in collaboration with NWO
+For past editions, please see the [history of the awards](/contents/awards-history).
