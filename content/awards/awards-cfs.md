@@ -35,9 +35,9 @@ For further information about the awards, contact dr. Slinger Jansen ([slinger.j
 
 ### Award ceremony
 
-The ceremony of the *MSc Thesis Award* will take place on 18-19 February 2022 at [SEN Symposium](https://www.sen-symposium.nl/).
+The ceremony of the *MSc Thesis Award* will take place in April 2022 at [ICT.Open](https://ict-research.nl/ict-open/).
 
-The ceremony of the *PhD Thesis Award* will take place on April 2022 at [ICT.Open](https://ict-research.nl/ict-open/).
+The ceremony of the *PhD Thesis Award* will take place in April 2022 at [ICT.Open](https://ict-research.nl/ict-open/).
 
 ### Evaluation Committee
 
