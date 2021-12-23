@@ -6,6 +6,7 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
+*   [ICT-Open 2022](https://www.ictopen.nl/)
 
 ### Past VERSEN Events
 
