@@ -65,14 +65,6 @@ permalink: /contents/board
         University of Twente
       </p>
     </div>
-    <div class="col-md-3 col-sm-6">
-      <p class="img-wrap"><img class="img-adj" style="margin-left: -25px;" src="/assets/img/board/fabiano.jpg" alt="Fabiano Dalpiaz"></p>
-      <p>
-        <a href="https://webspace.science.uu.nl/~dalpi001/">Fabiano Dalpiaz</a>
-        <br/>
-        Utrecht University
-      </p>
-    </div>
 </div>
 
 ## Board support
@@ -121,8 +113,9 @@ permalink: /contents/board
 *   [Clemens Grelck](https://staff.fnwi.uva.nl/c.u.grelck/), **University of Amsterdam**
 *   [Eelco Visser](https://eelcovisser.org/), **Delft University of Technology**
 *   [Felienne Hermans](https://www.universiteitleiden.nl/en/staffmembers/felienne-hermans#tab-1), **Leiden University**
-*   [Frank de Boer](https://homepages.cwi.nl/~frb/), **NWO-I Centrum Wiskunde & Informatica, Leiden University**
+*   [Fabiano Dalpiaz](https://webspace.science.uu.nl/~dalpi001/), **Utrecht University**
 *   [Farhad Arbab](https://homepages.cwi.nl/~farhad/), **NWO-I Centrum Wiskunde & Informatica **
+*   [Frank de Boer](https://homepages.cwi.nl/~frb/), **NWO-I Centrum Wiskunde & Informatica, Leiden University**
 *   [Frits Vaandrager](http://www.cs.ru.nl/~fvaan/), **Radboud University**
 *   [Gabriele Keller](https://www.uu.nl/medewerkers/GKKeller)**, Utrecht University**
 *   [Giancarlo Guizzardi](https://people.utwente.nl/g.guizzardi), **University of Twente**
