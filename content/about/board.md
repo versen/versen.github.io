@@ -65,6 +65,14 @@ permalink: /contents/board
         University of Twente
       </p>
     </div>
+    <div class="col-md-3 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" style="margin-left: -25px;" src="/assets/img/board/fabiano.jpg" alt="Fabiano Dalpiaz"></p>
+      <p>
+        <a href="https://webspace.science.uu.nl/~dalpi001/">Fabiano Dalpiaz</a>
+        <br/>
+        Utrecht University
+      </p>
+    </div>
 </div>
 
 ## Board support
