@@ -13,7 +13,6 @@ permalink: /contents/events
 
 *   IPA & VERSEN [Seminar Afternoon on "Artificial Intelligence meets Software Engineering"](https://ipa.win.tue.nl/?event=joint-ipa-versen-seminar-afternoon-on-artificial-intelligence-meets-software-engineering)
 *   [SEN-Symposium 2021](http://www.sen-symposium.nl/history/2021/program/)
->>>>>>> 7eded05 (2021)
 *   [ICT-Open 2021](https://www.ictopen.nl/)
 *   [SEN Symposium 2020](http://www.sen-symposium.nl/history/2020/program)
 *   [BENEVOL 2020](https://benevol2020.github.io/)
