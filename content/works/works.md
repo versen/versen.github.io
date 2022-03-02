@@ -13,7 +13,6 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 * [Symposium](/contents/works/symposium) comprises the people that organize the yearly SEN symposium. Its members are different every year.
 * [Publicity](/contents/works/publicity) has the goal to create and edit content for the newsletter and the website.
 * [European Manifesto](/contents/works/european-manifesto) find synergy among different other manifesto initiatives in Europe.
-* [Slack](/contents/works/slack) boosts the participation of community members in Slack by adding content, triggering discussions, and scouting new members to be invited.
 * [Master's Thesis Projects](/contents/works/masters-thesis-projects) national platform for Master thesis projects in software research.
 * [Education](/contents/works/education) explore how software engineering education can be improved across all levels.
 * [Post-master Education](/contents/works/se-postmaster) investigate the needs of Software Engineers for education at the post-Master level.

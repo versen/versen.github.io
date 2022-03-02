@@ -3,7 +3,9 @@ layout: content
 permalink: /contents/works/slack
 ---
 
-## Working Group: Slack
+## *(ARCHIVED)* Working Group: Slack
+
+{% include alert.html type="danger" msg="This Working Group is archived for the time being." %}
 
 The goal of the working group is to boost the participation of community members in Slack by adding content, triggering discussions, and scouting new members to be invited.
 
