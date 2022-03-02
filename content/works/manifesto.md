@@ -5,7 +5,9 @@ permalink: /contents/works/manifesto
 
 ## Working Group: Manifesto
 
-This working group has completed. The goal of the group was to author a manifesto that summarizes the strategic vision of our research field. The manifesto was envisioned at the inception of VERSEN itself. It was completed in 2020.
+{% include alert.html type="warning" msg="This working group has been archived." %}
+
+This working group has completed its task. The goal of the group was to author a manifesto that summarizes the strategic vision of our research field. The manifesto was envisioned at the inception of VERSEN itself. It was completed in 2020.
 
 
 ### Contributors

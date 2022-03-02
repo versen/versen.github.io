@@ -29,7 +29,6 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 
 ## Archive
 
-This is a list of Working Groups that have completed.
-
-* [Visual Story](/contents/works/visual-story): explain our research field in a visual story, for use in the [Manifesto](/contents/manifesto) and other communications.
 * [Manifesto](/contents/works/manifesto): develop a manifesto to explain the mission of our research field in a concise manner.
+* [Slack](/contents/works/slack): boosts the participation of community members in Slack by adding content, triggering discussions, and scouting new members to be invited.
+* [Visual Story](/contents/works/visual-story): explain our research field in a visual story, for use in the [Manifesto](/contents/manifesto) and other communications.
