@@ -46,3 +46,7 @@ This year's evaluation committee is composed of:
 * prof. dr. Jorge Perez
 * dr. Anton Wijs
 * dr. Yanja Dajsuren
+
+### Sponsorship
+
+The awards are sponsored by the [Software Improvement Group (SIG)](https://www.softwareimprovementgroup.com).
