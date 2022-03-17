@@ -1,6 +1,6 @@
 ---
 layout: news
-picture: "default.jpg"
+picture: "default.png"
 title: "NWO subsidy for open source project on room acoustics headed by TU/e professors Maarten Hornikx and Alexander Serebrenik "
 ---
 

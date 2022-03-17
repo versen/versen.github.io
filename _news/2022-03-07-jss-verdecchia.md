@@ -1,6 +1,6 @@
 ---
 layout: news
-picture: "default.jpg"
+picture: "default.png"
 title: "S2 group researchers receive JSS best paper award"
 ---
 

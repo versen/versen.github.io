@@ -1,6 +1,6 @@
 ---
 layout: news
-picture: "default.jpg"
+picture: "default.png"
 title: "Join the Communication Plan Working Group"
 ---
 
