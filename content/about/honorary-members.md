@@ -3,9 +3,19 @@ layout: content
 permalink: /contents/honorary-members
 ---
 
-
+## Honorary Fellows 
 
 The Honorary Fellow of VERSEN is an honorary designation for emeriti professors and research staff members who had an impact on the field of Software Engineering in the Netherlands and beyond. Honorary Fellows are selected by the board of VERSEN and can be proposed by sending an email to [secretary@versen.nl](mailto:secretary@versen.nl?subject=VERSEN%20Honorary%20Fellow%20proposal).
+
+### 2021
+
+In 2021 two new Honorary Fellows were announced:
+
+* Prof. dr. Peter van Emde Boas ([movie by former colleague Prof. dr. Jurgen Vinju](https://youtu.be/zIZk7sjPHnU)) 
+
+* Prof. dr. Wim Hesselink ([movie by former colleague Prof. dr. Jorge Perez Parra](https://youtu.be/_VEgeJjRxfM))
+
+### 2020
 
 At the 2020 SEN Symposium eight honorary fellows were announced. The following people will hereby be known as VERSEN Honorary Fellows:
 
