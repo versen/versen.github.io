@@ -53,7 +53,7 @@ def get_member_info(m):
 def generate_list_md(total_members, visible_members):
   """Create the text for the file list.md from Mailchimp list of members."""
 
-  template = '---\nlayout: content\npermalink: /users\n---\n\n'
+  template = '---\nlayout: content\npermalink: /content/members\n---\n\n'
   template += f'VERSEN currently has **{total_members}** members.\n\n'
   template += f'The following members allowed us to share their information.\n\n'
   
@@ -75,8 +75,8 @@ if __name__ == "__main__":
     default=os.environ.get('VERSEN_MC_KEY'),
     help='Mailchimp API key (e.g., a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9a9-us1).\nCan be set using the environment variable VERSEN_MC_KEY.')
   parser.add_argument('-o', '--output', 
-    default=os.path.join(os.path.dirname(os.path.realpath(__file__)), 'content', 'members', 'list.md'), 
-    help='Default: <root>/content/members/list.md')
+    default=os.path.join(os.path.dirname(os.path.realpath(__file__)), 'content', 'about', 'members.md'), 
+    help='Default: <root>/content/about/members.md')
   
   args = parser.parse_args()
   if not args.api_key:
