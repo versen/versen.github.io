@@ -6,6 +6,7 @@ import locale
 import os
 from urllib import request, parse
 
+EMPTY_FIELD = (None, '', 'A', 'N/A', 'NA', 'NVT', 'N.V.T.', 'N.V.T')
 
 def get_members(token, list_id, segment_id=None, count=999):
   """Collect members in a list or segment using Mailchimp API"""
@@ -34,10 +35,10 @@ def get_member_info(m):
   m["merge_fields"]["AFFIL1"] = m["merge_fields"]["AFFIL1"].strip()
   m["merge_fields"]["AFFIL2"] = m["merge_fields"]["AFFIL2"].strip()
   
-  if m["merge_fields"]["AFFIL1"] not in (None, '', 'a', 'N/A'):
+  if m["merge_fields"]["AFFIL1"].upper() not in EMPTY_FIELD:
     affiliation = f'*{m["merge_fields"]["AFFIL1"]}*'
   
-  if m["merge_fields"]["AFFIL2"] not in (None, '', 'a', 'N/A'):
+  if m["merge_fields"]["AFFIL2"].upper() not in EMPTY_FIELD:
     if affiliation:
       affiliation += f' and *{m["merge_fields"]["AFFIL2"]}*'
     else:
