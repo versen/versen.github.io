@@ -3,5 +3,278 @@ layout: content
 permalink: /users
 ---
 
+VERSEN currently has **301** members.
 
-TODO: maybe a collection of users, and we keep adding them to the website?
+The following members allowed us to share their information.
+
+- A Fehnker, *University Twente*
+- Afshin Amighi, *Rotterdam University of Applied Science*
+- Alex Serban, *Radboud University* and *Software Improvement Group*
+- Alexander Serebrenik, *Eindhoven University of Technology*
+- Alfons Laarman, *Leiden University*
+- Alfons Laarman, *Universiteit Leiden*
+- Ali Khatami, *TU Delft*
+- Ana-Maria Sutii, *Eindhoven University of Technology*
+- Ana-Maria Oprescu, *Universiteit van Amsterdam* and *Vrije Universiteit*
+- Andrea Capiluppi, *University of Groningen*
+- Andy Zaidman, *Delft University of Technology*
+- Anna-Lena Lamprecht, *Universiteit Utrecht*
+- Annibale Panichella, *Delft University of Technology*
+- Anton Wijs, *Eindhoven University of Technology*
+- Arend Rensink, *University of Twente*
+- Arie van Deursen, *Delft University of Technology*
+- Arjan Mooij, *Embedded Systems Innovation by TNO*
+- Arjan Egges, *Quarterfall* and *ArjanCodes*
+- Arnd Hartmanns, *University of Twente*
+- Arnold Houwing, *Obione Software*
+- Aron Zwaan, *TU Delft*
+- Arumoy Shome, *TU Delft*
+- Ashish Sai, *Open University* and *University of Amsterdam*
+- Athanasios Papakostopoulos, *ASML*
+- Axel Belinfante, *BetterBe*
+- Ayalew Kassahun, *Wageningen University*
+- Ayushi Rastogi, *University of Groningen*
+- Bas Luttik, *Eindhoven University of Technology*
+- Bastiaan Heeren, *Open Universiteit*
+- Bastian Roden, *Schuberg Philis*
+- Bedir Tekinerdogan, *Wageningen University*
+- Behrooz Nobakht, *Leiden University* and *CWI*
+- Ben van Werkhoven, *Netherlands eScience Center*
+- Bert de Brock, *RUG, Faculty of Economics and Business*
+- Bert Wimmenhove, *Windesheim*
+- Bob Diertens, *Universiteit van Amsterdam*
+- Bob Rubbens, *University of Twente*
+- Boudewijn Haverkort, *Tilburg University*
+- Bram Kohlen, *University of Twente*
+- Burcu Kulahcioglu Ozkan, *Delft University of Technology*
+- C Chen, *SIG*
+- Carianne Pretorius, *Eindhoven University of Technology*
+- Carlos Diego Nascimento Damasceno, *Radboud University*
+- Carolin Brandt, *Delft University of Technology* and *Software Engineering Research Group*
+- Casper Bach Poulsen, *TU Delft*
+- Cezar Sas, *University of Groningen*
+- Chen Yang, *University of Groningen*
+- Christian Manteuffel, *University of Groningen* and *Software Engineering and Architecture*
+- Christoph Bockisch, *Open Universiteit*
+- Chushu Gao, *SIG*
+- Cigdem Aytekin, *Info.nl*
+- Claudia Raibulet, *Vrije Universiteit Amsterdam*
+- Clemens Grelck, *Universiteit van Amsterdam*
+- Cristian Daniele, *Radboud University*
+- Damian A. Tamburri, *Technical University of Eindhoven* and *Jheronimus Academy of Data Science*
+- Daniel Feitosa, *University of Groningen*
+- Daniel Strüber, *Radboud University Nijmegen*
+- Daniel dos Santos, *Forescout Technologies*
+- Danny Suls, *Mapscape BV*
+- Dario Di Nucci, *Tilburg University* and *Jheronimus Academy of Data Science*
+- David A. Manrique Negrin, *Eindhoven University of Technology*
+- Davy Landman, *CWI*
+- Dennis Dams, *TNO-ESI*
+- Dipti Sarmah, *University of Twente*
+- Doaitse Swierstra, *Utrecht University*
+- Ebrahim Rahimi, *Open Universiteit* and *Assistant professor at the Computer Science Department of Science Faculty*
+- Ed Kuijpers, *Hogeschool van Amsterdam* and *VICARvision, Telecult*
+- Eelco Visser, *Delft University of Technology*
+- Efthimia Aivaloglou, *University of Leiden*
+- Elena Baninemeh, *Department of Information and Computer Science at Utrecht University*
+- Eleni Constantinou, *Eindhoven University of Technology*
+- Emitzá Guzmán, *VU Amsterdam*
+- Enrique Larios Vargas, *Software Improvement Group* and *Delft University of Technology*
+- Eric Bouwers, *Grasple*
+- Erik de Vink, *TU/e* and *CWI*
+- Erik van de Ven, *AFAS Software BV*
+- Erik Poll, *Radboud Universiteit*
+- Erik Post, *Shinsetsu*
+- Ernst Moritz Hahn, *University of Twente*
+- Fabiano Dalpiaz, *Utrecht University*
+- Fabio Massacci, *Vrije Universiteit Amsterdam*
+- Farhad Arbab, *Centre for Mathematics and Computer Science (CWI)*
+- Felienne Hermans, *Leiden University*
+- Felipe Ebert, *Eindhoven University of Technology*
+- Fernando Castor, *Utrecht University* and *Federal University of Pernambuco*
+- Floris-Jan Willemsen, *Netherlands eScience Center* and *University of Amsterdam*
+- Frank Vogelezang, *Ordina* and *COSMIC*
+- Frank de Boer, *Centrum Wiskunde & Informatica*
+- Frits Vaandrager, *Radboud University Nijmegen*
+- Gabriele Keller, *Utrecht University*
+- Georgiana Caltais, *University of Twente*
+- Georgios Gousios, *TU Delft*
+- Georgios Digkas, *RUG*
+- Gerard Wagenaar, *Utrecht University*
+- Giancarlo Guizzardi, *University of Twente*
+- Greg Alpár, *Open University of the Netherlands* and *Radboud University, Nijmegen*
+- Gunnar Kudrjavets, *University of Groningen*
+- Gururaj Maddodi, *Utrecht University*
+- Guus Ramackers, *Leiden Institute of Advanced Computer Science, Leiden University*
+- Hajo Reijers, *Utrecht University*
+- Hans Dekkers, *UvA* and *Kaizen Automatisering*
+- Hans van Vliet
+- Hans-Dieter Hiep, *CWI*
+- Harald Vranken, *Open Universiteit*
+- Harrie Passier, *Open universiteit*
+- Helle Hvid Hansen, *University of Groningen*
+- Hendrik van Antwerpen, *TU Delft*
+- Hennie Huijgens, *Goverdson* and *Delft University of Technology*
+- Henning Basold, *Leiden University*
+- Henrie Vos, *NXP*
+- Herman Geuvers, *Rijksuniversiteit*
+- Huub Bakker, *Belastingdienst*
+- Huub van Thienen, *Hogeschool van Amsterdam* and *HBO-ICT Make IT Work*
+- Ilias Gerostathopoulos, *Vrije Universiteit Amsterdam*
+- Imara van Dinten, *Delft University of Technology*
+- Ioannis Charitopoulos, *Schuberg Philis*
+- Ivano Malavolta, *Vrije Universiteit Amsterdam*
+- Jaco van de Pol, *University of Twente*
+- Jan Tretmans, *TNO Embedded Systems Innovation* and *Radboud University*
+- Jan Bergstra
+- Jan Friso Groote, *Eindhoven University of Technology*
+- Jan Martijn van der Werf, *Utrecht University*
+- Jeroen Keiren, *Eindhoven University of Technology* and *Randboud Universiteit*
+- Jeroen Meijer, *Eijsink*
+- Jesper Cockx, *TU Delft*
+- Joao Moreira, *U.Twente*
+- Johan Jeuring, *Utrecht University*
+- Johan Lukkien, *Eindhoven University*
+- John Pool, *SpeakEasy Software Development*
+- Joost Visser, *Leiden University*
+- Joost Schalken, *Hogeschool Windesheim*
+- Joost-Pieter Katoen, *RWTH Aachen University* and *Universiteit Twente*
+- Jorge A. Pérez, *University of Groningen*
+- Joris Best
+- Jos Baeten, *Centrum Wiskunde & Informatica* and *Universiteit van Amsterdam*
+- Joseph Hejderup, *TU Delft*
+- Jouke Stoel, *CWI*
+- Jozef Hooman, *Radboud University Nijmegen*
+- Julien Schmaltz, *Eindhoven University of Technology*
+- Jurgen Vinju, *NWO-I Centrum Wiskunde & Informatica* and *TU Eindhoven*
+- Jurriaan Hage, *Utrecht University*
+- Kate Labunets, *Utrecht University*
+- Katja Tuma, *Vrije Universiteit*
+- Kevin van der Vlist, *ING*
+- Kousar Aslam, *VU Amsterdam*
+- Kwabena Bennin, *Wageningen University*
+- Leon Moonen, *Simula Research Laboratory*
+- Lianne Hufkens, *Open University of the Netherlands and Flanders*
+- Loek Cleophas, *TU Eindhoven* and *Stellenbosch University*
+- Lorenzo Adyns, *FOD Justitie*
+- Luiz Olavo Bonino da Silva Santos, *University of Twente*
+- Lukas Armborst, *University of Twente*
+- Luís Ferreira Pires, *University of Twente*
+- Magiel Bruntink, *Software Improvement Group*
+- Mairieli Wessel, *Delft University of Technbology*
+- Marcel Beemster, *Solid Sands*
+- Marcel Harkema, *AEGON TKP Pensioen*
+- Marcel Meesters
+- Marcello Bonsangue, *LIACS - Leiden University* and *CWI*
+- Marco di Biase, *Technical University of Delft* and *Software improvement group*
+- Marco Vasquez, *RUG*
+- Marieke Huisman, *University of Twente*
+- Marielle Stoelinga, *University of Twente*
+- Mark van den Brand, *Eindhoven University of Technology*
+- Marko van Eekelen, *Radboud University Nijmegen*
+- Marko van Eekelen, *Open Universiteit, Heerlen*
+- Marten van Sinderen, *University of Twente*
+- Martijn Stegeman, *University of Amsterdam*
+- Martin Deiman, *Testwerk*
+- Maryam Razavian, *Eindhoven University of Technology*
+- Matt Chapman, *OBI4wan B.V.*
+- Mattijs Ghijsen, *Software Improvement Group*
+- Mauricio Verano Merino, *Eindhoven University of Technology*
+- Mauricio Aniche Test, *TU Delft*
+- Mauricio Aniche, *TU Delft*
+- Mauri­cio Aniche, *TU Delft* and *University of Sao Paulo*
+- Maya Daneva, *University of Twente*
+- Mazyar Seraj, *Technical University Eindhoven*
+- Mehmet Aksit, *University of Twente*
+- Michel Chaudron, *Gothenburg University, Gothenborg*
+- Michel Reniers, *Eindhoven University of Technology*
+- Michiel Overeem, *AFAS Software*
+- Mike Papazoglou, *Tilburg University*
+- Mohammad Hashem Faezi, *RUG*
+- MohammadMahdi Jaghouri, *CWI*
+- Mohsen Safari, *University of Twente*
+- Nelly Condori Fernandez
+- Nick Lodewijks, *ENGIE*
+- Nico Naus, *Open Universiteit*
+- Niels Doorn, *NHL Stenden University of Applied Sciences*
+- Nils Jansen, *Radboud University Nijmegen*
+- Nima Motamed, *Universiteit van Amsterdam*
+- Nishant Saurabh, *Department of Information and Computing Sciences, Utrecht University*
+- Noha Hazaa, *Schuberg Philis*
+- Oktay Turetken, *Eindhoven University of Technology*
+- Olga Gadyatskaya, *Leiden University*
+- Olivia Rodriguez Valdes, *Open Universiteit*
+- Paris Avgeriou, *University of Groningen*
+- Patricia Lago, *Vrije Universiteit Amsterdam*
+- Pepijn van de Kamp, *Ordina*
+- Peter Kourzanov, *NXP Semiconductors* and *TU/Delft*
+- Peter Lammich, *UTwente*
+- Peter Achten, *Radboud University, Faculty of Science, Institute for Computing and Information Sciences, Dept.Software Science*
+- Peter van Vliet, *Masking Technology*
+- Petra van den Broek, *Fontys ICT*
+- Pieter Van Gorp, *Eindhoven University of Technology*
+- Pieter Koopman, *Radboud University*
+- Ramon Schiffelers, *ASML & Eindhoven University of Technology*
+- Raúl Monti, *University of Twente*
+- Renata Guizzardi, *University of Twente* and *Ontology and Conceptual Modeling Research Group (NEMO) - Brazil*
+- Reza Safari, *Google*
+- Riemer van Rozen, *Centrum Wiskunde & Informatica*
+- Rinat Galyautdinov, *Self employed*
+- Rix Groenboom, *Hanze Hogeschool Groningen* and *Advisor of University of Groningen*
+- Rob Albers, *Philips Healthcare*
+- Rob van Nieuwpoort, *Netherlands eScience Center* and *University of Amsterdam*
+- Robbert van Dalen, *ING*
+- Roberto Verdecchia, *Vrije Universiteit Amsterdam*
+- Rodin Aarssen, *CWI*
+- Roel Wieringa
+- Roniet Sharabi, *TU Delft*
+- Ruben Miguel Malveiro Garcia, *Devoteam* and *ISCTE*
+- Ruiyin Li, *University of Groningen*
+- Sangeeth Kochanthara, *TU Eindhoven*
+- Sebastiaan Joosten, *Dartmouth College*
+- Sebastian Junges, *Radboud University*
+- Sicco Verwer, *TU Delft*
+- Sjaak Brinkkemper, *Utrecht University*
+- Slinger Jansen, *Utrecht University*
+- Soham Chakraborty, *Assistant Professor*
+- Sophie Lathouwers, *University of Twente*
+- Stefan Koppier, *Utrecht University*
+- Stephen Adams, *ING*
+- Stijn de Gouw, *CWI* and *SDL*
+- Sung-Shik Jongmans, *Open University of the Netherlands* and *Radboud University Nijmegen*
+- Sven-Bodo Scholz, *Groningen University*
+- Sylvia Stuurman, *Open Universiteit*
+- Tanja Vos, *Open University, Netherlands*
+- Tannaz Zameni, *University of Twente*
+- Theo Theunissen, *HAN*
+- Thom Badings, *Radboud University*
+- Thomas Degueule, *CQI*
+- Thomas Neele, *Technische Universiteit Eindhoven*
+- Tien Rahayu Tulili, *University of Groningen*
+- Tijs van der Storm, *CWI and Groningen University*
+- Tim Soethout, *ING Bank Netherlands*
+- Tim Willemse, *Eindhoven University of Technology*
+- Tim van Deurzen, *GfK Business Applications*
+- Tim Steenvoorden, *Open University*
+- Tjerk Spijkman, *fizor* and *Utrecht University*
+- Tom van Dijk, *University of Twente*
+- Vadim Zaytsev, *Universiteit Twente*
+- Vasilios Andrikopoulos, *University of Groningen*
+- Vijanti Ramautar, *Utrecht University*
+- Vladimir Kovalenko, *JetBrains Research*
+- Wallace Corbo Ugulino, *University of Twente*
+- Wieger Wesselink, *Technische Universiteit Eindhoven*
+- Wim Hesselink, *University of Groningen*
+- Wishnu Prasetya, *Utrecht University*
+- Wissal Guedri, *ISSE*
+- Wouter Everse, *Portbase*
+- Xander Schrijen, *Software Improvement Group*
+- Yanja Dajsuren, *Eindhoven University of Technology (TU/e)*
+- Zaharah Bukhsh, *TU/e*
+- Zaki Pauzi, *University of Groningen* and *BP plc*
+- Zhiming Zhao, *University of Amsterdam*
+- rinus plasmeijer, *University of Nijmegen*
+- sajid Anwar, *Institute of Management Sciences Peshawar Pakistan*
+- Ömer Şakar, *University of Twente*
+- Önder Babur, *Eindhoven University of Technology*
+- Željko Obrenović, *eBay (Classifieds Group)*
