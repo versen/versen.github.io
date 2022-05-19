@@ -25,7 +25,7 @@ At the 2020 SEN Symposium eight honorary fellows were announced. The following
 
 * Prof. dr. Paul Klint ([movie by former PhD student Prof. dr. Jurgen Vinju](https://youtu.be/OR5OrF1ZUz0))
 
-* Prof. dr. Jan Bergrstra ([movie by former colleague Prof. dr. Jos Baeten](https://youtu.be/KsJ5SW9XvlU))
+* Prof. dr. Jan Bergstra ([movie by former colleague Prof. dr. Jos Baeten](https://youtu.be/KsJ5SW9XvlU))
 
 * Prof. dr. Doaitse Swierstra ([movie by former PhD student Prof. dr. Tanja Vos](https://youtu.be/yyIiaP7-Yj8))
 
