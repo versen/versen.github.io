@@ -18,9 +18,13 @@ NETHERLANDS
 Phone: +31 20 592 9333
 ```
 
+
 Or send email to:
 
 * [secretary@versen.nl](mailto:secretary@versen.nl) to contact the secretary of VERSEN
 * [board@versen.nl](mailto:board@versen.nl) to reach all board members at once.
 * [info@versen.nl](mailto:info@versen.nl) for general questions (an appropriate board member will be matched to your question)
 * [advisory-board@versen.nl](mailto:advisory-board@versen.nl) to contact the advisory board. Please note that this email is checked before forwarding.
+
+
+WebMaster: For web page issues please contact us on [Github](https://github.com/versen/versen.github.io/issues).
