@@ -6,11 +6,12 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-*   [ICT-Open 2022](https://www.ictopen.nl/)
-*   [SEN-Symposium 2022](http://www.sen-symposium.nl/)
+* *To be announced*
 
 ### Past VERSEN Events
 
+*   [ICT-Open 2022](https://www.ictopen.nl/)
+*   [SEN-Symposium 2022](https://www.sen-symposium.nl/history/2022/program)
 *   IPA & VERSEN [Seminar Afternoon on "Artificial Intelligence meets Software Engineering"](https://ipa.win.tue.nl/?event=joint-ipa-versen-seminar-afternoon-on-artificial-intelligence-meets-software-engineering)
 *   [SEN-Symposium 2021](http://www.sen-symposium.nl/history/2021/program/)
 *   [ICT-Open 2021](https://www.ictopen.nl/)
