@@ -36,3 +36,4 @@ So one can see that Eelco’s impact on the world of software is not limited to 
 
 Eelco’s death leaves a crater, at TU Delft where his research group is now without its visionary leader, in the Netherlands, where is was an active member of the software engineering community, and in the international academic programming languages community. He will be sorely missed.
 
+Tijs van der Storm
