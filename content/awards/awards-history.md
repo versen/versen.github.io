@@ -5,6 +5,45 @@ permalink: /contents/awards-history
 
 ## VERSEN Thesis Awards History
 
+### 2021
+
+The awards were sponsored by the [Software Improvement Group](https://www.sig.eu/).
+
+#### Evaluation Committee
+
+* dr. Yanja Dajsuren - TU Eindhoven
+* dr. Slinger Jansen - Utrecht University
+* prof. dr. Jorge A. Pérez - University of Groningen 
+* dr. Anton Wijs - TU Eindhoven
+
+#### PhD Thesis Winners
+
+* 1st place: Pouria Derakhshanfar - TUDelft
+	* ***Search-Based Crash Reproduction and Test Case Generation*** ([pdf](https://drive.google.com/file/d/1VLQFPSQPupOTCDHBKUtQEMZnsHsdNYNy/view?usp=sharing))
+	* Supervisors: Arie van Deursen, Andy Zaidman, and Annibale Panichella
+
+* 2nd place: Arjen Rouvoet - TUDelft
+	* ***Correct by Construction Language Implementations*** ([pdf](https://drive.google.com/file/d/1xIqmT2ggqY-LZO8F5txOfgQW9P_cSgIg/view?usp=sharing))
+	* Supervisors: Eelco Visser and Robbert Krebbers
+
+* 3rd place: Areti Ampatzoglou - RUG
+	* ***Economics-driven Technical Debt Management*** ([pdf](https://drive.google.com/file/d/1Uyla3TNhj-RFx5Gnhk_Lr_GhhtXNUI5J/view?usp=sharing))
+	* Supervisors: Prof. dr. P. Avgeriou and Prof.Dr. A. N. Chatzigeorgiou
+
+#### MSc Thesis Winners
+
+* 1st place: Nuria Bruch Tarrega - Universiteit van Amsterdam
+	* ***Measuring the degree of library dependency*** ([pdf](https://drive.google.com/open?id=1CT4BpBEhe8lKWeQiiAZ4ubOhyP1qxT6u))
+	* Supervisors: Ana Oprescu
+
+* 2nd place: David van der Leij - TU Delft
+	* ***Data-Driven Extract Method Recommendations: An Initial Study at ING*** ([pdf](https://drive.google.com/open?id=1Q4ZXgrYx1vYIecxOT8ejpdpzS4R6DOsl))
+	* Supervisors: Mauricio Aniche, Yaping Luo
+
+* 3rd place: Max Mathijssen - Utrecht University
+	* ***API-m-FAMM: A Focus Area Maturity Model for API Management*** ([pdf](https://drive.google.com/open?id=1_xaMZi6VfkxGYMlzZ_JUczhTqRrur-Qz))
+	* Supervisors: Slinger Jansen
+
 ### 2020
 
 The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
