@@ -111,7 +111,6 @@ permalink: /contents/board
 *   [Bastiaan Heeren](http://www.open.ou.nl/bhr/), **Open University**
 *   [Bedir Tekinerdogan](https://www.wur.nl/nl/Personen/Bedir-Tekinerdogan.htm), **Wageningen University & Research**
 *   [Clemens Grelck](https://staff.fnwi.uva.nl/c.u.grelck/), **University of Amsterdam**
-*   [Eelco Visser](https://eelcovisser.org/), **Delft University of Technology**
 *   [Felienne Hermans](https://www.universiteitleiden.nl/en/staffmembers/felienne-hermans#tab-1), **Leiden University**
 *   [Fabiano Dalpiaz](https://webspace.science.uu.nl/~dalpi001/), **Utrecht University**
 *   [Farhad Arbab](https://homepages.cwi.nl/~farhad/), **NWO-I Centrum Wiskunde & Informatica **
