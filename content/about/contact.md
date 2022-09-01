@@ -21,7 +21,8 @@ P.O. Box 94079
 NETHERLANDS
 Phone: +31 20 592 9333
 ```
-* web: For web page issues of <http://www.versen.nl> or <http:www.sen-symposium.nl>, please contact us on [Github](https://github.com/versen/versen.github.io/issues).
+* **cares**: There is a [CARES - Committee to Aid REporting on discrimination, harassment, and related violations of the Code of Conduct](/contents/works/cares] to contact in case of violations of our [Code of Conduct](contents/about/code-of-conduct). Any other contact point (see above) can be used to talk about this as well.
+* **web**: For web page issues of <http://www.versen.nl> or <http:www.sen-symposium.nl>, please contact us on [Github](https://github.com/versen/versen.github.io/issues).
 
 
 
