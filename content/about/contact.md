@@ -5,26 +5,24 @@ permalink: /contents/contact
 
 ## Contact
 
-See the members page for a directory of people involved in software engineering in The Netherlands
+See the [members](/contents/members) page for a directory of people involved in software engineering research in The Netherlands.
 
 Contact VERSEN directly via:
 
+* general information: please use [info@versen.nl](mailto:info@versen.nl) if you are unsure where to address your question to VERSEN; we will take care of it. It mail is read by the secretary, the chair and the treasurer of VERSEN.
+* chair: [Tijs van der Storm](mailto:Tijs.van.der.Storm@cwi.nl); the chair is also the spokesperson of VERSEN. They can answer all questions regarding software engineering research and its applications in The Netherlands, or forward the question to another VERSEN member. [Paris Avgeriou](mailto:paris@cs.rug.nl) is the vice-chair.
+* secretary: [Alexander Serebrenik](mailto:a.serebrenik@tue.nl); the secretary handles organizational matters of the executive board, can facilitate appointments with board members, and also forward any question to the appropriate board member.
+* financial and legal: [Jurgen Vinju](mailto:Jurgen.Vinju@cwi.nl); the treasurer deals with all matters financial and legal for VERSEN. Please address snailmail as follows: 
 ```
 VERSEN 
-t.t.a. Jurgen Vinju (communication)
+t.t.a. Jurgen Vinju (CWI SWAT)
 P.O. Box 94079
 1090 GB Amsterdam
 NETHERLANDS
 Phone: +31 20 592 9333
 ```
+* web: For web page issues of <http://www.versen.nl> or <http:www.sen-symposium.nl>, please contact us on [Github](https://github.com/versen/versen.github.io/issues).
 
 
-Or send email to:
-
-* [secretary@versen.nl](mailto:secretary@versen.nl) to contact the secretary of VERSEN
-* [board@versen.nl](mailto:board@versen.nl) to reach all board members at once.
-* [info@versen.nl](mailto:info@versen.nl) for general questions (an appropriate board member will be matched to your question)
-* [advisory-board@versen.nl](mailto:advisory-board@versen.nl) to contact the advisory board. Please note that this email is checked before forwarding.
 
 
-WebMaster: For web page issues please contact us on [Github](https://github.com/versen/versen.github.io/issues).
