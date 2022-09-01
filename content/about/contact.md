@@ -9,10 +9,10 @@ See the [members](/contents/members) page for a directory of people involved in
 
 Contact VERSEN directly via:
 
-* general information: please use [info@versen.nl](mailto:info@versen.nl) if you are unsure where to address your question to VERSEN; we will take care of it. This inbox  is read by the secretary, the chair and the treasurer of VERSEN.
-* chair: [Tijs van der Storm](mailto:Tijs.van.der.Storm@cwi.nl); the chair is also the spokesperson of VERSEN. They can answer all questions regarding software engineering research and its applications in The Netherlands, or forward the question to another VERSEN member. [Paris Avgeriou](mailto:paris@cs.rug.nl) is the vice-chair.
-* secretary: [Alexander Serebrenik](mailto:a.serebrenik@tue.nl); the secretary handles organizational matters of the executive board, can facilitate appointments with board members, and also forward any question to the appropriate board member.
-* financial and legal: [Jurgen Vinju](mailto:Jurgen.Vinju@cwi.nl); the treasurer deals with all matters financial and legal for VERSEN. Please address snailmail as follows: 
+* **general information**: please use [info@versen.nl](mailto:info@versen.nl) if you are unsure where to address your question to VERSEN; we will take care of it. This inbox  is read by the secretary, the chair and the treasurer of VERSEN.
+* **chair**: [Tijs van der Storm](mailto:Tijs.van.der.Storm@cwi.nl); the chair is also the spokesperson of VERSEN. They can answer all questions regarding software engineering research and its applications in The Netherlands, or forward the question to another VERSEN member. [Paris Avgeriou](mailto:paris@cs.rug.nl) is the vice-chair.
+* **secretary**: [Alexander Serebrenik](mailto:a.serebrenik@tue.nl); the secretary handles organizational matters of the executive board, can facilitate appointments with board members, and also forward any question to the appropriate board member.
+* **financial and legal**: [Jurgen Vinju](mailto:Jurgen.Vinju@cwi.nl); the treasurer deals with all matters financial and legal for VERSEN. Please address snailmail as follows to ensure proper delivery: 
 ```
 VERSEN 
 t.t.a. Jurgen Vinju (CWI SWAT)
