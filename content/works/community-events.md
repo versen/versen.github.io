@@ -13,8 +13,12 @@ An updated list of current and past events can be found [here](/contents/events)
 
 ### Members
 
-* Loek Cleophas (acting leader; TU/e and research school IPA)
+* Loek Cleophas (group leader, TU/e and research school IPA)
+* Georgiana Caltais (U Twente)
 * Önder Babur (WUR and TU/e)
-* Mauricio Verano Merino (CWI and TU/e)
+* Mauricio Verano Merino (chair, CWI and TU/e)
 * Samira Shirzadehhajimahmood (UU)
-* Anna-Lena Lamprecht (on leave; UU)
+
+### History
+
+* Anna-Lena Lamprecht (group leader, University of Potsdam)
