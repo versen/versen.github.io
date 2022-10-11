@@ -13,10 +13,10 @@ An updated list of current and past events can be found [here](/contents/events)
 
 ### Members
 
-* Loek Cleophas (group leader, TU/e and research school IPA)
+* Mauricio Verano Merino (chair, CWI and TU/e)
+* Loek Cleophas (TU/e and research school IPA)
 * Georgiana Caltais (U Twente)
 * Önder Babur (WUR and TU/e)
-* Mauricio Verano Merino (chair, CWI and TU/e)
 * Samira Shirzadehhajimahmood (UU)
 
 ### History
