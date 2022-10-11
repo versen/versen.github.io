@@ -13,7 +13,7 @@ An updated list of current and past events can be found [here](/contents/events)
 
 ### Members
 
-* Mauricio Verano Merino (chair, CWI and TU/e)
+* Mauricio Verano Merino (chair, CWI and VU)
 * Loek Cleophas (TU/e and research school IPA)
 * Georgiana Caltais (U Twente)
 * Önder Babur (WUR and TU/e)
