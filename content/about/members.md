@@ -1,6 +1,6 @@
 ---
 layout: content
-permalink: /content/members
+permalink: /contents/members
 ---
 
 VERSEN currently has **300** members.

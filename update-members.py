@@ -54,7 +54,7 @@ def get_member_info(m):
 def generate_list_md(total_members, visible_members):
   """Create the text for the file list.md from Mailchimp list of members."""
 
-  template = '---\nlayout: content\npermalink: /content/members\n---\n\n'
+  template = '---\nlayout: content\npermalink: /contents/members\n---\n\n'
   template += f'VERSEN currently has **{total_members}** members.\n\n'
   template += f'The following members allowed us to share their information.\n\n'
   
