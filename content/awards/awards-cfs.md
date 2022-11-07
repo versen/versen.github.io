@@ -1,29 +1,36 @@
----
-layout: content
 permalink: /contents/awards-cfs
 ---
 
 ## VERSEN Thesis Awards - Call for Submissions
 
-{% include alert.html type="warning" msg="The call of the 2021 Thesis Awards has closed and the results will be announced in due time." %}
-
 ### Submission
 
-Submissions should be sent via the following [form](https://docs.google.com/forms/d/e/1FAIpQLSfZHJEdbKldmLLMWMSGn7cilm28jv8czO1ESMEUFGCbpF5uIg/viewform?usp=sf_link).
+The submission procedure is lightweight. You should submit the thesis and the candidate’s CV (both in PDF). Optionally, nominations can be complemented by a letter by the supervisors (PDF) and an accompanying short video (new this year, see below). 
+
+Submissions should be sent via the following [form](https://docs.google.com/forms/d/e/1FAIpQLSccH-a5gcNj-VEIK6jlmUGRz_IEB2JSAdEEIDQCFz3Jsd82Gw/viewform).
 
 For the selection criteria, please refer to the [procedure](/contents/procedure-thesis-award).
 
-For further information about the awards, contact dr. Slinger Jansen ([slinger.jansen@uu.nl](mailto:slinger.jansen@uu.nl)).
+For further information about the awards, contact dr.ing. Anton Wijs ([A.J.Wijs@tue.nl](mailto:A.J.Wijs@tue.nl)).
+
+#### **New this year: Video nomination!**
+
+The nominee, the supervisor, or both are given the option of submitting a short video (up to 3 minutes long) that presents the thesis (methods, achievements, lessons, significance) in a clear and engaging manner, ideally targeting broad audiences. 
+
+Submitting this video is optional; a link to the video can be provided in the submission form. 
+
+We look for creative videos that highlight the impact of software engineering at large. Depending on the number and quality of submitted videos, we will organize a session at the award ceremony with the best video(s).
+
 
 ### Important Dates
 
-01-10: Awards are announced
+04-11: Awards are announced
 
-01-11: Determining where awards are presented, typically ICT-Open and SEN-Symposium
+10-11: Determining where awards are presented, typically ICT-Open and SEN-Symposium
 
-01-12: Deadline for submission
+10-12: Deadline for submission
 
-15-12: Jury meeting
+12-01: Jury meeting
 
 15-01: Proposal for award winners is announced to the board of VERSEN
 
@@ -33,19 +40,12 @@ For further information about the awards, contact dr. Slinger Jansen ([slinger.j
 
 01-04: Resolution of awards and prizes, in collaboration with NWO
 
-### Award ceremony
-
-The ceremony of the *MSc Thesis Award* will take place on May 13th, 2022 at the [SEN symposium](http://www.sen-symposium.nl).
-
-The ceremony of the *PhD Thesis Award* will take place in April 2022 at [ICT.Open](https://ict-research.nl/ict-open/).
-
 ### Evaluation Committee
 
 This year's evaluation committee is composed of:
-* dr. Slinger Jansen
-* prof. dr. Jorge Perez
-* dr. Anton Wijs
+* dr.ing. Anton Wijs
 * dr. Yanja Dajsuren
+* prof. dr. Jorge Pérez
 
 ### Sponsorship
 
