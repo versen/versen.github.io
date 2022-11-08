@@ -1,5 +1,3 @@
----
-layout: content
 permalink: /contents/procedure-thesis-award
 ---
 
@@ -23,13 +21,14 @@ The theses will be judged on the following factors, in equal parts:
 
 Please note that the thesis will be published on VERSEN's website and cannot contain any intellectual property that is not public. If applicable, we will also publish links to associated artifacts (datasets, Github links, etc.).
 
+
 ### Awards Committee (jury)
 
 The awards committee consists of three people. Members can be a member for two years. The members yearly elect a head of the jury, who has the final say in determining the final number of awards. The members are typically VERSEN board members and form a representative selection from the board members.
 
 In the event that a member of the jury wishes to nominate a candidate supervised by them, the jury member will step down from the committee and finds a replacement jury member from the VERSEN board for this round. The outcome of the judgment of the members of the jury who can vote, should be weighed to make up a full rating for the candidate's work.
 
-The preferred voting system for the jury is [Anonymous Aoodle](http://adoodle.org/).
+The preferred voting system for the jury is [Anonymous Adoodle](http://adoodle.org/).
 
 ### Typical Procedure Thesis Awards
 
