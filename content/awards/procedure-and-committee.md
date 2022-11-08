@@ -1,3 +1,5 @@
+---
+layout: content
 permalink: /contents/procedure-thesis-award
 ---
 

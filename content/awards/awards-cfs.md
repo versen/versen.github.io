@@ -1,7 +1,11 @@
+---
+layout: content
 permalink: /contents/awards-cfs
 ---
 
 ## VERSEN Thesis Awards - Call for Submissions
+
+<!-- {% include alert.html type="warning" msg="The call of the 2021 Thesis Awards has closed and the results will be announced in due time." %} -->
 
 ### Submission
 
