@@ -42,9 +42,9 @@ permalink: /contents/board
       <p>
         <a href="https://homepages.cwi.nl/~jurgenv/">Jurgen Vinju</a>
         <br/>
-        NWO-I Centrum Wiskunde & Informatica
-        <br/>
         Treasurer
+        <br/>
+        NWO-I Centrum Wiskunde & Informatica
       </p>
     </div>
     <div class="col-md-3 col-sm-6">
