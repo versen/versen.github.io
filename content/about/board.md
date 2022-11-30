@@ -111,34 +111,36 @@ permalink: /contents/board
 *   [Bastiaan Heeren](http://www.open.ou.nl/bhr/), **Open University**
 *   [Bedir Tekinerdogan](https://www.wur.nl/nl/Personen/Bedir-Tekinerdogan.htm), **Wageningen University & Research**
 *   [Clemens Grelck](https://staff.fnwi.uva.nl/c.u.grelck/), **University of Amsterdam**
+*   [Damian Andrew Tamburri](https://research.tue.nl/en/persons/damian-a-tamburri), **Eindhoven University of Technology** and **Jheronimus Academy of Data Science** 
 *   [Felienne Hermans](https://www.universiteitleiden.nl/en/staffmembers/felienne-hermans#tab-1), **Leiden University**
 *   [Fabiano Dalpiaz](https://webspace.science.uu.nl/~dalpi001/), **Utrecht University**
-*   [Farhad Arbab](https://homepages.cwi.nl/~farhad/), **NWO-I Centrum Wiskunde & Informatica **
-*   [Frank de Boer](https://homepages.cwi.nl/~frb/), **NWO-I Centrum Wiskunde & Informatica, Leiden University**
+*   [Farhad Arbab](https://homepages.cwi.nl/~farhad/), **NWO-I Centrum Wiskunde & Informatica**
+*   [Frank de Boer](https://homepages.cwi.nl/~frb/), **NWO-I Centrum Wiskunde & Informatica** and **Leiden University**
 *   [Frits Vaandrager](http://www.cs.ru.nl/~fvaan/), **Radboud University**
 *   [Gabriele Keller](https://www.uu.nl/medewerkers/GKKeller)**, Utrecht University**
 *   [Giancarlo Guizzardi](https://people.utwente.nl/g.guizzardi), **University of Twente**
-*   [Hajo Reijers](https://www.win.tue.nl/~hreijers/)**, Utrecht University / Eindhoven University of Technology**
+*   [Hajo Reijers](https://www.win.tue.nl/~hreijers/)**, Utrecht University** and **Eindhoven University of Technology**
 *   [Herman Geuvers](http://www.cs.ru.nl/~herman/)**, Radboud University**
 *   [Jan Friso Groote](http://www.win.tue.nl/~jfg/), **Eindhoven University of Technology**
 *   [Johan Jeuring](http://www.staff.science.uu.nl/~jeuri101/homepage/), **Utrecht University**
 *   [Joost Visser](https://www.universiteitleiden.nl/en/staffmembers/joost-visser#tab-1), **Leiden University **
 *   [Joost-Pieter Katoen](http://www-i2.informatik.rwth-aachen.de/~katoen/), **University of Twente**
 *   [Jorge Perez](https://www.jperez.nl/), **University of Groningen**
-*   [Jurgen Vinju](https://homepages.cwi.nl/~jurgenv/), **Centrum Wiskunde & Informatica, TU Eindhoven **
+*   [Jurgen Vinju](https://homepages.cwi.nl/~jurgenv/), **NWO-I Centrum Wiskunde & Informatica** and **Eindhoven University of Technology**
 *   [Marcello Bonsangue](https://www.universiteitleiden.nl/en/staffmembers/marcello-bonsangue#tab-1) **Leiden University**
 *   [Marieke Huisman](http://wwwhome.ewi.utwente.nl/~marieke/), **University of Twente**
 *   [Marielle Stoelinga](http://wwwhome.ewi.utwente.nl/~marielle/), **University of Twente**
 *   [Mark van den Brand](http://www.win.tue.nl/~mvdbrand/), **Eindhoven University of Technology**
-*   [Marko van Eekelen](http://www.cs.ru.nl/M.vanEekelen/), **Open University, Radboud University**
+*   [Marko van Eekelen](http://www.cs.ru.nl/M.vanEekelen/), **Open University** and **Radboud University**
 *   [Marten van Dijk](https://www.cwi.nl/people/marten-van-dijk), **NWO-I Centrum Wiskunde & Informatica**
 *   [Marten van Sinderen](https://wwwhome.ewi.utwente.nl/~sinderen/), **University of Twente **
 *   [Mehmet Aksit](https://people.utwente.nl/m.aksit), **University of Twente**
 *   [Michel Chaudron](https://research.tue.nl/nl/persons/michel-rv-chaudron), **Eindhoven University of Technology**
 *   [Paris Avgeriou](http://www.cs.rug.nl/~paris/), **University of Groningen**
-*   [Patricia Lago](https://www.cs.vu.nl/~patricia/Patricia_Lago/Home.html), **VU Amsterdam**
-*   [Paul Klint](https://www.cwi.nl/people/paul-klint), **NWO-I Centrum Wiskunde & Informatica **
+*   [Patricia Lago](https://www.cs.vu.nl/~patricia/Patricia_Lago/Home.html), **Vrije Universiteit Amsterdam**
+*   [Paul Klint](https://www.cwi.nl/people/paul-klint), **NWO-I Centrum Wiskunde & Informatica**
 *   [Sjaak Brinkkemper](http://www.cs.uu.nl/staff/sjaak.html), **Utrecht University**
+*   [Slinger Jansen](http://www.slingerjansen.nl), **Utrecht University**
 *   [Sven Bodo Scholz](https://www.cs.ru.nl/staff/Sven-Bodo.Scholz), **Radboud University**
 *   [Tanja Vos](https://tanjavos.com/), **Open University**
-*   [Tijs van der Storm](https://homepages.cwi.nl/~storm/), **University of Groningen and CWI**
+*   [Tijs van der Storm](https://homepages.cwi.nl/~storm/), **University of Groningen** and **NWO-I Centrum Wiskunde & Informatica**
