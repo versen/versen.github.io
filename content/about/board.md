@@ -105,6 +105,7 @@ permalink: /contents/board
 ## Board members
 
 *   [Alexander Serebrenik](https://www.win.tue.nl/~aserebre/), **Eindhoven University of Technology**
+*   [Ana Oprescu](https://www.uva.nl/en/profile/o/p/a.m.oprescu/a.m.oprescu.html), **University of Amsterdam**
 *   [Andy Zaidman](https://azaidman.github.io/), **Delft University of Technology**
 *   [Arend Rensink](http://wwwhome.ewi.utwente.nl/~rensink/), **University of Twente**
 *   [Arie van Deursen](https://avandeursen.com/), **Delft University of Technology (IPN Representative)**
