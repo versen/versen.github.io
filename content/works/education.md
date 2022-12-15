@@ -16,9 +16,12 @@ The goal of this working group is to explore how software engineering education 
 * Tom van Dijk - Universiteit Twente
 * Andrea Capiluppi - Rijksuniversiteit Groningen
 * Fabiano Dalpiaz - Universiteit Utrecht
-* Ion Barosan - Technische Universiteit Eindhoven
 * Ana Oprescu - Universiteit van Amsterdam
-* Jeroen Keiren - Technische Universiteit Eindhoven
 * Annibale Panichella - Technische Universiteit Delft
 * Alfons Laarman - Universiteit Leiden
+* Mazyar Seraj - Technische Universiteit Eindhoven
+
+## Former Members
+
 * Felienne Hermans - Universiteit Leiden
+* Jeroen Keiren - Technische Universiteit Eindhoven
