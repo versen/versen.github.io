@@ -1,7 +1,7 @@
 ---
 layout: news
 picture: "default.png"
-title: "Thesis Defense Michiel Overeem - Evolution of Low-code Platforms" and Seminar on June 15th"
+title: "Thesis Defense Michiel Overeem - Evolution of Low-code Platforms and Seminar on June 15th"
 ---
 
 We cordially invite you to attend the Low-code Platform Evolution Seminar on the morning of June 15th (sign up now). Low-Code Platforms are software engineering tools that we put in the hands of non-experts to build domain specific software solutions. The seminar is an excellent place to discuss the latest developments in low-code platform evolution with international colleagues.
