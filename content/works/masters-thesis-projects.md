@@ -3,7 +3,7 @@ layout: content
 permalink: /contents/works/masters-thesis-projects
 ---
 
-## Working Group: Master's Thesis Projects
+## Master's Thesis Projects
 
 Many VERSEN members supervise master thesis students. Often these students do a project in collaboration with a company. For students, it can be challenging to find a project of their interest in a good company, and it could help them if we can provide them with an overview of suitable companies that they could look at for potential thesis projects.
 
@@ -13,7 +13,5 @@ If you would like to collaborate with members of VERSEN in the form of a master 
 
 ## Members
 
-* Marieke Huisman (Leader)
-* Mauricio Aniche 
-* Daniel Strüber
+* Marieke Huisman (leader)
 * Ana Oprescu

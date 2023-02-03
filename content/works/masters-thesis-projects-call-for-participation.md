@@ -3,10 +3,9 @@ layout: content
 permalink: /contents/works/masters-thesis-projects-call-for-participation
 ---
 
-## Working Group: Master's Thesis Projects
+## Master's Thesis Projects
 
 ### MSc thesis collaborations on software research and development between companies and universities
-
 
 Is your company interested in collaborating with a university in the Netherlands through MSc  
 thesis internships on software science and engineering? VERSEN can help you: As one of our  
@@ -62,7 +61,7 @@ The first step is to find the best match between the university (and researcher)
 company. 
 
 
-VERSEN offers such support. To get started, send us an e-mail to [m.huisman@utwente.nl](mailto:m.huisman@utwente.nl), with the following  
+VERSEN offers such support. To get started, send us an e-mail to [VERSEN student projects](mailto:studentprojects@versen.nl), with the following  
 information:
 
 
@@ -82,4 +81,6 @@ names of the researchers supervising these interns.
 be the main point of contact between the university and the company.
 
 
-Once we receive all this information, we will start the matchmaking process.
+Once we receive all this information, we will start the matchmaking process. Your information may
+be shared with all of the [board members](/contents/board) and possibly other [VERSEN members](/contents/members).
+
