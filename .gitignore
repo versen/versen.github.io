@@ -1,7 +1,10 @@
 .jekyll-cache
 _site
 .sass-cache
+cache
+build
 .jekyll-metadata
 *.sublime-project
 *.sublime-workspace
+.vscode
 .DS_Store
