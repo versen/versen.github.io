@@ -10,7 +10,7 @@ VERSEN proposes a "Manifesto on Software Research and Education in the Netherlan
 
 The manifesto has been covered in the I/O Magazine (find [the actual publication here, March edition](https://ict-research.nl/2017/11/i-o-magazine/)). Please [find the excerpt from I/O magazine here](/assets/manifesto/IO-magazine-Manifesto-VERSEN-2020.pdf).
 
-[![Manifesto poster](/assets/manifesto/poster.png)](/contents/works/visual-story)
+[![Manifesto poster](/assets/img/VERSEN_VisualStory-small.jpg)](/contents/works/visual-story)
 
 ## Endorsements
 

@@ -24,7 +24,7 @@ The budget for the VERSEN visual story was kindly provided for by NWO-I Centrum 
 
 ### Result
 
-<img src="/assets/img/VERSEN_VisualStory.png">
+<img src="/assets/img/VERSEN_VisualStory-large.jpg">
 
 * [low resolution PDF](/assets/pdf/VERSEN_VisualStory_Poster_Lowres.pdf)
 * [high resolution PDF](/assets/pdf/VERSEN_VisualStory_Poster_Hires.pdf)
