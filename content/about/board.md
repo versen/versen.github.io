@@ -17,54 +17,61 @@ permalink: /contents/board
 </style>
 
 <div class="row">
-    <div class="col-md-3 col-sm-6">
+    <div class="col-md-4 col-sm-6">
       <p class="img-wrap"><img class="img-adj" src="/assets/img/board/tijs.jpg" alt="Tijs van der Storm"></p>
       <p>
         <a href="http://homepages.cwi.nl/~storm">Tijs van der Storm</a>
         <br/>
-        Chair
+        2021&#8211;2024 (chair)*
         <br/>
         NWO-I Centrum Wiskunde & Informatica
       </p>
     </div>
-    <div class="col-md-3 col-sm-6">
+    <div class="col-md-4 col-sm-6">
       <p class="img-wrap"><img class="img-adj" style="margin-left: -15px;" src="/assets/img/board/paris.jpg" alt="Paris Avgeriou"></p>
       <p>
         <a href="http://www.cs.rug.nl/~paris/">Paris Avgeriou</a>
         <br/>
-        Vice Chair
+        2020&#8211;2023 (vice-chair)*
         <br/>
         University of Groningen
       </p>
     </div>
-    <div class="col-md-3 col-sm-6">
+    <div class="col-md-4 col-sm-6">
       <p class="img-wrap"><img class="img-adj" style="margin-left: -20px;" src="/assets/img/board/jurgen.jpg" alt="Jurgen Vinju"></p>
       <p>
         <a href="https://homepages.cwi.nl/~jurgenv/">Jurgen Vinju</a>
         <br/>
-        Treasurer
+        (treasurer) ex officio*
         <br/>
         NWO-I Centrum Wiskunde & Informatica
       </p>
     </div>
-    <div class="col-md-3 col-sm-6">
+    <div class="col-md-4 col-sm-6">
       <p class="img-wrap"><img class="img-adj" src="/assets/img/board/alex.jpg" alt="Alexander Serebrenik"></p>
       <p>
         <a href="http://www.win.tue.nl/~aserebre/">Alexander Serebrenik</a>
         <br/>
-        Secretary
+        2022&#8211;2025 (secretary)*
         <br/>
         Eindhoven University of Technology
       </p>
     </div>
-    <div class="col-md-3 col-sm-6">
+    <div class="col-md-4 col-sm-6">
       <p class="img-wrap"><img class="img-adj" src="/assets/img/board/marieke.jpg" alt="Marieke Huisman"></p>
       <p>
         <a href="http://wwwhome.ewi.utwente.nl/~marieke/">Marieke Huisman</a>
         <br/>
+        2021&#8211;2024 (member)*
+        <br/>
         University of Twente
       </p>
     </div>
+</div>
+<div class="row">
+  <div class="col">
+    <p class="small">* Terms are running from SEN Symposium to SEN Symposium</p>
+  </div>
 </div>
 
 ## Board support
