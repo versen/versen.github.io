@@ -4,6 +4,8 @@ picture: "default.png"
 title: "Two VERSEN board members join Advisory Council on IT Assessment"
 ---
 
-Peter Lammich from the FMT group of UTwente has been granted an NWO M1 grant for researching Verification of Efficient and Secure Parallel Algorithms. The research will explore stepwise refinement methods in combination with interactive theorem provers to develop verification techniques that scale to efficient implementations of complex parallel algorithms.
+After 8 years of service, Prof. Dr. Paul Klint (honorary VERSEN fellow) stepped down from the board of the Advisory Council on IT Assessment ([AcICT](https://www.adviescollegeicttoetsing.nl/)). 
 
-More details available here: [https://www.utwente.nl/en/eemcs/fmt/research/projects/vespa/](https://www.utwente.nl/en/eemcs/fmt/research/projects/vespa/)
+He is succeeded by Prof. Dr. Arie van Deursen (Technical University Delft) and Prof. Dr. Joost Visser (Leiden University). 
+
+The council advises the Dutch cabinet, parliament and senate on risks and chances of success of Information Technology projects. We thank Paul Klint for his service and his efforts to improve the quality of and the awareness about software engineering in government projects. We are confident that Van Deursen and Visser will be worthy successors, and wish them the best of luck!
