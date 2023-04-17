@@ -6,7 +6,8 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-* *To be announced*
+*   [ICT-Open 2023](https://www.ictopen.nl/)
+*   [SEN-Symposium 2023](https://www.sen-symposium.nl/)
 
 ### Past VERSEN Events
 
