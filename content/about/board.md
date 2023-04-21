@@ -147,6 +147,7 @@ permalink: /contents/board
 *   [Paris Avgeriou](http://www.cs.rug.nl/~paris/), **University of Groningen**
 *   [Patricia Lago](https://www.cs.vu.nl/~patricia/Patricia_Lago/Home.html), **Vrije Universiteit Amsterdam**
 *   [Paul Klint](https://www.cwi.nl/people/paul-klint), **NWO-I Centrum Wiskunde & Informatica**
+*   [Paula Herber](https://people.utwente.nl/p.herber), **University of Twente** and **University of Münster**
 *   [Sjaak Brinkkemper](http://www.cs.uu.nl/staff/sjaak.html), **Utrecht University**
 *   [Slinger Jansen](http://www.slingerjansen.nl), **Utrecht University**
 *   [Sven Bodo Scholz](https://www.cs.ru.nl/staff/Sven-Bodo.Scholz), **Radboud University**
