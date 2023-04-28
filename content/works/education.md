@@ -60,6 +60,7 @@ The Education WG is made up of passionate educators who are eager to share their
 * Annibale Panichella - Technische Universiteit Delft
 * Alfons Laarman - Universiteit Leiden
 * Mazyar Seraj - Technische Universiteit Eindhoven
+* Hieke Keuning - Universiteit Utrecht
 
 ## Former Members
 
