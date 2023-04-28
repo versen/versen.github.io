@@ -125,10 +125,11 @@ permalink: /contents/board
 *   [Farhad Arbab](https://homepages.cwi.nl/~farhad/), **NWO-I Centrum Wiskunde & Informatica**
 *   [Frank de Boer](https://homepages.cwi.nl/~frb/), **NWO-I Centrum Wiskunde & Informatica** and **Leiden University**
 *   [Frits Vaandrager](http://www.cs.ru.nl/~fvaan/), **Radboud University**
-*   [Gabriele Keller](https://www.uu.nl/medewerkers/GKKeller)**, Utrecht University**
+*   [Gabriele Keller](https://www.uu.nl/medewerkers/GKKeller), **Utrecht University**
 *   [Giancarlo Guizzardi](https://people.utwente.nl/g.guizzardi), **University of Twente**
-*   [Hajo Reijers](https://www.win.tue.nl/~hreijers/)**, Utrecht University** and **Eindhoven University of Technology**
+*   [Hajo Reijers](https://www.win.tue.nl/~hreijers/), **Utrecht University** and **Eindhoven University of Technology**
 *   [Herman Geuvers](http://www.cs.ru.nl/~herman/)**, Radboud University**
+*   [Jan Bosch](https://research.tue.nl/en/persons/jan-bosch), **Eindhoven University of Technology**
 *   [Jan Friso Groote](http://www.win.tue.nl/~jfg/), **Eindhoven University of Technology**
 *   [Johan Jeuring](http://www.staff.science.uu.nl/~jeuri101/homepage/), **Utrecht University**
 *   [Joost Visser](https://www.universiteitleiden.nl/en/staffmembers/joost-visser#tab-1), **Leiden University **
