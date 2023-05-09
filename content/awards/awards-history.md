@@ -5,6 +5,77 @@ permalink: /contents/awards-history
 
 ## VERSEN Thesis Awards History
 
+### 2022
+
+The awards were sponsored by the [Software Improvement Group](https://www.sig.eu/).
+
+#### Evaluation Committee
+
+* dr. Yanja Dajsuren - TU Eindhoven
+* prof. dr. Jorge A. Pérez - University of Groningen
+* dr. Anton Wijs - TU Eindhoven
+
+#### PhD Thesis Winners
+
+* 1st place: Tim Soethout - CWI, TUe
+	* ***Banking on Domain Knowledge for Faster Transactions - Leveraging Models to Avoid Coordination*** ([pdf](/assets/pdf/awards/PhD_Award_2023-Tim_Soethout-Jurgen_Vinju.pdf))
+	* Supervisors: Jurgen Vinju and Tijs van der Storm
+
+* 2nd place: Alex Serban - Radboud University
+	* ***Designing Robust Autonomous Systems*** ([pdf](/assets/pdf/awards/PhD_Award_2023-Alexandru_Constantin_Serban-Erik_Poll.pdf))
+	* Supervisors: Erik Poll and Joost Visser
+
+* 3rd place: Michiel Overeem - Utrecht University
+	* ***Evolution of Low-Code Platforms*** ([pdf](/assets/pdf/awards/PhD_Award_2023-Michiel_Overeem-Slinger_Roijackers.pdf))
+	* Supervisors: Prof. S. Brinkkemper, prof. H.A. Reijers and Slinger Jansen
+
+* 3rd place (Ex aequo): Mauricio Verano Merino - CWI, TUe
+	* ***Engineering Language-Parametric End-User Programming Environments for DSLs*** ([pdf](/assets/pdf/awards/PhD_Award_2023-Mauricio_Verano_Merino-Tijs_van_der_Storm.pdf))
+	* Supervisors: Jurgen Vinju, Mark van den Brand and Tijs van der Storm
+
+#### MSc Thesis Winners
+
+To be announced.
+
+### 2021
+
+The awards were sponsored by the [Software Improvement Group](https://www.sig.eu/).
+
+#### Evaluation Committee
+
+* dr. Yanja Dajsuren - TU Eindhoven
+* dr. Slinger Jansen - Utrecht University
+* prof. dr. Jorge A. Pérez - University of Groningen 
+* dr. Anton Wijs - TU Eindhoven
+
+#### PhD Thesis Winners
+
+* 1st place: Pouria Derakhshanfar - TUDelft
+	* ***Search-Based Crash Reproduction and Test Case Generation*** ([pdf](https://drive.google.com/file/d/1VLQFPSQPupOTCDHBKUtQEMZnsHsdNYNy/view?usp=sharing))
+	* Supervisors: Arie van Deursen, Andy Zaidman, and Annibale Panichella
+
+* 2nd place: Arjen Rouvoet - TUDelft
+	* ***Correct by Construction Language Implementations*** ([pdf](https://drive.google.com/file/d/1xIqmT2ggqY-LZO8F5txOfgQW9P_cSgIg/view?usp=sharing))
+	* Supervisors: Eelco Visser and Robbert Krebbers
+
+* 3rd place: Areti Ampatzoglou - RUG
+	* ***Economics-driven Technical Debt Management*** ([pdf](https://drive.google.com/file/d/1Uyla3TNhj-RFx5Gnhk_Lr_GhhtXNUI5J/view?usp=sharing))
+	* Supervisors: Prof. dr. P. Avgeriou and Prof.Dr. A. N. Chatzigeorgiou
+
+#### MSc Thesis Winners
+
+* 1st place: Nuria Bruch Tarrega - Universiteit van Amsterdam
+	* ***Measuring the degree of library dependency*** ([pdf](https://drive.google.com/open?id=1CT4BpBEhe8lKWeQiiAZ4ubOhyP1qxT6u))
+	* Supervisors: Ana Oprescu
+
+* 2nd place: David van der Leij - TU Delft
+	* ***Data-Driven Extract Method Recommendations: An Initial Study at ING*** ([pdf](https://drive.google.com/open?id=1Q4ZXgrYx1vYIecxOT8ejpdpzS4R6DOsl))
+	* Supervisors: Mauricio Aniche, Yaping Luo
+
+* 3rd place: Max Mathijssen - Utrecht University
+	* ***API-m-FAMM: A Focus Area Maturity Model for API Management*** ([pdf](https://drive.google.com/open?id=1_xaMZi6VfkxGYMlzZ_JUczhTqRrur-Qz))
+	* Supervisors: Slinger Jansen
+
 ### 2021
 
 The awards were sponsored by the [Software Improvement Group](https://www.sig.eu/).
