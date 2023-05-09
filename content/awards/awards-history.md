@@ -7,7 +7,7 @@ permalink: /contents/awards-history
 
 ### 2022
 
-The awards were sponsored by the [Software Improvement Group](https://www.sig.eu/).
+The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
 
 #### Evaluation Committee
 
