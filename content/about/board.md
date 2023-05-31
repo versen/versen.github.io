@@ -130,6 +130,7 @@ permalink: /contents/board
 *   [Hajo Reijers](https://www.win.tue.nl/~hreijers/), **Utrecht University** and **Eindhoven University of Technology**
 *   [Herman Geuvers](http://www.cs.ru.nl/~herman/)**, Radboud University**
 *   [Jan Bosch](https://research.tue.nl/en/persons/jan-bosch), **Eindhoven University of Technology**
+*   [Jaco van de Pol](https://people.utwente.nl/j.c.vandepol), **University of Twente**
 *   [Jan Friso Groote](http://www.win.tue.nl/~jfg/), **Eindhoven University of Technology**
 *   [Johan Jeuring](http://www.staff.science.uu.nl/~jeuri101/homepage/), **Utrecht University**
 *   [Joost Visser](https://www.universiteitleiden.nl/en/staffmembers/joost-visser#tab-1), **Leiden University **
