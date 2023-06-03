@@ -6,7 +6,7 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-* To be announced
+*   [PLNL 2023](https://conf.researchr.org/home/plnl-2023) (register by June 9)
 
 ### Past VERSEN Events
 
