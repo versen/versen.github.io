@@ -6,11 +6,12 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-*   [SEN Classrooms](https://forms.office.com/e/pp4PqpdHfc) (26 May 2023)
-*   [SEN-Symposium 2023](https://www.sen-symposium.nl/) (2 June 2023)
+*   [PLNL 2023](https://conf.researchr.org/home/plnl-2023) (register by June 9)
 
 ### Past VERSEN Events
 
+*   [SEN-Symposium 2023](https://www.sen-symposium.nl/)
+*   [SEN Classrooms (May-2023)](https://forms.office.com/e/pp4PqpdHfc)
 *   [ICT-Open 2023](https://www.ictopen.nl/)
 *   [ICT-Open 2022](https://www.ictopen.nl/)
 *   [SEN-Symposium 2022](https://www.sen-symposium.nl/history/2022/program)
