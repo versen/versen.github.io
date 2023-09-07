@@ -1,19 +1,9 @@
 ---
 layout: news
-picture: "uu.jpg"
-title: "UU: Two Assistant Professors in Software Engineering for AI or Software Production"
+picture: "book-sw-verification.png"
+title: "Book publication: Concise Guide to Software Verification"
 ---
 
-We are looking for two motivated, inspiring and friendly Assistant Professors to join the Software Production group external link, which is part of the Software Division in the Department of Information and Computing Sciences external link of Utrecht University external link. The group is renowned for its empirical research that is made possible thanks to a wide network of industrial collaborators in the area of large-scale product software. The group has solid research lines in various sub-fields of software production, including requirements engineering, software ecosystems, software for responsible organisations, and software architecture for AI-driven systems. 
-In addition to defining your research line within the Software Production group, you will actively contribute to educational activities. You are willing to teach existing courses offered by the department (for an overview, see the page external link of the department of Information and Computing Sciences), supervise students’ research projects and, if appropriate and necessary, develop new courses and course components. 
+The book __Concise Guide to Software Verification: From Model Checking to Annotation Checking__, by Marieke Huisman and Anton Wijs, has recently been published by Springer. The book is primarily meant as a textbook to teach students at the Master level about the whole spectrum of formal methods and techniques that are aimed at verifying correctness of software, and how these techniques can be used in practice. It focuses on techniques whereby the user has some control over the properties that are being checked. It shows a wide range of techniques covering the whole spectrum: from abstract system design to implementation, from bug finding to full proofs, and from techniques that are push-button by design and give a yes/no answer to techniques that require the user to provide explicit guidance to steer the analysis process.
 
-There are two openings in two sub-fields of software production. 
-
-__Software Engineering for AI__
-In this position, you will develop a research line within Software Engineering for AI, also known as AI Engineering. You should focus on how to adapt software development for AI-based systems, possibly with emphasis on specific phases or activities in the development lifecycle. Within the context of software engineering for AI-based systems, you may specialise into requirements engineering; software architecture; development processes; continuous deployment and cloud operations; compliance with norms; AI-driven engineering; production of large-scale AI systems; human values and ethical aspects.  
-
-__Software Production__ 
-You are willing to conduct research in the broad context of software production: all the activities that pertain to the creation and evolution of software products. You should complement the groups research with a focus on one or more themes, such as requirements engineering; software design and architecting; software product management; deployment and operations; software business; software ecosystems; maintenance and evolution. 
-If you are excited to actively participate and collaborate in shaping our developing department, we look forward to receiving your application. In your application, please specify which position you are interested in.
-
-You can find the full vacancy text [here](https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/two-assistant-professors-in-software-engineering-for-ai-or-software-production-08-10-fte).
+More information about the book can be found [here](https://link.springer.com/book/10.1007/978-3-031-30167-4).
