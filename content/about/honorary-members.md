@@ -7,6 +7,14 @@ permalink: /contents/honorary-members
 
 The Honorary Fellow of VERSEN is an honorary designation for emeriti professors and research staff members who had an impact on the field of Software Engineering in the Netherlands and beyond. Honorary Fellows are selected by the board of VERSEN and can be proposed by sending an email to [secretary@versen.nl](mailto:secretary@versen.nl?subject=VERSEN%20Honorary%20Fellow%20proposal).
 
+
+### 2023
+
+In 2022 one new Honorary Fellow was announced:
+
+* Prof. dr. Jos Baeten ([movie by former colleague dr. Sebastiaan Pascal Luttik](https://youtu.be/iNNxGQHh8rs))
+
+
 ### 2022
 
 In 2022 one new Honorary Fellow was announced:
