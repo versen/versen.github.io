@@ -10,10 +10,13 @@ The Honorary Fellow of VERSEN is an honorary designation for emeriti professor
 
 ### 2023
 
-In 2022 one new Honorary Fellow was announced:
+In 2023 one new Honorary Fellow was announced:
 
 * Prof. dr. Jos Baeten ([movie by former colleague dr. Sebastiaan Pascal Luttik](https://youtu.be/iNNxGQHh8rs))
 
+Picture of the ceremony at the 2023 SEN Symposium:
+
+{% include image-gallery.html folder="/assets/img/honorary-members-2023" %}
 
 ### 2022
 
