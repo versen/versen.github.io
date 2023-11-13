@@ -6,7 +6,7 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-*  VERSEN [Seminar Afternoon on "Generative AI and Ethics"](/contents/events/2023-11-200-GenerativeAIandEthics) (register by November 15)
+*  VERSEN [Seminar Afternoon on "Generative AI and Ethics"](/contents/events/2023-11-20-GenerativeAIandEthics) (register by November 15)
 
 ### Past VERSEN Events
 

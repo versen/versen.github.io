@@ -1,6 +1,6 @@
 ---
 layout: content
-permalink: /contents/events/2023-11-200-GenerativeAIandEthics
+permalink: /contents/events/2023-11-20-GenerativeAIandEthics
 ---
 
 ## VERSEN event on Generative AI and Ethics
