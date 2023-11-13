@@ -6,10 +6,11 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-*   [PLNL 2023](https://conf.researchr.org/home/plnl-2023) (register by June 9)
+*  VERSEN [Seminar Afternoon on "Generative AI and Ethics"](/contents/events/2023-11-200-GenerativeAIandEthics) (register by November 15)
 
 ### Past VERSEN Events
 
+*   [PLNL 2023](https://conf.researchr.org/home/plnl-2023) (register by June 9)
 *   [SEN-Symposium 2023](https://www.sen-symposium.nl/)
 *   [SEN Classrooms (May-2023)](https://forms.office.com/e/pp4PqpdHfc)
 *   [ICT-Open 2023](https://www.ictopen.nl/)
