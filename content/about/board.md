@@ -32,7 +32,7 @@ permalink: /contents/board
       <p>
         <a href="http://www.cs.rug.nl/~paris/">Paris Avgeriou</a>
         <br/>
-        2020&#8211;2023 (vice-chair)*
+        2023&#8211;2026 (vice-chair)*
         <br/>
         University of Groningen
       </p>
