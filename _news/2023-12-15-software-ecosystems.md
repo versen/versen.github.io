@@ -1,6 +1,6 @@
 ---
 layout: news
-picture: "software_ecosystems_book.jpeg"
+picture: "software_ecosystems_book.jpg"
 title: "A new Software Ecosystems book with contributions by VERSEN resarchers"
 ---
 
