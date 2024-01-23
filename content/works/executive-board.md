@@ -6,7 +6,7 @@ permalink: /contents/works/executive-board
 ## Executive Board
 
 The goal of the executive board is to manage, animate and improve the entire VERSEN community. They also have formal responsibilities as 
-listed in the VERSEN charter. 
+listed in the VERSEN charter, one of which is to write the [annual reports](/contents/annual-reports).
 
 The members are:
 * Tijs van der Storm (Lead, Chair of VERSEN)
