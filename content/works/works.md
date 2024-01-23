@@ -12,8 +12,6 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 * [Web](/contents/works/web): manages, implements and maintains the VERSEN website, the member administration and mailing lists.
 * [Symposium](/contents/works/symposium) comprises the people that organize the yearly SEN symposium. Its members are different every year.
 * [Publicity](/contents/works/publicity) has the goal to create and edit content for the newsletter and the website.
-* [European Manifesto](/contents/works/european-manifesto) find synergy among different other manifesto initiatives in Europe.
-* [Master's Thesis Projects](/contents/works/masters-thesis-projects) national platform for Master thesis projects in software research.
 * [Education](/contents/works/education) explore how software engineering education can be improved across all levels.
 * [Post-master Education](/contents/works/se-postmaster) investigate the needs of Software Engineers for education at the post-Master level.
 * [Communication Plan](/contents/works/communication-plan) formulation of a strategic communication plan.
@@ -29,6 +27,8 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 
 ## Archive
 
+* [European Manifesto](/contents/works/european-manifesto) find synergy among different other manifesto initiatives in Europe.
+* [Master's Thesis Projects](/contents/works/masters-thesis-projects) national platform for Master thesis projects in software research.
 * [Manifesto](/contents/works/manifesto): develop a manifesto to explain the mission of our research field in a concise manner.
 * [Slack](/contents/works/slack): boosts the participation of community members in Slack by adding content, triggering discussions, and scouting new members to be invited.
 * [Visual Story](/contents/works/visual-story): explain our research field in a visual story, for use in the [Manifesto](/contents/manifesto) and other communications.
