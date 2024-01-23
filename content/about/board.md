@@ -118,7 +118,6 @@ permalink: /contents/board
 *   [Arie van Deursen](https://avandeursen.com/), **Delft University of Technology (IPN Representative)**
 *   [Bastiaan Heeren](http://www.open.ou.nl/bhr/), **Open University**
 *   [Bedir Tekinerdogan](https://www.wur.nl/nl/Personen/Bedir-Tekinerdogan.htm), **Wageningen University & Research**
-*   [Clemens Grelck](https://staff.fnwi.uva.nl/c.u.grelck/), **University of Amsterdam**
 *   [Damian Andrew Tamburri](https://research.tue.nl/en/persons/damian-a-tamburri), **Eindhoven University of Technology** and **Jheronimus Academy of Data Science** 
 *   [Felienne Hermans](https://vu.nl/nl/verhalen/felienne-hermans), **Vrije Universiteit Amsterdam**
 *   [Fabiano Dalpiaz](https://webspace.science.uu.nl/~dalpi001/), **Utrecht University**
@@ -130,7 +129,7 @@ permalink: /contents/board
 *   [Hajo Reijers](https://www.win.tue.nl/~hreijers/), **Utrecht University** and **Eindhoven University of Technology**
 *   [Herman Geuvers](http://www.cs.ru.nl/~herman/)**, Radboud University**
 *   [Jan Bosch](https://research.tue.nl/en/persons/jan-bosch), **Eindhoven University of Technology**
-*   [Jaco van de Pol](https://people.utwente.nl/j.c.vandepol), **University of Twente**
+*   [Jaco van de Pol](https://people.utwente.nl/j.c.vandepol), **University of Twente** and **Aarhus University**
 *   [Jan Friso Groote](http://www.win.tue.nl/~jfg/), **Eindhoven University of Technology**
 *   [Johan Jeuring](http://www.staff.science.uu.nl/~jeuri101/homepage/), **Utrecht University**
 *   [Joost Visser](https://www.universiteitleiden.nl/en/staffmembers/joost-visser#tab-1), **Leiden University **
