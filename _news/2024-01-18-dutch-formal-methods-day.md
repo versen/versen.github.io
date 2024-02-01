@@ -4,11 +4,9 @@ picture: "default.png"
 title: "Dutch Formal Methods Day"
 ---
 
-Dutch Formal Methods Day 2024
+# CALL FOR PARTICIPATION
 
-Tuesday, 16 April, 2024
-
-CALL FOR PARTICIPATION
+## Tuesday, 16 April, 2024
 
 [https://conf.researchr.org/home/dfdm-2024](https://conf.researchr.org/home/dfdm-2024)
 
@@ -47,4 +45,4 @@ Dutch cities. More details on how to reach the library can be found [here](https
 ## Organisers
 - Johan Commelin
 - Paige Randall North
-- Wouter Swierstra "
+- Wouter Swierstra
