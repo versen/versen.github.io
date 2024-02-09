@@ -82,19 +82,9 @@ permalink: /contents/board
       <p>
         <a href="http://ivanomalavolta.com">Ivano Malavolta</a>
         <br/>
-        Publicity co-chair
+        Publicity chair
         <br/>
         Vrije Universiteit Amsterdam
-      </p>
-    </div>
-    <div class="col-md-4 col-sm-6">
-      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/slinger.png" alt="Slinger Jansen"></p>
-      <p>
-        <a href="http://www.slingerjansen.nl">Slinger Jansen</a>
-        <br/>
-        Publicity co-chair
-        <br/>
-        Utrecht University
       </p>
     </div>
     <div class="col-md-4">
