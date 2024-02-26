@@ -8,6 +8,36 @@ permalink: /contents/works/symposium
 The goal of the Symposium working group is to organize the yearly [SEN symposium](http://www.sen-symposium.nl) at CWI.
 The (large) group of members changes every year. They are documented [here](https://www.sen-symposium.nl/about/).
 
+## Committee of 2024
+
+* Ayushi Rastogi
+* Bin Lin
+* Casper Bach Poulsen
+* Tijs van der Storm (local)
+* Jurgen Vinju (local)
+* Carla van Asperen (local)
+* Amber Moet (local)
+
+## Committee of 2023
+
+* Sebastian Junges
+* Fernando Castor
+* Gemma Catolino
+* Tijs van der Storm (local)
+* Jurgen Vinju (local)
+* Carla van Asperen (local)
+* Amber Moet (local)
+
+## Committee of 2022
+
+* Arnd Hartmanns
+* Andrea Capiluppi
+* Eleni Constatinou
+* Filipe Ebert
+* Tijs van der Storm (local)
+* Jurgen Vinju (local)
+* Susanne van Dam (local)
+
 ## Committee of 2021
 
 * Helle Hvid Hansen (General chair)
