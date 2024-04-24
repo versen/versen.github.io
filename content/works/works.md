@@ -9,6 +9,7 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 
 * [Executive Board](/contents/works/executive-board): manages and animates the entire VERSEN community. They also have formal responsibilities as listed in the VERSEN charter.
 * [CARES](/contents/works/cares): aids the reporting of discrimination, harassment, and related violations of the [VERSEN Code of Conduct](/contents/about/code-of-conduct).
+* [Funding](/contents/works/funding): reviews and advises the Executive Board on funding proposals.
 * [Web](/contents/works/web): manages, implements and maintains the VERSEN website, the member administration and mailing lists.
 * [Symposium](/contents/works/symposium) comprises the people that organize the yearly SEN symposium. Its members are different every year.
 * [Publicity](/contents/works/publicity) has the goal to create and edit content for the newsletter and the website.
