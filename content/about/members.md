@@ -3,7 +3,7 @@ layout: content
 permalink: /contents/members
 ---
 
-VERSEN currently has **342** members.
+VERSEN currently has **344** members.
 
 The following members allowed us to share their information.
 
@@ -100,14 +100,13 @@ The following members allowed us to share their information.
 - Frank de Boer, *Centrum Wiskunde & Informatica (CWI)*
 - Frits Vaandrager, *Radboud University*
 - Gabriele Keller, *Utrecht University*
-- Gemma Catolino, *Jheronimus Academy of Data Science*
 - Georgiana Caltais, *University of Twente*
 - Georgios Gousios, *Delft University of Technology*
 - Georgios Digkas, *University of Groningen*
 - Gerard Wagenaar, *Utrecht University*
 - Giancarlo Guizzardi, *University of Twente*
 - Graham James Bolton, *FRSA* and *IEEE, ACM, KNVI, ACG*
-- Greg Alpár, *The Open University of the Netherlands* and *Radboud University*
+- Greg Alpar, *Radboud University*
 - Gunnar Kudrjavets, *University of Groningen*
 - Guus Ramackers, *Leiden Institute of Advanced Computer Science (LIACS), Leiden University*
 - Hajo Reijers, *Utrecht University*
@@ -127,6 +126,7 @@ The following members allowed us to share their information.
 - Ilias Gerostathopoulos, *VU Amsterdam*
 - Imara van Dinten, *Delft University of Technology*
 - Ioannis Charitopoulos, *Schuberg Philis*
+- Isaac Alpizar-Chacon, *Utrecht University*
 - Ivano Malavolta, *VU Amsterdam*
 - Jaco van de Pol, *University of Twente*
 - Jacob Krüger, *Eindhoven University of Technology*
@@ -139,11 +139,13 @@ The following members allowed us to share their information.
 - Jeroen Keiren, *Eindhoven University of Technology* and *Radboud University*
 - Jeroen Meijer, *Eijsink*
 - Jesper Cockx, *Delft University of Technology*
+- Jiangnan Huang, *Radboud University*
 - Joao Moreira, *University of Twente*
 - Johan Jeuring, *Utrecht University*
 - Johan Lukkien, *Eindhoven University of Technology*
 - Johan Arts, *Open Universiteit*
 - John Pool, *SpeakEasy Software Development*
+- Joop Snijder, *Info Support* and *Aigency*
 - Joost Visser, *Leiden University*
 - Joost Schalken, *University of Applied Sciences Windesheim*
 - Joost-Pieter Katoen, *RWTH Aachen University* and *University of Twente*
@@ -152,6 +154,7 @@ The following members allowed us to share their information.
 - Jos Baeten, *Centrum Wiskunde & Informatica (CWI)* and *University of Amsterdam*
 - Joseph Hejderup, *Delft University of Technology*
 - Jozef Hooman, *TNO-ESI*
+- João Miguel Louro Neto, *TU Delft*
 - João Paulo Biazotto, *University of Groningen* and *University of São Paulo (Brazil)*
 - Julien Schmaltz, *Eindhoven University of Technology*
 - June Sallou, *TU Delft*
@@ -175,6 +178,7 @@ The following members allowed us to share their information.
 - Lukas Armborst, *University of Twente*
 - Luís Ferreira Pires, *University of Twente*
 - Magiel Bruntink, *Software Improvement Group (SIG)*
+- Mairieli Wessel, *Radboud University*
 - Maliheh Izadi, *Delft University of Technology*
 - Marcel Beemster, *Solid Sands*
 - Marcel Harkema, *AEGON TKP Pensioen*
@@ -185,7 +189,6 @@ The following members allowed us to share their information.
 - Marieke Huisman, *University of Twente*
 - Marielle Stoelinga, *University of Twente*
 - Mark van den Brand, *Eindhoven University of Technology*
-- Marko van Eekelen, *Radboud University*
 - Marten van Sinderen, *University of Twente*
 - Martijn Stegeman, *University of Amsterdam*
 - Martin Deiman, *Testwerk*
@@ -193,7 +196,7 @@ The following members allowed us to share their information.
 - Matt Chapman, *OBI4wan B.V.*
 - Mattijs Ghijsen, *Software Improvement Group (SIG)*
 - Mauricio Verano Merino, *Eindhoven University of Technology*
-- Mauricio Aniche, *Delft University of Technology*
+- Mauricio Aniche, *Adyen*
 - Maya Daneva, *University of Twente*
 - Mazyar Seraj, *Eindhoven University of Technology*
 - Mehmet Aksit, *University of Twente*
@@ -207,7 +210,6 @@ The following members allowed us to share their information.
 - Nan Yang, *TNO-ESI* and *Eindhoven University of Technology*
 - Nathan Cassee, *Eindhoven University of Technology*
 - Nelly Condori Fernandez
-- Nick Lodewijks, *ENGIE*
 - Nico Naus, *The Open University of the Netherlands*
 - Niels Doorn, *NHL Stenden University of Applied Sciences*
 - Nils Jansen, *Radboud University*
@@ -229,7 +231,6 @@ The following members allowed us to share their information.
 - Petra van den Broek, *Fontys University of Applied Sciences*
 - Pieter Van Gorp, *Eindhoven University of Technology*
 - Pieter Koopman, *Radboud University*
-- Pieter Jansen, *NATO*
 - Ramon Schiffelers, *ASML* and *Eindhoven University of Technology*
 - Raúl Monti, *University of Twente*
 - Rena Bakhshi, *Netherlands eScience Center*
@@ -259,13 +260,11 @@ The following members allowed us to share their information.
 - Sophie Lathouwers, *University of Twente*
 - Stefan Koppier, *Utrecht University*
 - Stephen Adams, *ING*
-- Stijn de Gouw, *Centrum Wiskunde & Informatica (CWI)* and *SDL*
 - Sung-Shik Jongmans, *The Open University of the Netherlands* and *Radboud University*
 - Sven-Bodo Scholz, *University of Groningen*
 - Sylvia Stuurman, *The Open University of the Netherlands*
 - Tanja Vos, *The Open University of the Netherlands*
 - Tannaz Zameni, *University of Twente*
-- Tao Sun, *CWI*
 - Theo Theunissen, *HAN - University of Applied Sciences*
 - Thom Badings, *Radboud University*
 - Thomas Degueule, *LaBRI*
