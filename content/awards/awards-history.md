@@ -5,7 +5,7 @@ permalink: /contents/awards-history
 
 ## VERSEN Thesis Awards History
 
-### 2022
+### 2023
 
 The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
 
@@ -37,7 +37,7 @@ The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
 
 To be announced.
 
-### 2021
+### 2022
 
 The awards were sponsored by the [Software Improvement Group](https://www.sig.eu/).
 
@@ -76,7 +76,7 @@ The awards were sponsored by the [Software Improvement Group](https://www.sig.eu
 	* ***API-m-FAMM: A Focus Area Maturity Model for API Management*** ([pdf](https://drive.google.com/open?id=1_xaMZi6VfkxGYMlzZ_JUczhTqRrur-Qz))
 	* Supervisors: Slinger Jansen
 
-### 2020
+### 2021
 
 The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 
@@ -122,7 +122,7 @@ The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 	* ***Toward automatic decomposition of monolithic software into microservices*** ([pdf](https://drive.google.com/open?id=1HUEQnQyX0uIiuOef9_r4tJDKqqPDvXHZ))
 	* Supervisors: Ana Oprescu, Stephan Schroevers
 
-### 2019
+### 2020
 
 The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 
@@ -156,7 +156,7 @@ The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 	* ***Parallel term rewriting on GPUs*** ([pdf](https://drive.google.com/open?id=1hLucoKqXHU-qORP5mv11ConXQcVmLvb1))
 	* Supervisors: Prof. dr. ir. Jan Friso Groote, Dr. ing. Anton Wijs, Dr. Pieter Hijma
 
-### 2018
+### 2019
 
 The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 
