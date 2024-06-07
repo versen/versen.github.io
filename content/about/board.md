@@ -78,7 +78,7 @@ permalink: /contents/board
 
 <div class="row">
     <div class="col-md-4 col-sm-6">
-      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/ivano.png" alt="Ivano Malavolta"></p>
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/ivano.jpg" alt="Ivano Malavolta"></p>
       <p>
         <a href="http://ivanomalavolta.com">Ivano Malavolta</a>
         <br/>
