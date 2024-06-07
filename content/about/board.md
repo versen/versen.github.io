@@ -18,13 +18,13 @@ permalink: /contents/board
 
 <div class="row">
     <div class="col-md-4 col-sm-6">
-      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/tijs.jpg" alt="Tijs van der Storm"></p>
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/tanja.jpg" alt="Tanja Vos"></p>
       <p>
-        <a href="http://homepages.cwi.nl/~storm">Tijs van der Storm</a>
+        <a href="https://tanjavos.com/">Tanja Vos</a>
         <br/>
-        2021&#8211;2024 (chair)*
+        2024&#8211;2027 (chair)*
         <br/>
-        NWO-I Centrum Wiskunde & Informatica
+        Open Universiteit
       </p>
     </div>
     <div class="col-md-4 col-sm-6">
@@ -58,13 +58,23 @@ permalink: /contents/board
       </p>
     </div>
     <div class="col-md-4 col-sm-6">
-      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/marieke.jpg" alt="Marieke Huisman"></p>
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/awijs.jpg" alt="Anton Wijs"></p>
       <p>
-        <a href="http://wwwhome.ewi.utwente.nl/~marieke/">Marieke Huisman</a>
+        <a href="https://www.win.tue.nl/~awijs/">Anton Wijs</a>
         <br/>
-        2021&#8211;2024 (member)*
+        2024&#8211;2027 (member)*
         <br/>
-        University of Twente
+        Eindhoven University of Technology
+      </p>
+    </div>
+    <div class="col-md-4 col-sm-6">
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/sangeeth.jpg" alt="Sangeeth Kochanthara"></p>
+      <p>
+        <a href="https://www.linkedin.com/in/sangeethko/">Sangeeth Kochanthara</a>
+        <br/>
+        2024&#8211;2027 (member)*
+        <br/>
+        ASTRON | Eindhoven University of Technology
       </p>
     </div>
 </div>
