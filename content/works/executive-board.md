@@ -19,6 +19,12 @@ Any member of the VERSEN community is welcome to join our next (monthly) meeting
 
 ## History of the executive board
 
+### 2024
+
+* Tanja Vos became the new chair
+* Anton Wijs became a member
+* Sangeeth Kochanthara became a member
+
 ### 2021
 
 * Tijs van der Storm became the new chair
