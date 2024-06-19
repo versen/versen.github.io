@@ -35,7 +35,21 @@ The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
 
 #### MSc Thesis Winners
 
-To be announced.
+* 1st place: Sterre van Breukelen - TU Eindhoven
+	* ***The survivorship of older women in software development: an intersection between age and gender*** ([pdf](https://pure.tue.nl/ws/portalfiles/portal/211133557/Breukelen_S.pdf))
+	* Supervisors: Alexander Serebrenik
+
+* 2nd place: Tina Marjanov - Vrije Universiteit Amsterdam
+	* ***Machine learning for source code: vulnerability detection for C and Java*** ([pdf](/assets/pdf/awards/MSc_Award_2023-TinaMarjanov-FabioMassacci.pdf))
+	* Supervisors: Fabio Massacci
+
+* 3rd place: Kevin Jilissen - TU Eindhoven
+	* ***A formal analysis of the tunnel control systems of the Rijkswaterstaat GITO*** ([pdf](https://pure.tue.nl/ws/portalfiles/portal/268423461/A_formal_analysis_of_the_tunnel_control_systems_of_the_Rijkswaterstaat_GITO.pdf))
+	* Supervisors: Jan Friso Groote and Peter Dieleman
+
+* 3rd place (Ex aequo): Robin van der Wiel - Vrije Universiteit Amsterdam
+	* ***The Impact of Scalability on Energy Consumption in the Cloud*** ([pdf](https://research.vu.nl/en/publications/the-impact-of-scalability-on-energy-consumption-in-the-cloud))
+	* Supervisors: Patricia Lago
 
 ### 2022
 
