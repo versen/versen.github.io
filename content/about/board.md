@@ -163,7 +163,6 @@ permalink: /contents/board
 *   [Marko van Eekelen](http://www.cs.ru.nl/M.vanEekelen/), **Open University** and **Radboud University**
 *   [Marten van Dijk](https://www.cwi.nl/people/marten-van-dijk), **NWO-I Centrum Wiskunde & Informatica**
 *   [Marten van Sinderen](https://wwwhome.ewi.utwente.nl/~sinderen/), **University of Twente **
-*   [Mehmet Aksit](https://people.utwente.nl/m.aksit), **University of Twente**
 *   [Michel Chaudron](https://research.tue.nl/nl/persons/michel-rv-chaudron), **Eindhoven University of Technology**
 *   [Paris Avgeriou](http://www.cs.rug.nl/~paris/), **University of Groningen**
 *   [Patricia Lago](https://www.cs.vu.nl/~patricia/Patricia_Lago/Home.html), **Vrije Universiteit Amsterdam**
