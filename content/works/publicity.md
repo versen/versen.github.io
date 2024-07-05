@@ -10,4 +10,3 @@ The goal of the Publicity working group is to solicit for, collect, edit, and pu
 The members are:
 
 * Ivano Malavolta (Lead)
-* Slinger Jansen 
