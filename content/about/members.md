@@ -12,7 +12,6 @@ The following members allowed us to share their information.
 - Alexander Stekelenburg, *University of Twente*
 - Alexander Nolte, *Eindhoven University of Technology* and *Carnegie Mellon University*
 - Alfons Laarman, *Leiden University*
-- Alfons Laarman, *Leiden University*
 - Ali Khatami, *Delft University of Technology*
 - Ali Al-Kaswan, *Delft University of Technology*
 - Aminul Islam, *LUT University*
@@ -123,7 +122,7 @@ The following members allowed us to share their information.
 - Guus Ramackers, *Leiden Institute of Advanced Computer Science (LIACS), Leiden University*
 - Hajo Reijers, *Utrecht University*
 - Hans Dekkers, *University of Amsterdam* and *Kaizen Automatisering*
-- Hans van Vliet, *.*
+- Hans van Vliet
 - Hans-Dieter Hiep, *Centrum Wiskunde & Informatica (CWI)*
 - Harald Vranken, *The Open Universiteit of the Netherlands*
 - Harrie Passier, *The Open Universiteit of the Netherlands*
@@ -232,7 +231,7 @@ The following members allowed us to share their information.
 - Nima Motamed, *University of Amsterdam*
 - Nishant Saurabh, *Utrecht University, Department of Information and Computing Sciences*
 - Noha Hazaa, *Schuberg Philis*
-- Norashikin Hamzah, *Dr*
+- Norashikin Hamzah
 - Oktay Turetken, *Eindhoven University of Technology*
 - Olga Gadyatskaya, *Leiden University*
 - Olivia Rodriguez Valdes, *The Open University of the Netherlands*
