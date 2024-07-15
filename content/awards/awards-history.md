@@ -5,6 +5,31 @@ permalink: /contents/awards-history
 
 ## VERSEN Thesis Awards History
 
+### 2024
+
+The awards were sponsored by [ASML](https://www.asml.com/en).
+
+#### Evaluation Committee
+
+* dr. ing. Anton Wijs - TU Eindhoven
+* dr. Yanja Dajsuren - TU Eindhoven
+* dr. Georgiana Caltais - University of Twente
+
+
+#### PhD Thesis Winners
+
+* 1st place: Lina Maria Ochoa Venegas - TUe
+	* ***Break the Code? Breaking Changes and Their Impact on Software Evolution*** ([pdf](https://research.tue.nl/files/288327456/20230329_Ochoa_Venegas_hf.pdf))
+	* Supervisors: Jurgen Vinju, Mark van den Brand, Thomas Degueule
+
+* 2nd place: Darius Sas - University of Groningen
+	* ***Managing technical debt: prioritising and quantifying architectural smells*** ([pdf](https://research.rug.nl/en/publications/managing-technical-debt-prioritising-and-quantifying-architectura))
+	* Supervisors: Paris Avgeriou and Francesca Arcelli Fontana
+
+* 3rd place: Sangeeth Kochanthara - TUe
+	* ***A Changing Landscape: On Safety & Open Source in Automated and Connected Driving*** ([pdf](https://research.tue.nl/files/275726737/20230317_Kochanthara_hf.pdf))
+	* Supervisors: Mark van den Brand, Yanja Dajsuren, Loek Cleophas
+
 ### 2023
 
 The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
