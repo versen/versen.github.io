@@ -22,7 +22,7 @@ The Netherlands has a great international reputation in the field of Software 
 * The formal statutes of the VERSEN organization can be found [here](/assets/pdf/statuten.pdf). 
 * All VERSEN members are committed to our [Code of Conduct](/contents/about/code-of-conduct).
 * This [document](/assets/pdf/working-groups.pdf) describes the procedures for the creation, running and termination of a VERSEN working group.
-* This [document](/assets/pdf/funding.pdf) describes for VERSEN members how to apply to funding of small initiatives that support the mission of VERSEN.
+* This [document](/assets/pdf/funding-v1.1.pdf) describes for VERSEN members how to apply to funding of small initiatives that support the mission of VERSEN.
 
 ## Research Groups
 
