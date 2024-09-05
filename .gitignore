@@ -7,4 +7,6 @@ build
 *.sublime-project
 *.sublime-workspace
 .vscode
+.env
+__pycache__
 .DS_Store
