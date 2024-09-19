@@ -1,6 +1,6 @@
 ---
 layout: news
-picture: "ecsa2024-awards.png"
+picture: "default.png"
 title: "Muctadir, Cleophas, and van den Brand win Best Paper Award at Euromicro Conference SEAA 2024"
 ---
 
