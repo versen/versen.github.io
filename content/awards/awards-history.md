@@ -30,6 +30,23 @@ The awards were sponsored by [ASML](https://www.asml.com/en).
 	* ***A Changing Landscape: On Safety & Open Source in Automated and Connected Driving*** ([pdf](https://research.tue.nl/files/275726737/20230317_Kochanthara_hf.pdf))
 	* Supervisors: Mark van den Brand, Yanja Dajsuren, Loek Cleophas
 
+#### MSc Thesis Winners
+
+* 1st place: Christos Petalotis - Vrije Universiteit Amsterdam, Universiteit van Amsterdam
+	* ***A First Investigation Into the Detection of Energy-related Issues in Microservice-based Systems via Anomaly Detection and Root-Cause Analysis*** (pdf)
+	* Supervisors: Ivano Malavolta
+
+* 2nd place: Famke Driessen - University of Twente
+	* ***A quantitative assessment method for microservices granularity to improve maintainability*** ([pdf](https://essay.utwente.nl/95031/1/Driessen_MA_EEMCS.pdf))
+	* Supervisors: Luís Ferreira Pires, João Luiz Rebelo Moreira, Anna
+Sperotto, Sander van den Bosch, and Paul Verhoeve
+
+* 3rd place: maximilian mayer - Vrije Universiteit Amsterdam
+	* ***Programming with ghosts - Integrated real-time versioning for creative coding*** (pdf)
+	* Supervisors: Mauricio Verano Merinn
+
+{% include image-gallery.html folder="/assets/img/thesis-awards-2024" %}
+
 ### 2023
 
 The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
