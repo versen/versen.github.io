@@ -14,7 +14,7 @@ The [VERSEN Slack space](slack://app?team=versen) aims to tie together software 
 
 ### Members
 
-* Fabiano Dalpiaz - Utrecht University (leader)
-* Ilias Gerostathopoulos - Vrije Universiteit Amsterdam
-* Ayushi Rastogi - University of Groningen
-* Vadim Zaytsev - University of Twente
+* (chair) Fabiano Dalpiaz - <span style="font-size: smaller;">(Utrecht University)</span>
+* Ilias Gerostathopoulos - <span style="font-size: smaller;">(Vrije Universiteit Amsterdam)</span>
+* Ayushi Rastogi - <span style="font-size: smaller;">(University of Groningen)</span>
+* Vadim Zaytsev - <span style="font-size: smaller;">(University of Twente)</span>

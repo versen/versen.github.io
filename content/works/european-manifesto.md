@@ -11,6 +11,6 @@ See [the Dutch Software Manifesto](/contents/manifesto)
 
 ### Members
 
-* Paris Avgeriou (Leader)
-* Tijs van der Storm
+* Paris Avgeriou <span style="font-size: smaller;">(University of Groningen)</span> {% include badge.html badge="chair" %}
+* Tijs van der Storm <span style="font-size: smaller;">(Centrum Wiskunde & Informatica, University of Groningen)</span>
 

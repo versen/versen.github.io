@@ -9,4 +9,4 @@ The goal of the Software Engineering post-Master education working group is to i
 
 ## Members
 
-* Anton Wijs (Leader)
+* Anton Wijs <span style="font-size: smaller;">(Eindhoven University of Technology)</span> {% include badge.html badge="chair" %}

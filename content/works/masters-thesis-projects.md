@@ -13,5 +13,5 @@ If you would like to collaborate with members of VERSEN in the form of a master 
 
 ## Members
 
-* Marieke Huisman (leader)
-* Ana Oprescu
+* Marieke Huisman <span style="font-size: smaller;">(University of Twente)</span> {% include badge.html badge="chair" %}
+* Ana Oprescu <span style="font-size: smaller;">(University of Amsterdam, Vrije Universiteit Amsterdam)</span>

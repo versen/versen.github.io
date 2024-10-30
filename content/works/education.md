@@ -51,18 +51,18 @@ The Education WG is made up of passionate educators who are eager to share their
 
 ## Members
 
-* Bastiaan Heeren - Open Universiteit (Leader)
-* Vadim Zaytsev - Universiteit Twente
-* Tom van Dijk - Universiteit Twente
-* Andrea Capiluppi - Rijksuniversiteit Groningen
-* Fabiano Dalpiaz - Universiteit Utrecht
-* Ana Oprescu - Universiteit van Amsterdam
-* Annibale Panichella - Technische Universiteit Delft
-* Alfons Laarman - Universiteit Leiden
-* Mazyar Seraj - Technische Universiteit Eindhoven
-* Hieke Keuning - Universiteit Utrecht
+* Bastiaan Heeren <span style="font-size: smaller;">(Open Universiteit)</span> {% include badge.html badge="chair" %}
+* Vadim Zaytsev <span style="font-size: smaller;">(University of Twente)</span>
+* Tom van Dijk <span style="font-size: smaller;">(University of Twente)</span>
+* Andrea Capiluppi <span style="font-size: smaller;">(University of Groningen)</span>
+* Fabiano Dalpiaz <span style="font-size: smaller;">(Utrecht University)</span>
+* Ana Oprescu <span style="font-size: smaller;">(University of Amsterdam)</span>
+* Annibale Panichella <span style="font-size: smaller;">(Delft University of Technology)</span>
+* Alfons Laarman <span style="font-size: smaller;">(Leiden University)</span>
+* Mazyar Seraj <span style="font-size: smaller;">(Eindhoven University of Technology)</span>
+* Hieke Keuning <span style="font-size: smaller;">(Utrecht University)</span>
 
 ## Former Members
 
-* Felienne Hermans - Universiteit Leiden
-* Jeroen Keiren - Technische Universiteit Eindhoven
+* Felienne Hermans <span style="font-size: smaller;">(Leiden University)</span>
+* Jeroen Keiren <span style="font-size: smaller;">(Eindhoven University of Technology)</span>

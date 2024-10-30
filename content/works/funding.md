@@ -15,6 +15,6 @@ VERSEN also document the procedures for funding requests and help keep them tran
 
 ### Contributors
 
-* Jurgen Vinju
-* Marieke Huisman 
-* Tijs van der Storm
+* Jurgen Vinju <span style="font-size: smaller;">(Centrum Wiskunde & Informatica, Eindhoven University of Technology)</span>
+* Marieke Huisman <span style="font-size: smaller;">(University of Twente)</span>
+* Tijs van der Storm <span style="font-size: smaller;">(Centrum Wiskunde & Informatica)</span>

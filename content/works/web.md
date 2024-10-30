@@ -11,10 +11,10 @@ The member administration is maintained at [MailChimp.com](http://www.mailchimp.
 
 ### Members
 
-* Daniel Feitosa (Lead)
+* Daniel Feitosa <span style="font-size: smaller;">(University of Groningen)</span> {% include badge.html badge="chair" %}
 
 ### History
 
-* Jurgen Vinju
+* Jurgen Vinju <span style="font-size: smaller;">(Centrum Wiskunde & Informatica, Eindhoven University of Technology)</span>
 * Dennis Groß
-* Slinger Jansen
+* Slinger Jansen <span style="font-size: smaller;">(Utrecht University)</span>

@@ -13,11 +13,11 @@ An updated list of current and past events can be found [here](/contents/events)
 
 ### Members
 
-* Mauricio Verano Merino (chair, CWI and VU)
-* Loek Cleophas (TU/e and research school IPA)
-* Georgiana Caltais (U Twente)
-* Önder Babur (WUR and TU/e)
-* Samira Shirzadehhajimahmood (UU)
+* Mauricio Verano Merino <span style="font-size: smaller;">(Vrije Universiteit Amsterdam, Centrum Wiskunde & Informatica)</span> {% include badge.html badge="chair" %}
+* Loek Cleophas <span style="font-size: smaller;">(Eindhoven University of Technology, Research School IPA)</span>
+* Georgiana Caltais <span style="font-size: smaller;">(University of Twente)</span>
+* Önder Babur <span style="font-size: smaller;">(Wageningen University & Research, Eindhoven University of Technology)</span>
+* Samira Shirzadehhajimahmood <span style="font-size: smaller;">(Utrecht University)</span>
 
 ### History
 

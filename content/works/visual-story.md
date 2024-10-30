@@ -12,11 +12,11 @@ The group worked with the artists of [Flatland](http://www.flatland.nl).
 
 ### Members
 
-* Marieke Huisman (Leader)
-* Paul Klint
-* Arie van Deursen
-* Alexander Serebrenik
-* Jurgen Vinju
+* Marieke Huisman <span style="font-size: smaller;">(University of Twente)</span> {% include badge.html badge="chair" %}
+* Paul Klint <span style="font-size: smaller;">(Centrum Wiskunde & Informatica)</span>
+* Arie van Deursen <span style="font-size: smaller;">(Delft University of Technology)</span>
+* Alexander Serebrenik <span style="font-size: smaller;">(Eindhoven University of Technology)</span>
+* Jurgen Vinju <span style="font-size: smaller;">(Centrum Wiskunde & Informatica, Eindhoven University of Technology)</span>
 
 ### Funding
 
