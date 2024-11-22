@@ -14,11 +14,12 @@ An updated list of current and past events can be found [here](/contents/events)
 ### Members
 
 * Mauricio Verano Merino <span style="font-size: smaller;">(Vrije Universiteit Amsterdam, Centrum Wiskunde & Informatica)</span> {% include badge.html badge="chair" %}
-* Loek Cleophas <span style="font-size: smaller;">(Eindhoven University of Technology, Research School IPA)</span>
 * Georgiana Caltais <span style="font-size: smaller;">(University of Twente)</span>
 * Önder Babur <span style="font-size: smaller;">(Wageningen University & Research, Eindhoven University of Technology)</span>
 * Samira Shirzadehhajimahmood <span style="font-size: smaller;">(Utrecht University)</span>
-
+* Tijs van der Storm <span style="font-size: smaller;">(Centrum Wiskunde & Informatica, University of Groningen)</span>
+* Felipe de Azeredo Coutinho Xavier <span style="font-size: smaller;">(Eindhoven University of Technology)</span>
 ### History
 
-* Anna-Lena Lamprecht (group leader, University of Potsdam)
+* Loek Cleophas <span style="font-size: smaller;">(Eindhoven University of Technology, Research School IPA)</span>
+* Anna-Lena Lamprecht <span style="font-size: smaller;">University of Potsdam</span>
