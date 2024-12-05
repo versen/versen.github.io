@@ -1,7 +1,7 @@
 ---
 layout: news
 picture: "icsme_awards.jpeg"
-title: "June Sallou and Siamak Farshidi are new members of the Information Technology group at Wageningen University "
+title: "Four distinguished reviewer awards for Dutch SE resarchers at ICSME 2024"
 ---
 
 Great news! Four Dutch software engineering researchers have won distinguished reviewer awards at the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME)! 
