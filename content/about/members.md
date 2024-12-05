@@ -3,7 +3,7 @@ layout: content
 permalink: /contents/members
 ---
 
-VERSEN currently has **362** members.
+VERSEN currently has **367** members.
 
 The following members allowed us to share their information.
 
@@ -37,7 +37,6 @@ The following members allowed us to share their information.
 - Ayalew Kassahun, *Wageningen University & Research*
 - Ayushi Rastogi, *University of Groningen*
 - Bas Luttik, *Eindhoven University of Technology*
-- Bastiaan Heeren, *The Open University of the Netherlands*
 - Bastian Roden, *Schuberg Philis*
 - Bedir Tekinerdogan, *Wageningen University & Research*
 - Behrooz Nobakht, *Leiden University* and *Centrum Wiskunde & Informatica (CWI)*
@@ -47,7 +46,7 @@ The following members allowed us to share their information.
 - Bert Wimmenhove, *University of Applied Sciences Windesheim*
 - Bilal Al-Ahmad, *The University of Jordan/Aqaba, Department of Computer Information Systems*
 - Bob Rubbens, *University of Twente*
-- Boudewijn Haverkort, *Tilburg University*
+- Boudewijn Haverkort, *University of Twente*
 - Bram Kohlen, *University of Twente*
 - Burcu Kulahcioglu Ozkan, *Delft University of Technology*
 - C Chen, *Software Improvement Group (SIG)*
@@ -59,8 +58,10 @@ The following members allowed us to share their information.
 - Christaller Sahani, *Visitor*
 - Christian Manteuffel, *University of Groningen* and *Software Engineering and Architecture Group, University of Groningen*
 - Christoph Bockisch, *The Open Universiteit of the Netherlands*
+- Chun Fei Lung, *HU University of Applied Sciences Utrecht* and *Nederlandse Omroep Stichting (NOS)*
 - Chushu Gao, *Software Improvement Group (SIG)*
 - Cigdem Aytekin, *Info.nl*
+- Claudenir M. Fonseca, *University of Twente*
 - Claudia Raibulet, *VU Amsterdam*
 - Clemens Grelck, *University of Amsterdam*
 - Clemens Dubslaff, *Eindhoven University of Technology* and *TU Dresden*
@@ -158,6 +159,7 @@ The following members allowed us to share their information.
 - Johan Lukkien, *Eindhoven University of Technology*
 - Johan Arts, *Open Universiteit*
 - John Pool, *SpeakEasy Software Development*
+- Jonan Richards, *Radboud University*
 - Joop Snijder, *Info Support* and *Aigency*
 - Joost Visser, *Leiden University*
 - Joost Schalken, *University of Applied Sciences Windesheim*
@@ -170,7 +172,7 @@ The following members allowed us to share their information.
 - João Miguel Louro Neto, *TU Delft*
 - João Paulo Biazotto, *University of Groningen* and *University of São Paulo (Brazil)*
 - Julien Schmaltz, *Eindhoven University of Technology*
-- June Sallou, *TU Delft*
+- June Sallou, *Wageningen University & Research*
 - Jurgen Vinju, *Centrum Wiskunde & Informatica (CWI)* and *Eindhoven University of Technology*
 - Jurriaan Hage, *Utrecht University*
 - Justus Bogner, *Vrije Universiteit Amsterdam*
@@ -179,6 +181,7 @@ The following members allowed us to share their information.
 - Keerthiga Rajenthiram, *Vrije Universiteit (VU) Amsterdam*
 - Kees Teszelszky, *hoger onderwijsmanager I-Doctoraat, I-Partnerschap*
 - Kevin van der Vlist, *ING Bank Netherlands*
+- Klervie Toczé, *VU Amsterdam*
 - Kousar Aslam, *VU Amsterdam*
 - Kwabena Bennin, *Wageningen University & Research*
 - Lars van der Water, *University of Amsterdam*
@@ -209,9 +212,10 @@ The following members allowed us to share their information.
 - Martin Deiman, *Testwerk*
 - Maryam Razavian, *Eindhoven University of Technology*
 - Matt Chapman, *OBI4wan B.V.*
+- Matthias Volk, *Eindhoven University of Technology*
 - Mattijs Ghijsen, *Software Improvement Group (SIG)*
 - Mauricio Verano Merino, *Eindhoven University of Technology*
-- Mauricio Aniche, *Adyen*
+- Mauri­cio Aniche, *Adyen*
 - Maya Daneva, *University of Twente*
 - Mazyar Seraj, *Eindhoven University of Technology*
 - Mehmet Aksit, *University of Twente*
@@ -219,7 +223,9 @@ The following members allowed us to share their information.
 - Michel Reniers, *Eindhoven University of Technology*
 - Michiel Overeem, *AFAS Software*
 - Milan Lopuhaä-Zwakenberg, *University of Twente*
+- Mine Temurhan, *Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie (ODI)*
 - Mirela Riveni, *University of Groningen*
+- Mitchell Olsthoorn, *Delft University of Technology*
 - Mohammad Hashem Faezi, *University of Groningen*
 - MohammadMahdi Jaghouri, *Centrum Wiskunde & Informatica (CWI)*
 - Nan Yang, *TNO-ESI* and *Eindhoven University of Technology*
@@ -235,6 +241,7 @@ The following members allowed us to share their information.
 - Oktay Turetken, *Eindhoven University of Technology*
 - Olga Gadyatskaya, *Leiden University*
 - Olivia Rodriguez Valdes, *The Open University of the Netherlands*
+- Panos Lampropoulos, *NVIDIA*
 - Paris Avgeriou, *University of Groningen*
 - Patricia Lago, *VU Amsterdam*
 - Paul Mcdonald Madziwa, *University of Zimbabwe*
@@ -247,7 +254,6 @@ The following members allowed us to share their information.
 - Pieter Van Gorp, *Eindhoven University of Technology*
 - Pieter Koopman, *Radboud University*
 - Ramon Schiffelers, *ASML* and *Eindhoven University of Technology*
-- Raúl Monti, *University of Twente*
 - Rena Bakhshi, *Netherlands eScience Center*
 - Renata Guizzardi, *University of Twente* and *Ontology and Conceptual Modeling Research Group (NEMO) - Brazil*
 - Riemer van Rozen, *Centrum Wiskunde & Informatica (CWI)*
@@ -273,7 +279,6 @@ The following members allowed us to share their information.
 - Sjaak Brinkkemper, *Utrecht University*
 - Slinger Jansen, *Utrecht University*
 - Soham Chakraborty, *Software Technology Department, TU Delft*
-- Sophie Lathouwers, *University of Twente*
 - Stefan Koppier, *Utrecht University*
 - Stephen Adams, *ING*
 - Sung-Shik Jongmans, *The Open University of the Netherlands* and *Radboud University*
