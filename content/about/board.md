@@ -136,7 +136,6 @@ permalink: /contents/board
 *   [Andy Zaidman](https://azaidman.github.io/), **Delft University of Technology**
 *   [Arend Rensink](http://wwwhome.ewi.utwente.nl/~rensink/), **University of Twente**
 *   [Arie van Deursen](https://avandeursen.com/), **Delft University of Technology (IPN Representative)**
-*   [Bastiaan Heeren](http://www.open.ou.nl/bhr/), **Open University**
 *   [Bedir Tekinerdogan](https://www.wur.nl/nl/Personen/Bedir-Tekinerdogan.htm), **Wageningen University & Research**
 *   [Damian Andrew Tamburri](https://research.tue.nl/en/persons/damian-a-tamburri), **Eindhoven University of Technology** and **Jheronimus Academy of Data Science** 
 *   [Felienne Hermans](https://vu.nl/nl/verhalen/felienne-hermans), **Vrije Universiteit Amsterdam**
