@@ -33,7 +33,7 @@ The awards were sponsored by [ASML](https://www.asml.com/en).
 #### MSc Thesis Winners
 
 * 1st place: Christos Petalotis - Vrije Universiteit Amsterdam, Universiteit van Amsterdam
-	* ***A First Investigation Into the Detection of Energy-related Issues in Microservice-based Systems via Anomaly Detection and Root-Cause Analysis*** (pdf tbd)
+	* ***A First Investigation Into the Detection of Energy-related Issues in Microservice-based Systems via Anomaly Detection and Root-Cause Analysis*** ([pdf](/assets/pdf/awards/MSc_Award_2024-Christos_Petalotis-Ivano_Malavolta.pdf))
 	* Supervisors: Ivano Malavolta
 
 * 2nd place: Famke Driessen - University of Twente
@@ -42,8 +42,8 @@ The awards were sponsored by [ASML](https://www.asml.com/en).
 Sperotto, Sander van den Bosch, and Paul Verhoeve
 
 * 3rd place: Maximilian Mayer - Vrije Universiteit Amsterdam
-	* ***Programming with ghosts - Integrated real-time versioning for creative coding*** (pdf tbd)
-	* Supervisors: Mauricio Verano Merino
+	* ***Programming with ghosts - Integrated real-time versioning for creative coding*** ([pdf](/assets/pdf/awards/MSc_Award_2024-Maximilian_Mayer-Mauricio_Verano.pdf))
+	* Supervisors: Mauricio Verano Merano
 
 {% include image-gallery.html folder="/assets/img/thesis-awards-2024" %}
 
