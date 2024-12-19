@@ -11,31 +11,19 @@ permalink: /contents/awards-cfs
 
 ***Process***: low-weight, just upload thesis and candidate CV, and optionally a nomination text and/or link to a video explaining the thesis.
 
-### About the VERSEN PhD and MSc Thesis Awards
-
-To further promote and encourage excellence in software engineering research, VERSEN has introduced the VERSEN Thesis Awards. The awards are indications of excellence that can support talent in future applications in the current competitive academic climate.
-
-The awards are supported by NWO and promoted at [ICT.Open](https://www.ictopen.nl/).
-
-The theses will be judged on the following factors, in equal parts:
-
-- Novelty to and impact in the field promoted by VERSEN.
-- Timeliness.
-- Quality of the thesis report and associated artifacts.
-- Methodological approach and execution.
-
-Please note that the thesis will be published on VERSEN's website and cannot contain any intellectual property that is not public. If applicable, we will also publish links to associated artifacts (datasets, Github links, etc.).
-
 ### Procedure Thesis Awards 2024
 
 The Award can only be awarded to graduate students who have obtained their degree from a Dutch institute of higher academic learning between September 1st, 2023, until August 31st, 2024. We strongly recommend that both the winner of a thesis award and the nominator are present at the award ceremony. 
 
 ### Important Dates (Both Awards)
 
-- 19-Dec-2025: Awards are announced, [submission form open](https://docs.google.com/forms/d/e/1FAIpQLSdeXgKiE03Od7G-aAPs-ay8vEtz339dRQ4kP4vj-JnEC_-axw/viewform?usp=header)
-- 31-01-2025 Deadline for submission
-- 03-03-2025 Notification
-- There will be an MSc award ceremony at the SEN Symposium, and a PhD award ceremony at ICT.Open, in 2025
+* 19-Dec-2025: Awards are announced, [submission form open](https://docs.google.com/forms/d/e/1FAIpQLSdeXgKiE03Od7G-aAPs-ay8vEtz339dRQ4kP4vj-JnEC_-axw/viewform?usp=header)
+
+* 31-01-2025 Deadline for submission
+
+* 03-03-2025 Notification
+
+* There will be an MSc award ceremony at the SEN Symposium, and a PhD award ceremony at ICT.Open, in 2025
 
 ### Nominations
 
