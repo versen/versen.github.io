@@ -18,6 +18,7 @@ An updated list of current and past events can be found [here](/contents/events)
 * Samira Shirzadehhajimahmood <span style="font-size: smaller;">(Utrecht University)</span>
 * Tijs van der Storm <span style="font-size: smaller;">(Centrum Wiskunde & Informatica, University of Groningen)</span>
 * Felipe de Azeredo Coutinho Xavier <span style="font-size: smaller;">(Eindhoven University of Technology)</span>
+* Sangeeth Kochanthara <span style="font-size: smaller;">(ASTRON, Eindhoven University of Technology)</span>
 
 ### History
 
