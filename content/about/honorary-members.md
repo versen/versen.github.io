@@ -52,7 +52,7 @@ At the 2020 SEN Symposium eight honorary fellows were announced. The following
 
 * Prof. dr. Mehmet Aksit ([movie by former PhD student Prof. dr. Bedir Tekinerdogan](https://youtu.be/XLheH5MwJ9U))
 
-* Prof. dr. Hans van Vliet ([movie by former PhD student Prof. dr. Patricia Lago](https://youtu.be/pqvSi2eKPxg))
+* Prof. dr. Hans van Vliet ([movie by former colleague Prof. dr. Patricia Lago](https://youtu.be/pqvSi2eKPxg))
 
 * Prof. dr. Paul Klint ([movie by former PhD student Prof. dr. Jurgen Vinju](https://youtu.be/OR5OrF1ZUz0))
 
