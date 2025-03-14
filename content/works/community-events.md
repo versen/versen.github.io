@@ -19,6 +19,8 @@ An updated list of current and past events can be found [here](/contents/events)
 * Tijs van der Storm <span style="font-size: smaller;">(Centrum Wiskunde & Informatica, University of Groningen)</span>
 * Felipe de Azeredo Coutinho Xavier <span style="font-size: smaller;">(Eindhoven University of Technology)</span>
 * Sangeeth Kochanthara <span style="font-size: smaller;">(ASTRON, Eindhoven University of Technology)</span>
+* Mairieli Wessel <span style="font-size: smaller;">(Radboud University)</span>
+* Daniel Feitosa <span style="font-size: smaller;">(University of Groningen)</span>
 
 ### History
 
