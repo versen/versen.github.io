@@ -3,7 +3,7 @@ layout: content
 permalink: /contents/members
 ---
 
-VERSEN currently has **371** members.
+VERSEN currently has **372** members.
 
 The following members allowed us to share their information.
 
@@ -284,6 +284,7 @@ The following members allowed us to share their information.
 - Stefan Koppier, *Utrecht University*
 - Stephen Adams, *ING*
 - Sung-Shik Jongmans, *The Open University of the Netherlands* and *Radboud University*
+- Sushant Kumar Pandey, *University of Groningen*
 - Sven-Bodo Scholz, *University of Groningen*
 - Sylvia Stuurman, *The Open University of the Netherlands*
 - Tanja Vos, *The Open University of the Netherlands*
