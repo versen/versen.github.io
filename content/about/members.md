@@ -3,7 +3,7 @@ layout: content
 permalink: /contents/members
 ---
 
-VERSEN currently has **367** members.
+VERSEN currently has **371** members.
 
 The following members allowed us to share their information.
 
@@ -30,6 +30,7 @@ The following members allowed us to share their information.
 - Arnd Hartmanns, *University of Twente*
 - Arnold Houwing, *Obione Software*
 - Aron Zwaan, *Delft University of Technology*
+- Arthur Rump, *University of Twente*
 - Arumoy Shome, *Delft University of Technology*
 - Ashish Sai, *The Open University of the Netherlands* and *University of Amsterdam*
 - Ashley van Can, *Utrecht University*
@@ -56,7 +57,7 @@ The following members allowed us to share their information.
 - Chen Yang, *University of Groningen*
 - Chenxing Zhong, *Nanjing University* and *Groningen University*
 - Christaller Sahani, *Visitor*
-- Christian Manteuffel, *University of Groningen* and *Software Engineering and Architecture Group, University of Groningen*
+- Christian Manteuffel, *University of Groningen*
 - Christoph Bockisch, *The Open Universiteit of the Netherlands*
 - Chun Fei Lung, *HU University of Applied Sciences Utrecht* and *Nederlandse Omroep Stichting (NOS)*
 - Chushu Gao, *Software Improvement Group (SIG)*
@@ -155,10 +156,10 @@ The following members allowed us to share their information.
 - Jesse Maarleveld, *University of Groningen*
 - Jiangnan Huang, *Radboud University*
 - Joao Moreira, *University of Twente*
+- Jochem Broekhoff, *Delft University of Technology* and *Oracle Labs*
 - Johan Jeuring, *Utrecht University*
 - Johan Lukkien, *Eindhoven University of Technology*
 - Johan Arts, *Open Universiteit*
-- John Pool, *SpeakEasy Software Development*
 - Jonan Richards, *Radboud University*
 - Joop Snijder, *Info Support* and *Aigency*
 - Joost Visser, *Leiden University*
@@ -204,9 +205,11 @@ The following members allowed us to share their information.
 - Marcello Bonsangue, *Leiden Institute of Advanced Computer Science (LIACS), Leiden University* and *Centrum Wiskunde & Informatica (CWI)*
 - Marco di Biase, *Delft University of Technology* and *Software Improvement Group (SIG)*
 - Marco Vasquez, *University of Groningen*
+- Marcus Gerhold, *University of Twente*
 - Marieke Huisman, *University of Twente*
 - Marielle Stoelinga, *University of Twente*
 - Mark van den Brand, *Eindhoven University of Technology*
+- Mark van Wijk, *University of Twente*
 - Marten van Sinderen, *University of Twente*
 - Martijn Stegeman, *University of Amsterdam*
 - Martin Deiman, *Testwerk*
@@ -223,7 +226,6 @@ The following members allowed us to share their information.
 - Michel Reniers, *Eindhoven University of Technology*
 - Michiel Overeem, *AFAS Software*
 - Milan Lopuhaä-Zwakenberg, *University of Twente*
-- Mine Temurhan, *Rijksorganisatie voor Ontwikkeling, Digitalisering en Innovatie (ODI)*
 - Mirela Riveni, *University of Groningen*
 - Mitchell Olsthoorn, *Delft University of Technology*
 - Mohammad Hashem Faezi, *University of Groningen*
@@ -244,7 +246,7 @@ The following members allowed us to share their information.
 - Panos Lampropoulos, *NVIDIA*
 - Paris Avgeriou, *University of Groningen*
 - Patricia Lago, *VU Amsterdam*
-- Paul Mcdonald Madziwa, *University of Zimbabwe*
+- Paul Mcdonald Madziwa, *University of Zimbabwe* and *Undergraduate, Bsc Hons*
 - Pepijn van de Kamp, *Ordina*
 - Peter Kourzanov, *NXP Semiconductors* and *Delft University of Technology*
 - Peter Lammich, *University of Twente*
@@ -299,8 +301,10 @@ The following members allowed us to share their information.
 - Tim Steenvoorden, *The Open University of the Netherlands*
 - Tjerk Spijkman, *fizor* and *Utrecht University*
 - Tom van Dijk, *University of Twente*
+- Tony Garnock-Jones, *Maastricht University*
 - Vadim Zaytsev, *University of Twente*
 - Valentijn van de Beek, *TU Delft*
+- Valentina Castiglioni, *Eindhoven University of Technology*
 - Vasilios Andrikopoulos, *University of Groningen*
 - Vijanti Ramautar, *Utrecht University*
 - Vincenzo Stoico, *Vrije Universiteit Amsterdam*
