@@ -9,9 +9,13 @@ Reusing ontologies effectively is a key challenge and an architectural decision 
 This latest research introduces the Onto4Reuse Framework, designed to tackle this issue by making ontology reuse more efficient and practical for software engineers.
 
 In the paper, the authors propose the combination of innovative approaches, such as:
+
 1️⃣ Ontology Design Patterns
+
 2️⃣ Ontology Matching with Foundational Ontologies
+
 3️⃣ Reverse Engineering for Grounding Operational Ontologies
+
 4️⃣ Applying FAIR Data Principles
 
 The Onto4reuse framework aims to support software engineers in designing robust software for real-world applications, including infrastructure asset management and modular building construction.
