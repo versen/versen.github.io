@@ -5,31 +5,40 @@ permalink: /contents/awards-cfs
 
 ## VERSEN Thesis Awards - Call for Submissions
 
-### Submission
+***Deadline***: January 31st, 2025
 
-The submission procedure is lightweight. You should submit the thesis and the candidate’s CV (both in PDF). Optionally, nominations can be complemented by a letter by the supervisors (PDF) and an accompanying short video.
+***Submission***: [link](https://docs.google.com/forms/d/e/1FAIpQLSdeXgKiE03Od7G-aAPs-ay8vEtz339dRQ4kP4vj-JnEC_-axw/viewform?usp=header)
 
-Submissions should be sent via the following [form](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fversen.us7.list-manage.com%2Ftrack%2Fclick%3Fu%3De6afd6c1e7c0289f4566d4fe5%26id%3D2ba035f19d%26e%3D9b39ab443a&data=05%7C01%7C%7C09039ed090654ee16b3008dbf0c69c0b%7Ccc7df24760ce4a0f9d75704cf60efc64%7C0%7C0%7C638368508065464629%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2BmT%2BSlPhKf9yNYNJQujZWek9bnG7i08mkpFPw3lqLc4%3D&reserved=0).
+***Process***: low-weight, just upload thesis and candidate CV, and optionally a nomination text and/or link to a video explaining the thesis.
 
-For the selection criteria, please refer to the [procedure](/contents/procedure-thesis-award).
+### Procedure Thesis Awards 2024
+
+The Award can only be awarded to graduate students who have obtained their degree from a Dutch institute of higher academic learning between September 1st, 2023, until August 31st, 2024. We strongly recommend that both the winner of a thesis award and the nominator are present at the award ceremony. 
+
+### Important Dates (Both Awards)
+
+* 19-Dec-2025: Awards are announced, [submission form open](https://docs.google.com/forms/d/e/1FAIpQLSdeXgKiE03Od7G-aAPs-ay8vEtz339dRQ4kP4vj-JnEC_-axw/viewform?usp=header)
+
+* 31-01-2025 Deadline for submission
+
+* 03-03-2025 Notification
+
+* There will be an MSc award ceremony at the SEN Symposium, and a PhD award ceremony at ICT.Open, in 2025
+
+### Nominations
+
+Nominations for the awards should consist of:
+
+- The thesis (in PDF format)
+- A curriculum vitae (in PDF format) of the nominee
+- ***Recommended***: a nomination text explaining why the thesis should win an award
+
+### Further Information
 
 For further information about the awards, contact dr. ing. Anton Wijs ([A.J.Wijs@tue.nl](mailto:A.J.Wijs@tue.nl)).
 
-### Important Dates
+### Evaluation Committee Thesis Awards
 
-17-12: Deadline for submission
-
-01-02: Notification of awards to the candidates
-
-### Award ceremony
-
-The ceremony of the *MSc Thesis Award* will take place at the [SEN symposium](http://www.sen-symposium.nl).
-
-The ceremony of the *PhD Thesis Award* will take place at [ICT.Open](https://ict-research.nl/ict-open/).
-
-### Evaluation Committee
-
-This year's evaluation committee is composed of:
-* dr. ing. Anton Wijs
-* dr. Yanja Dajsuren
-* dr. Georgiana Caltais
+- **2023-2024**: dr. ing. Anton Wijs, dr. Georgiana Caltais, dr. Maliheh Izadi
+- **2022-2023**: dr. ing. Anton Wijs, dr. Yanja Dajsuren, dr. Georgiana Caltais
+- **2021-2022**: dr. ing. Anton Wijs, prof. dr. Jorge Perez, dr. Yanja Dajsuren

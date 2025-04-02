@@ -14,12 +14,16 @@ An updated list of current and past events can be found [here](/contents/events)
 ### Members
 
 * Mauricio Verano Merino <span style="font-size: smaller;">(Vrije Universiteit Amsterdam, Centrum Wiskunde & Informatica)</span> {% include badge.html badge="chair" %}
-* Georgiana Caltais <span style="font-size: smaller;">(University of Twente)</span>
 * Önder Babur <span style="font-size: smaller;">(Wageningen University & Research, Eindhoven University of Technology)</span>
-* Samira Shirzadehhajimahmood <span style="font-size: smaller;">(Utrecht University)</span>
+* Samira Shirzadehhajimahmood <span style="font-size: smaller;">(TNO)</span>
 * Tijs van der Storm <span style="font-size: smaller;">(Centrum Wiskunde & Informatica, University of Groningen)</span>
 * Felipe de Azeredo Coutinho Xavier <span style="font-size: smaller;">(Eindhoven University of Technology)</span>
+* Sangeeth Kochanthara <span style="font-size: smaller;">(ASTRON, Eindhoven University of Technology)</span>
+* Mairieli Wessel <span style="font-size: smaller;">(Radboud University)</span>
+* Daniel Feitosa <span style="font-size: smaller;">(University of Groningen)</span>
+
 ### History
 
+* Georgiana Caltais <span style="font-size: smaller;">(University of Twente)</span>
 * Loek Cleophas <span style="font-size: smaller;">(Eindhoven University of Technology, Research School IPA)</span>
 * Anna-Lena Lamprecht <span style="font-size: smaller;">University of Potsdam</span>

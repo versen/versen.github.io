@@ -7,9 +7,9 @@ permalink: /contents/procedure-thesis-award
 
 ### About the VERSEN Thesis Awards
 
-To further promote and encourage excellence in software engineering research, VERSEN has introduced the **VERSEN PhD Thesis Award** and the **VERSEN MSc Thesis Award**. The awards are indications of excellence that can support talent in future applications in the current competitive academic climate.
+To further promote and encourage excellence in software engineering research, VERSEN has introduced the **VERSEN Thesis Awards**. The awards are indications of excellence that can support talent in future applications in the current competitive academic climate.
 
-The awards are supported by NWO and promoted at [ICT.Open](https://ict-research.nl/ict-open/).
+The awards are supported by NWO and promoted at [ICT.Open](https://www.ictopen.nl/).
 
 The theses will be judged on the following factors, in equal parts:
 

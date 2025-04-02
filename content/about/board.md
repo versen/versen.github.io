@@ -58,16 +58,6 @@ permalink: /contents/board
       </p>
     </div>
     <div class="col-md-4 col-sm-6">
-      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/marieke.jpg" alt="Marieke Huisman"></p>
-      <p>
-        <a href="http://wwwhome.ewi.utwente.nl/~marieke/">Marieke Huisman</a>
-        <br/>
-        2024&#8211;2027 (member)*
-        <br/>
-        University of Twente
-      </p>
-    </div>
-    <div class="col-md-4 col-sm-6">
       <p class="img-wrap"><img class="img-adj" src="/assets/img/board/tijs.jpg" alt="Tijs van der Storm"></p>
       <p>
         <a href="http://homepages.cwi.nl/~storm">Tijs van der Storm</a>
@@ -136,7 +126,6 @@ permalink: /contents/board
 *   [Andy Zaidman](https://azaidman.github.io/), **Delft University of Technology**
 *   [Arend Rensink](http://wwwhome.ewi.utwente.nl/~rensink/), **University of Twente**
 *   [Arie van Deursen](https://avandeursen.com/), **Delft University of Technology (IPN Representative)**
-*   [Bastiaan Heeren](http://www.open.ou.nl/bhr/), **Open University**
 *   [Bedir Tekinerdogan](https://www.wur.nl/nl/Personen/Bedir-Tekinerdogan.htm), **Wageningen University & Research**
 *   [Damian Andrew Tamburri](https://research.tue.nl/en/persons/damian-a-tamburri), **Eindhoven University of Technology** and **Jheronimus Academy of Data Science** 
 *   [Felienne Hermans](https://vu.nl/nl/verhalen/felienne-hermans), **Vrije Universiteit Amsterdam**
