@@ -6,11 +6,14 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-*   [SEN-Symposium 2024](https://www.sen-symposium.nl/)
-*   [PLNL 2024](https://conf.researchr.org/home/plnl-2024)
+*   [SEN-Symposium 2025](https://www.sen-symposium.nl/)
+*   [ICT-Open 2025](https://www.ictopen.nl/)
 
 ### Past VERSEN Events
 
+*   [PLNL 2024](https://conf.researchr.org/home/plnl-2024)
+*   [ICT-Open 2024](https://www.ictopen.nl/)
+*   [SEN-Symposium 2024](https://www.sen-symposium.nl/history/2024/program)
 *   VERSEN [Seminar Afternoon on "Generative AI and Ethics"](/contents/events/2023-11-20-GenerativeAIandEthics)
 *   [PLNL 2023](https://conf.researchr.org/home/plnl-2023)
 *   [SEN-Symposium 2023](https://www.sen-symposium.nl/history/2023/program)
