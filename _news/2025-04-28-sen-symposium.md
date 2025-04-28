@@ -1,7 +1,7 @@
 ---
 layout: news
 picture: "default.png"
-title: "Free registration is now open for SEN 2025!"
+title: "Free registration is now open for the SEN Symposium 2025!"
 ---
 
 Registration for the 11th Dutch Symposium on Software Engineering (SEN 2025) is now open. 
