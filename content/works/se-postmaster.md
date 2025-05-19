@@ -10,3 +10,7 @@ The goal of the Software Engineering post-Master education working group is to i
 ## Members
 
 * Anton Wijs <span style="font-size: smaller;">(Eindhoven University of Technology)</span> {% include badge.html badge="chair" %}
+* Sushant Kumar Pandey - <span style="font-size: smaller;">(University of Groningen)</span>
+* Saimak Farshidi - <span style="font-size: smaller;">(Wageningen University)</span>
+* Marielle Stoelinga - <span style="font-size: smaller;">(University of Twente)</span>
+* Yanja Dajsuren - <span style="font-size: smaller;">(Eindhoven University of Technology)</span>
