@@ -3,7 +3,7 @@ layout: content
 permalink: /contents/works/se-postmaster
 ---
 
-## Working Group: Software Engineering post-Master education
+## Working Group: Life-Long Learning
 
 The goal of the Software Engineering post-Master education working group is to investigate the needs of Software Engineers for education at the post-Master level, and how VERSEN can play a role in providing that education. Some current examples of post-Master education are the PDEng programs offered by the Dutch universities of Technology, and part-time programs aimed at professionals working in industry. 
 
@@ -11,6 +11,6 @@ The goal of the Software Engineering post-Master education working group is to i
 
 * Anton Wijs <span style="font-size: smaller;">(Eindhoven University of Technology)</span> {% include badge.html badge="chair" %}
 * Sushant Kumar Pandey - <span style="font-size: smaller;">(University of Groningen)</span>
-* Saimak Farshidi - <span style="font-size: smaller;">(Wageningen University)</span>
+* Siamak Farshidi - <span style="font-size: smaller;">(Wageningen University)</span>
 * Marielle Stoelinga - <span style="font-size: smaller;">(University of Twente)</span>
 * Yanja Dajsuren - <span style="font-size: smaller;">(Eindhoven University of Technology)</span>
