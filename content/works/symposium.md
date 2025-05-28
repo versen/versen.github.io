@@ -8,6 +8,16 @@ permalink: /contents/works/symposium
 The goal of the Symposium working group is to organize the yearly [SEN symposium](http://www.sen-symposium.nl) at CWI.
 The (large) group of members changes every year. They are documented [here](https://www.sen-symposium.nl/about/).
 
+## Committee of 2025
+
+* Alfons Laarman <span style="font-size: smaller;">(Leiden University)</span> {% include badge.html badge="co-chair" %}
+* Mairieli Wessel <span style="font-size: smaller;">(Radboud University)</span> {% include badge.html badge="co-chair" %}
+* Maliheh Izadi <span style="font-size: smaller;">(Delft University of Technology)</span> {% include badge.html badge="co-chair" %}
+* Tijs van der Storm <span style="font-size: smaller;">(Centrum Wiskunde & Informatica, University of Groningen)</span> {% include badge.html badge="local organizer" %}
+* Carla van Asperen <span style="font-size: smaller;">(Centrum Wiskunde & Informatica)</span> {% include badge.html badge="local organizer" %}
+* Amber Moet <span style="font-size: smaller;">(Centrum Wiskunde & Informatica)</span> {% include badge.html badge="local organizer" %}
+
+
 ## Committee of 2024
 
 * Ayushi Rastogi <span style="font-size: smaller;">(University of Groningen)</span> {% include badge.html badge="co-chair" %}
