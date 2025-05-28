@@ -17,7 +17,6 @@ The (large) group of members changes every year. They are documented [here](http
 * Carla van Asperen <span style="font-size: smaller;">(Centrum Wiskunde & Informatica)</span> {% include badge.html badge="local organizer" %}
 * Amber Moet <span style="font-size: smaller;">(Centrum Wiskunde & Informatica)</span> {% include badge.html badge="local organizer" %}
 
-
 ## Committee of 2024
 
 * Ayushi Rastogi <span style="font-size: smaller;">(University of Groningen)</span> {% include badge.html badge="co-chair" %}
