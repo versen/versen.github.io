@@ -7,6 +7,7 @@ title: "Invitation to Workshop on Industry Perspectives on Research Software Qua
 The EVERSE consortium would like to invite you to participate in a focused workshop exploring the intersection of research software quality and industry practices. This 90-minute virtual session will take place on 12 June from 10:30 - 12:00 UK / 11:30 - 13:00 CET.
 
 **Why Your Perspective Matters**
+
 As someone with industry experience, your insights are important as we develop frameworks and best practices for research software quality. This can range from the quality of the code itself, to the quality of the development practices, and quality of deployment that affects users, as well as indicators and metrics to measure quality. This workshop specifically aims to bridge the gap between academic research software development and industry software engineering practices.
 
 **What's in it for You?**
