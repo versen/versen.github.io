@@ -1,6 +1,6 @@
 ---
 layout: content
-permalink: /contents/works/se-postmaster
+permalink: /contents/works/life-long-learning
 ---
 
 ## Working Group: Life-Long Learning
