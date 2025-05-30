@@ -17,6 +17,7 @@ As someone with industry experience, your insights are important as we develop f
 - A summary of the ideas discussed during the event will be shared with all participants
 
 **Workshop Format**
+
 The workshop will be structured with facilitated discussion:
 - Brief introduction to EVERSE's framework and tools for research software quality
 - Guided discussion sessions designed to capture your input
@@ -27,13 +28,15 @@ No preparation is needed on your part - we value your spontaneous insights and p
 The entire session will last approximately 90 minutes.
 
 **Background**
+
 EVERSE is a European Commission-funded research project, which aims to develop a framework for research software quality. As part of this work, we're exploring how industry perspectives and practices can inform our approach, especially where research and commercial interests overlap.
 
 **Registration Process**
+
 If you are interested in participating, please reply directly to me or directly to Giacomo Peru (g.peru@epcc.ed.ac.uk) providing:
 
 1. Your name and organisation
 
 2. Your email address
 
-3. If possible, a brief note on your area of expertise/interest in software quality"
+3. If possible, a brief note on your area of expertise/interest in software quality
