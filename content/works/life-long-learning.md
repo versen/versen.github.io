@@ -1,11 +1,11 @@
 ---
 layout: content
-permalink: /contents/works/se-postmaster
+permalink: /contents/works/life-long-learning
 ---
 
 ## Working Group: Life-Long Learning
 
-The goal of the Software Engineering post-Master education working group is to investigate the needs of Software Engineers for education at the post-Master level, and how VERSEN can play a role in providing that education. Some current examples of post-Master education are the PDEng programs offered by the Dutch universities of Technology, and part-time programs aimed at professionals working in industry. 
+The goal of the Life-Long Learning working group is to investigate the needs of Software Engineers for education at the post-Master level, and how VERSEN can play a role in providing that education. Some current examples of post-Master education are the PDEng programs offered by the Dutch universities of Technology, and part-time programs aimed at professionals working in industry. 
 
 ## Members
 

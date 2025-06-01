@@ -14,7 +14,7 @@ The VERSEN community is organized in Working Groups. Some of them are temporary 
 * [Symposium](/contents/works/symposium) comprises the people that organize the yearly SEN symposium. Its members are different every year.
 * [Publicity](/contents/works/publicity) has the goal to create and edit content for the newsletter and the website.
 * [Education](/contents/works/education) explore how software engineering education can be improved across all levels.
-* [Post-master Education](/contents/works/se-postmaster) investigate the needs of Software Engineers for education at the post-Master level.
+* [Life-Long Learning](/contents/works/life-long-learning) investigate the needs of Software Engineers for education at the post-Master level.
 * [Communication Plan](/contents/works/communication-plan) formulation of a strategic communication plan.
 * [Community Events](/contents/works/community-events) organization of regular opportunities for the VERSEN community to meet.
 
