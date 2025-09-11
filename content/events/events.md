@@ -6,11 +6,12 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-*   [SEN-Symposium 2025](https://www.sen-symposium.nl/)
-*   [ICT-Open 2025](https://www.ictopen.nl/)
+*   To be announced...
 
 ### Past VERSEN Events
 
+*   [SEN-Symposium 2025](https://www.sen-symposium.nl/)
+*   [ICT-Open 2025](https://www.ictopen.nl/)
 *   [PLNL 2024](https://conf.researchr.org/home/plnl-2024)
 *   [ICT-Open 2024](https://www.ictopen.nl/)
 *   [SEN-Symposium 2024](https://www.sen-symposium.nl/history/2024/program)
