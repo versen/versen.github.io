@@ -11,7 +11,7 @@ Contact VERSEN directly via:
 
 * **general information**: please use [info@versen.nl](mailto:info@versen.nl) if you are unsure where to address your question to VERSEN; we will take care of it. This inbox  is read by the secretary, the chair and the treasurer of VERSEN.
 * **chair**: [Tanja Vos](mailto:tanja.vos@ou.nl); the chair is also the spokesperson of VERSEN. They can answer all questions regarding software engineering research and its applications in The Netherlands, or forward the question to another VERSEN member. [Paris Avgeriou](mailto:paris@cs.rug.nl) is the vice-chair.
-* **secretary**: [Alexander Serebrenik](mailto:secretary@versen.nl); the secretary handles organizational matters of the executive board, can facilitate appointments with board members, and also forward any question to the appropriate board member.
+* **secretary**: [Yanja Dajsuren](mailto:secretary@versen.nl); the secretary handles organizational matters of the executive board, can facilitate appointments with board members, and also forward any question to the appropriate board member.
 * **financial and legal**: [Jurgen Vinju](mailto:Jurgen.Vinju@cwi.nl); the treasurer deals with all matters financial and legal for VERSEN. Please address snailmail as follows to ensure proper delivery: 
 ```
 VERSEN 

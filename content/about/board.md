@@ -48,9 +48,9 @@ permalink: /contents/board
       </p>
     </div>
     <div class="col-md-4 col-sm-6">
-      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/alex.jpg" alt="Alexander Serebrenik"></p>
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/yanja.jpg" alt="Yanja Dajsuren"></p>
       <p>
-        <a href="http://www.win.tue.nl/~aserebre/">Alexander Serebrenik</a>
+        <a href="https://dajsuren.win.tue.nl/">Yanja Dajsuren</a>
         <br/>
         2022&#8211;2025 (secretary)*
         <br/>
