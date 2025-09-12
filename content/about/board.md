@@ -52,7 +52,7 @@ permalink: /contents/board
       <p>
         <a href="https://dajsuren.win.tue.nl/">Yanja Dajsuren</a>
         <br/>
-        2022&#8211;2025 (secretary)*
+        2025&#8211;2028 (secretary)*
         <br/>
         Eindhoven University of Technology
       </p>
