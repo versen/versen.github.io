@@ -98,13 +98,13 @@ permalink: /contents/board
 
 <div class="row">
     <div class="col-md-4 col-sm-6">
-      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/ivano.jpg" alt="Ivano Malavolta"></p>
+      <p class="img-wrap"><img class="img-adj" src="/assets/img/board/burcu.jpg" alt="Burcu Kulahcioglu Ozkan"></p>
       <p>
-        <a href="http://ivanomalavolta.com">Ivano Malavolta</a>
+        <a href="https://burcuku.github.io/home/">Burcu Kulahcioglu Ozkan</a>
         <br/>
         Publicity chair
         <br/>
-        Vrije Universiteit Amsterdam
+        Delft University of Technology
       </p>
     </div>
     <div class="col-md-4">
