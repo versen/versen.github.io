@@ -112,6 +112,7 @@ permalink: /contents/board
       <p>
         <a href="https://www.rug.nl/staff/d.feitosa/">Daniel Feitosa</a>
         <br/>
+        Web chair
         <br/>
         University of Groningen
       </p>
