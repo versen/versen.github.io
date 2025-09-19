@@ -52,6 +52,7 @@ The Education WG is made up of passionate educators who are eager to share their
 ## Members
 
 * Fabiano Dalpiaz <span style="font-size: smaller;">(Utrecht University)</span> {% include badge.html badge="chair" %}
+* Greg Alpár <span style="font-size: smaller;">(Radboud University)</span>
 * Andrea Capiluppi <span style="font-size: smaller;">(University of Groningen)</span>
 * Tom van Dijk <span style="font-size: smaller;">(University of Twente)</span>
 * Hieke Keuning <span style="font-size: smaller;">(Utrecht University)</span>
