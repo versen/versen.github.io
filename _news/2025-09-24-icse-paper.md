@@ -20,4 +20,4 @@ We are excited to announce that a paper by the Software and Sustainability resea
 - ⚙️ **Prompt engineering does not consistently improve energy efficiency**. 
 - 🌩️ **Human expertise is still crucial** for developing energy-efficient Python code.  
 
-![Generating Energy-Efficient Code via Large-Language Models](icse-paper-green-lab-2026.jpeg)
+![Generating Energy-Efficient Code via Large-Language Models](https://www.versen.nl/assets/img/news/icse-paper-green-lab-2026.jpeg)
