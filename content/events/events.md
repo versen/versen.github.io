@@ -6,7 +6,7 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-*   To be announced...
+*   VERSEN [Seminar Afternoon on "How to Navigate the SE Funding Landscape"](/contents/events/contents/events/2025-10-23-NavigateFunding)
 
 ### Past VERSEN Events
 
