@@ -5,8 +5,8 @@ permalink: /contents/events/2025-10-23-NavigateFunding
 
 ## VERSEN event on How to Navigate the SE Funding Landscape
 
-📅 **Date**: October 23, 2025
-📍 **Venue**: Radboud University, Nijmegen
+📅 **Date**: October 23, 2025\
+📍 **Venue**: Radboud University, Nijmegen\
 👥 **Audience**: "Junior" academics (final-year PhD candidates, postdocs, and assistant professors)
 
 Securing research funding is a crucial step in building a successful academic career; however, navigating the complex landscape of opportunities in Software Engineering (SE) can be challenging. This event brings together experienced researchers and funding experts to provide insights, share lessons learned, and offer practical guidance on establishing and sustaining collaborations with academia and industry.
