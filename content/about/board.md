@@ -165,4 +165,4 @@ permalink: /contents/board
 *   [Tanja Vos](https://tanjavos.com/), **Open University**
 *   [Tijs van der Storm](https://homepages.cwi.nl/~storm/), **University of Groningen** and **NWO-I Centrum Wiskunde & Informatica**
 *   [Tim Willemse](https://www.win.tue.nl/~timw), **Eindhoven University of Technology**
-*   [Willem Jan "Wan" Fokking](https://www.cs.vu.nl/~wanf), **Vrije Universiteit Amsterdam**
+*   [Willem Jan "Wan" Fokkink](https://www.cs.vu.nl/~wanf), **Vrije Universiteit Amsterdam**
