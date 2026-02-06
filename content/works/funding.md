@@ -16,6 +16,7 @@ VERSEN also document the procedures for funding requests and help keep them tran
 ### Contributors
 
 * Jurgen Vinju (Centrum Wiskunde & Informatica, Eindhoven University of Technology), also VERSEN treasurer.
+* Yanja Dajsuren (Eindhoven University of Technology)
 * Paris Avgeriou (Rijksuniversiteit Groningen)
-* Anton Wijs (TU Eindhoven)
-* Sangeeth Kochanthara (TU Eindhoven, ASTRON)
+* Tanja Vos (The Open University of the Netherlands)
+* Tijs van der Storm (Centrum Wiskunde & Informatica)
