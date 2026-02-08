@@ -5,10 +5,12 @@ permalink: /contents/advisory-board
 
 VERSEN advisory board consists of representatives of Dutch software industry. 
 
-*   [Emma van der Meulen](https://www.linkedin.com/in/emma-van-der-meulen-ba06897/),  [ABN AMRO](https://www.abnamro.nl/nl/prive/index.html), Product Owner Risk Data Management
+*   [Wouter Leibrand](https://www.linkedin.com/in/wouter-leibbrandt-1364a84/), [TNO](https://www.tno.nl/), Director Digital Systems
 *   [Jan Vlietland](https://www.linkedin.com/in/vlietland/), [NISI](https://nisi.nl), Co-founder
-*   [Magiel Bruntink](https://www.linkedin.com/in/magiel-bruntink/), [Software Improvement Group](https://www.softwareimprovementgroup.com/), Head of Research
 *   [Peter Jacobs](https://www.linkedin.com/in/peterhmjacobs/), [McKinsey & Company](http://www.mckinsey.com/global_locations/europe_and_middleeast/netherlands/en/), Partner
-*   [Pieter Huibers](https://www.linkedin.com/in/pieterhuibers/), [Adyen](https://www.adyen.com/), VP of Engineering
-*   [Rik Farenhorst](https://www.linkedin.com/in/rikfarenhorst/)
-*   [Wouter Leibbrandt](https://www.linkedin.com/in/wouter-leibbrandt-1364a84/), [TNO](https://www.tno.nl/nl/), Science and operations director ESI
+*   [Kevin van der Vlist](https://www.linkedin.com/in/kevinvandervlist/), [ING](https://www.ing.nl/), Software Engineer 
+*   [Viktor Clerc](https://www.linkedin.com/in/clerc/), [XEBIA](https://xebia.com/), Chief Operating Officer
+*   [Andrei Ilchenko](https://www.linkedin.com/in/andrei-ilchenko-4422374/), [ABN-AMRO](https://www.abnamro.com/), Chief Information Officer
+*   [Carlijn Compen](https://www.linkedin.com/in/carlijn/), [Canon](https://cpp.canon/), Vice President Software Development
+*   [Esmeralda Tijhoff](https://www.linkedin.com/in/esmeralda-tijhoff/), [DICTU.nl](https://www.dictu.nl/), Product Owner
+
