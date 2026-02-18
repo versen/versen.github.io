@@ -3,7 +3,7 @@ layout: content
 permalink: /contents/members
 ---
 
-VERSEN currently has **400** members.
+VERSEN currently has **399** members.
 
 The following members allowed us to share their information.
 
@@ -250,7 +250,6 @@ The following members allowed us to share their information.
 - Nima Motamed, *University of Amsterdam*
 - Nishant Saurabh, *Utrecht University, Department of Information and Computing Sciences*
 - Noha Hazaa, *Schuberg Philis*
-- Norashikin Hamzah, *Unknown*
 - Oktay Turetken, *Eindhoven University of Technology*
 - Olga Gadyatskaya, *Leiden University*
 - Olivia Rodriguez Valdes, *The Open University of the Netherlands*
