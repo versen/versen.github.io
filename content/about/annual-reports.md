@@ -7,5 +7,7 @@ permalink: /contents/annual-reports
 
 Please find below annual reports of VERSEN.
 
+* [2025](/assets/pdf/annual-reports/VERSEN-Annual-Report-2025.pdf)
+* [2024](/assets/pdf/annual-reports/VERSEN-Annual-Report-2024.pdf)
 * [2023](/assets/pdf/annual-reports/VERSEN-Annual-Report-2023.pdf)
 * [2022](/assets/pdf/annual-reports/VERSEN-Annual-Report-2022.pdf)
