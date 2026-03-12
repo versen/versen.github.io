@@ -11,7 +11,7 @@ The goal of this working group is to accept funding proposals and review them,
 then advise the [Executive Board](/works/executive-board) on which proposals to fund and which not, and finally to
 communicate decisions and feedback to the proposers.
 
-VERSEN also document the procedures for funding requests and help keep them transparent and consistent, or at least well-motivated. The relevant information is available and maintained in the [Requests for funding HOWTO](/assets/pdf/funding-v1.1.pdf). We can be contacted at mailto:funding@version.nl, as described in that document.
+VERSEN also document the procedures for funding requests and help keep them transparent and consistent, or at least well-motivated. The relevant information is available and maintained in the [Requests for funding HOWTO](/assets/pdf/funding-v1.1.pdf). We can be contacted at [funding@versen.nl](mailto:funding@versen.nl), as described in that document.
 
 ### Contributors
 
