@@ -11,6 +11,53 @@ The awards were sponsored by [ASML](https://www.asml.com/en).
 
 #### Evaluation Committee
 
+
+* dr. ing. Anton Wijs - TU Eindhoven
+* dr. Georgiana Caltais - University of Twente
+* dr. Maliheh Izadi - TU Delft
+
+<!--
+#### PhD Thesis Winners
+
+* 1st place: Name - University
+	* *** *** ([pdf]())
+	* Supervisors: 
+
+* 2nd place: Name - University
+	* *** *** ([pdf]())
+	* Supervisors: 
+
+* 3rd place: Name - University
+	* *** *** ([pdf]())
+	* Supervisors: 
+-->
+
+#### MSc Thesis Winners
+
+* 1st place: Matteo Meluzzi - TU Delft
+	* ***Model Checking the XMM Memory Model*** ([pdf](https://repository.tudelft.nl/file/File_0c66b8bf-5af5-48cd-abe5-3016a555166f))
+	* Supervisors: Soham Chakraborty
+* 1st place (Ex aequo): Orpheas van Rooij - Radboud University
+	* ***A Substructural Type and Effect System*** ([pdf](https://www.cs.ru.nl/masters-theses/2024/O_van_Rooij___A_substructural_type_and_effect_system.pdf))
+	* Supervisors: Robbert Krebbers
+* 2nd place: Adrian Beers - TU Eindhoven
+	* ***Specification and Verification of the Main Control System of the Maeslant Barrier*** ([pdf](https://research.tue.nl/files/369363938/Beers_A.pdf))
+	* Supervisors: Jan Friso Groote, Mark S. Bouwman, Geoffrey Nelissen
+* 3rd place: Ellen Wittingen - University of Twente
+	* ***Deductive Verification for SYCL*** ([pdf](https://essay.utwente.nl/fileshare/file/97976/Wittingen_MA_EEMCS.pdf))
+	* Supervisors: Marieke Huisman
+* 3rd place (Ex aequo): Samar Jameel - TU Eindhoven
+	* ***Investigating Conflicts in Software Engineering: An Exploratory Study*** ([pdf](https://pure.tue.nl/ws/portalfiles/portal/319766160/Jameel_S.pdf))
+	* Supervisors: Alexander Serebrenik, Sonja Rispens
+
+{% include image-gallery.html folder="/assets/img/thesis-awards-2024" %}
+
+### 2023
+
+The awards were sponsored by [ASML](https://www.asml.com/en).
+
+#### Evaluation Committee
+
 * dr. ing. Anton Wijs - TU Eindhoven
 * dr. Yanja Dajsuren - TU Eindhoven
 * dr. Georgiana Caltais - University of Twente
@@ -18,7 +65,7 @@ The awards were sponsored by [ASML](https://www.asml.com/en).
 
 #### PhD Thesis Winners
 
-* 1st place: Lina Maria Ochoa Venegas - TUe
+* 1st place: Lina Maria Ochoa Venegas - TU Eindhoven
 	* ***Break the Code? Breaking Changes and Their Impact on Software Evolution*** ([pdf](https://research.tue.nl/files/288327456/20230329_Ochoa_Venegas_hf.pdf))
 	* Supervisors: Jurgen Vinju, Mark van den Brand, Thomas Degueule
 
@@ -26,14 +73,14 @@ The awards were sponsored by [ASML](https://www.asml.com/en).
 	* ***Managing technical debt: prioritising and quantifying architectural smells*** ([pdf](https://research.rug.nl/en/publications/managing-technical-debt-prioritising-and-quantifying-architectura))
 	* Supervisors: Paris Avgeriou and Francesca Arcelli Fontana
 
-* 3rd place: Sangeeth Kochanthara - TUe
+* 3rd place: Sangeeth Kochanthara - TU Eindhoven
 	* ***A Changing Landscape: On Safety & Open Source in Automated and Connected Driving*** ([pdf](https://research.tue.nl/files/275726737/20230317_Kochanthara_hf.pdf))
 	* Supervisors: Mark van den Brand, Yanja Dajsuren, Loek Cleophas
 
 #### MSc Thesis Winners
 
 * 1st place: Christos Petalotis - Vrije Universiteit Amsterdam, Universiteit van Amsterdam
-	* ***A First Investigation Into the Detection of Energy-related Issues in Microservice-based Systems via Anomaly Detection and Root-Cause Analysis*** ([pdf](/assets/pdf/awards/MSc_Award_2024-Christos_Petalotis-Ivano_Malavolta.pdf))
+	* ***A First Investigation Into the Detection of Energy-related Issues in Microservice-based Systems via Anomaly Detection and Root-Cause Analysis*** ([pdf](/assets/pdf/awards/MSc_Award_2023-Christos_Petalotis-Ivano_Malavolta.pdf))
 	* Supervisors: Ivano Malavolta
 
 * 2nd place: Famke Driessen - University of Twente
@@ -42,12 +89,12 @@ The awards were sponsored by [ASML](https://www.asml.com/en).
 Sperotto, Sander van den Bosch, and Paul Verhoeve
 
 * 3rd place: Maximilian Mayer - Vrije Universiteit Amsterdam
-	* ***Programming with ghosts - Integrated real-time versioning for creative coding*** ([pdf](/assets/pdf/awards/MSc_Award_2024-Maximilian_Mayer-Mauricio_Verano.pdf))
+	* ***Programming with ghosts - Integrated real-time versioning for creative coding*** ([pdf](/assets/pdf/awards/MSc_Award_2023-Maximilian_Mayer-Mauricio_Verano.pdf))
 	* Supervisors: Mauricio Verano Merano
 
-{% include image-gallery.html folder="/assets/img/thesis-awards-2024" %}
+{% include image-gallery.html folder="/assets/img/thesis-awards-2023" %}
 
-### 2023
+### 2022
 
 The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
 
@@ -59,20 +106,20 @@ The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
 
 #### PhD Thesis Winners
 
-* 1st place: Tim Soethout - CWI, TUe
-	* ***Banking on Domain Knowledge for Faster Transactions - Leveraging Models to Avoid Coordination*** ([pdf](/assets/pdf/awards/PhD_Award_2023-Tim_Soethout-Jurgen_Vinju.pdf))
+* 1st place: Tim Soethout - CWI, TU Eindhoven
+	* ***Banking on Domain Knowledge for Faster Transactions - Leveraging Models to Avoid Coordination*** ([pdf](/assets/pdf/awards/PhD_Award_2022-Tim_Soethout-Jurgen_Vinju.pdf))
 	* Supervisors: Jurgen Vinju and Tijs van der Storm
 
 * 2nd place: Alex Serban - Radboud University
-	* ***Designing Robust Autonomous Systems*** ([pdf](/assets/pdf/awards/PhD_Award_2023-Alexandru_Constantin_Serban-Erik_Poll.pdf))
+	* ***Designing Robust Autonomous Systems*** ([pdf](/assets/pdf/awards/PhD_Award_2022-Alexandru_Constantin_Serban-Erik_Poll.pdf))
 	* Supervisors: Erik Poll and Joost Visser
 
 * 3rd place: Michiel Overeem - Utrecht University
-	* ***Evolution of Low-Code Platforms*** ([pdf](/assets/pdf/awards/PhD_Award_2023-Michiel_Overeem-Slinger_Roijackers.pdf))
+	* ***Evolution of Low-Code Platforms*** ([pdf](/assets/pdf/awards/PhD_Award_2022-Michiel_Overeem-Slinger_Roijackers.pdf))
 	* Supervisors: Prof. S. Brinkkemper, prof. H.A. Reijers and Slinger Jansen
 
-* 3rd place (Ex aequo): Mauricio Verano Merino - CWI, TUe
-	* ***Engineering Language-Parametric End-User Programming Environments for DSLs*** ([pdf](/assets/pdf/awards/PhD_Award_2023-Mauricio_Verano_Merino-Tijs_van_der_Storm.pdf))
+* 3rd place (Ex aequo): Mauricio Verano Merino - CWI, TU Eindhoven
+	* ***Engineering Language-Parametric End-User Programming Environments for DSLs*** ([pdf](/assets/pdf/awards/PhD_Award_2022-Mauricio_Verano_Merino-Tijs_van_der_Storm.pdf))
 	* Supervisors: Jurgen Vinju, Mark van den Brand and Tijs van der Storm
 
 #### MSc Thesis Winners
@@ -82,7 +129,7 @@ The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
 	* Supervisors: Alexander Serebrenik
 
 * 2nd place: Tina Marjanov - Vrije Universiteit Amsterdam
-	* ***Machine learning for source code: vulnerability detection for C and Java*** ([pdf](/assets/pdf/awards/MSc_Award_2023-TinaMarjanov-FabioMassacci.pdf))
+	* ***Machine learning for source code: vulnerability detection for C and Java*** ([pdf](/assets/pdf/awards/MSc_Award_2022-TinaMarjanov-FabioMassacci.pdf))
 	* Supervisors: Fabio Massacci
 
 * 3rd place: Kevin Jilissen - TU Eindhoven
@@ -93,7 +140,7 @@ The awards were sponsored by [SWAT.engineering](https://www.swat.engineering/).
 	* ***The Impact of Scalability on Energy Consumption in the Cloud*** ([pdf](https://research.vu.nl/en/publications/the-impact-of-scalability-on-energy-consumption-in-the-cloud))
 	* Supervisors: Patricia Lago
 
-### 2022
+### 2021
 
 The awards were sponsored by the [Software Improvement Group](https://www.sig.eu/).
 
@@ -132,7 +179,7 @@ The awards were sponsored by the [Software Improvement Group](https://www.sig.eu
 	* ***API-m-FAMM: A Focus Area Maturity Model for API Management*** ([pdf](https://drive.google.com/open?id=1_xaMZi6VfkxGYMlzZ_JUczhTqRrur-Qz))
 	* Supervisors: Slinger Jansen
 
-### 2021
+### 2020
 
 The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 
@@ -178,7 +225,7 @@ The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 	* ***Toward automatic decomposition of monolithic software into microservices*** ([pdf](https://drive.google.com/open?id=1HUEQnQyX0uIiuOef9_r4tJDKqqPDvXHZ))
 	* Supervisors: Ana Oprescu, Stephan Schroevers
 
-### 2020
+### 2019
 
 The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 
@@ -212,7 +259,7 @@ The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 	* ***Parallel term rewriting on GPUs*** ([pdf](https://drive.google.com/open?id=1hLucoKqXHU-qORP5mv11ConXQcVmLvb1))
 	* Supervisors: Prof. dr. ir. Jan Friso Groote, Dr. ing. Anton Wijs, Dr. Pieter Hijma
 
-### 2019
+### 2018
 
 The awards were sponsored by [HCL Technologies](https://www.hcltech.com/).
 
