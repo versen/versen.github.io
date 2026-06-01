@@ -6,11 +6,13 @@ permalink: /contents/events
 
 ## Upcoming VERSEN Events
 
-*   VERSEN [Seminar Afternoon on "How to Navigate the SE Funding Landscape"](/contents/events/2025-10-23-NavigateFunding)
+Stay tunned!
 
 ### Past VERSEN Events
 
-*   [SEN-Symposium 2025](https://www.sen-symposium.nl/)
+*   [SEN-Symposium 2026](https://www.sen-symposium.nl/)
+*   VERSEN [Seminar Afternoon on "How to Navigate the SE Funding Landscape"](/contents/events/2025-10-23-NavigateFunding)
+*   [SEN-Symposium 2025](https://www.sen-symposium.nl/history/2025/program)
 *   [ICT-Open 2025](https://www.ictopen.nl/)
 *   [PLNL 2024](https://conf.researchr.org/home/plnl-2024)
 *   [ICT-Open 2024](https://www.ictopen.nl/)
