@@ -5,6 +5,47 @@ permalink: /contents/awards-history
 
 ## VERSEN Thesis Awards History
 
+### 2025
+
+The awards were sponsored by [ASML](https://www.asml.com/en).
+
+#### Evaluation Committee
+
+* dr. Georgiana Caltais - University of Twente
+* dr. Maliheh Izadi - TU Delft
+* dr. ing. Jacob Krüger - TU Eindhoven
+
+#### PhD Thesis Winners
+
+* 1st place: Mehdi Keshani - Delft University of Technology
+	* ***Enhancing the Security of Software Supply Chains: Methods and Practices*** ([pdf]())
+	* Supervisors: Sebastian Proksch, Arie van Deursen
+
+* 2nd place: Stefano Maria Nicoletti - University of Twente
+	* ***If a Tree Falls in the Forest: Risk Logics for Safety-Security Analysis*** ([pdf]())
+	* Supervisors: Marielle I. A. Stoelinga, Ernst Moritz Hahn
+
+* 3rd place: Nathan Cassee - Eindhoven University of Technology
+	* ***Sentiment in Software Engineering*** ([pdf]())
+	* Supervisors: Alexander Serebrenik, Nicole Novielli
+
+* 3rd place (Ex aequo): Hamid Bostani - Radboud University
+	* ***Rethinking the Security of Machine Learning in Malware Detection*** ([pdf]())
+	* Supervisors: Erik Poll, Veelasha Moonsamy
+
+#### MSc Thesis Winners
+
+* 1st place: Caz Saaltink - University of Twente
+	* ***Model Checking DOGLog: Implementing Risk Assessment with Object-Oriented Disruption Graphs*** ([pdf]())
+	* Supervisors: Stefano Maria Nicoletti, Ernst Moritz Hahn, Tom van Dijk, Giancarlo Guizzardi
+* 2nd place: Valentijn Hol - University of Twente
+	* ***Explorations in Quasi-Polynomial Algorithms for Parity Games*** ([pdf]())
+	* Supervisors: Tom van Dijk
+* 3rd place: Alexandros Constantinou - Utrecht University
+	* ***Automatic Software Product Features Extraction from Software Vendor Documents*** ([pdf]())
+	* Supervisors: Slinger Jansen, Fabiano Dalpiaz, Siamak Farshidi
+
+
 ### 2024
 
 The awards were sponsored by [ASML](https://www.asml.com/en).
