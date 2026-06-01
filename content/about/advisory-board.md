@@ -7,7 +7,7 @@ VERSEN advisory board consists of representatives of Dutch software industry. 
 
 *   [Wouter Leibrand](https://www.linkedin.com/in/wouter-leibbrandt-1364a84/), [TNO](https://www.tno.nl/), Director Digital Systems
 *   [Jan Vlietland](https://www.linkedin.com/in/vlietland/), [NISI](https://nisi.nl), Co-founder
-*   [Peter Jacobs](https://www.linkedin.com/in/peterhmjacobs/), [McKinsey & Company](http://www.mckinsey.com/global_locations/europe_and_middleeast/netherlands/en/), Partner
+*   [Peter Jacobs](https://www.linkedin.com/in/peterhmjacobs/), [ING](https://www.ing.nl/), CEO ING Netherlands
 *   [Kevin van der Vlist](https://www.linkedin.com/in/kevinvandervlist/), [ING](https://www.ing.nl/), Software Engineer 
 *   [Viktor Clerc](https://www.linkedin.com/in/clerc/), [XEBIA](https://xebia.com/), Chief Operating Officer
 *   [Andrei Ilchenko](https://www.linkedin.com/in/andrei-ilchenko-4422374/), [ABN-AMRO](https://www.abnamro.com/), Chief Information Officer
