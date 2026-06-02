@@ -3,7 +3,7 @@ layout: content
 permalink: /contents/members
 ---
 
-VERSEN currently has **399** members.
+VERSEN currently has **401** members.
 
 The following members allowed us to share their information.
 
@@ -12,7 +12,6 @@ The following members allowed us to share their information.
 - Alexander Serebrenik, *Eindhoven University of Technology*
 - Alexander Stekelenburg, *University of Twente*
 - Alexander Nolte, *Eindhoven University of Technology* and *Carnegie Mellon University*
-- Alfons Laarman, *Leiden University*
 - Alfons Laarman, *Leiden University*
 - Ali Khatami, *Delft University of Technology*
 - Ali Al-Kaswan, *Delft University of Technology*
@@ -44,8 +43,8 @@ The following members allowed us to share their information.
 - Bastian Roden, *Schuberg Philis*
 - Bedir Tekinerdogan, *Wageningen University & Research*
 - Behrooz Nobakht, *Leiden University* and *Centrum Wiskunde & Informatica (CWI)*
-- Ben van Werkhoven, *Netherlands eScience Center*
 - Ben van Werkhoven, *Leiden University*
+- Ben Zelinsky, *NOVI Hogeschool, Alum* and *Freelancer*
 - Bernard van Gastel, *Radboud University*
 - Bert de Brock, *University of Groningen, Faculty of Economics and Business*
 - Bert Wimmenhove, *University of Applied Sciences Windesheim*
@@ -123,11 +122,10 @@ The following members allowed us to share their information.
 - Gopal-Raj Panchu, *Delft University of Technology*
 - Graham James Bolton, *FRSA* and *IEEE, ACM, KNVI, ACG*
 - Greg Alpar, *Radboud University*
-- Greg Alpar, *Radboud University*
 - Guus Ramackers, *Leiden Institute of Advanced Computer Science (LIACS), Leiden University*
 - Hajo Reijers, *Utrecht University*
 - Hans Dekkers, *University of Amsterdam* and *Kaizen Automatisering*
-- Hans van Vliet, *.*
+- Hans van Vliet
 - Hans-Dieter Hiep, *Centrum Wiskunde & Informatica (CWI)*
 - Harald Vranken, *The Open Universiteit of the Netherlands*
 - Harrie Passier, *The Open Universiteit of the Netherlands*
@@ -137,6 +135,7 @@ The following members allowed us to share their information.
 - Henning Basold, *Leiden University*
 - Henrie Vos, *NXP Semiconductors*
 - Herman Geuvers, *University of Groningen*
+- Hiya Bhatt, *Vrije Universteit Amsterdam*
 - Hossain Muhammad Muctadir, *Eindhoven University of Technology*
 - Huub van Thienen, *Amsterdam University of Applied Sciences* and *HBO-ICT Make IT Work*
 - Ilias Gerostathopoulos, *VU Amsterdam*
@@ -159,7 +158,7 @@ The following members allowed us to share their information.
 - Jeroen Meijer, *Eijsink*
 - Jesper Cockx, *Delft University of Technology*
 - Jesse Maarleveld, *University of Groningen*
-- Jiangnan HUANG, *J*
+- Jiangnan Huang, *J*
 - Joao Moreira, *University of Twente*
 - Jochem Broekhoff, *Delft University of Technology* and *Oracle Labs*
 - Johan Jeuring, *Utrecht University*
@@ -170,6 +169,7 @@ The following members allowed us to share their information.
 - Joost Visser, *Leiden University*
 - Joost Schalken, *University of Applied Sciences Windesheim*
 - Joost-Pieter Katoen, *RWTH Aachen University* and *University of Twente*
+- Jore Booy, *Eindhoven University of Technology*
 - Jorge A. Pérez, *University of Groningen*
 - Joris Best
 - Jos Baeten, *Centrum Wiskunde & Informatica (CWI)* and *University of Amsterdam*
@@ -203,6 +203,7 @@ The following members allowed us to share their information.
 - Luiz Olavo Bonino da Silva Santos, *University of Twente*
 - Lukas Armborst, *University of Twente*
 - Luís Ferreira Pires, *University of Twente*
+- Mathana Sreedaran, *Intel Benelux BV*
 - Magiel Bruntink, *Software Improvement Group (SIG)*
 - Mahdi Saeedi Nikoo, *Eindhoven University of Technology*
 - Mairieli Wessel, *Radboud University*
@@ -213,6 +214,7 @@ The following members allowed us to share their information.
 - Marcello Bonsangue, *Leiden Institute of Advanced Computer Science (LIACS), Leiden University* and *Centrum Wiskunde & Informatica (CWI)*
 - Marco di Biase, *Delft University of Technology* and *Software Improvement Group (SIG)*
 - Marco Vasquez, *University of Groningen*
+- Marco Tonnarelli, *Eindhoven University of Technology*
 - Marcus Gerhold, *University of Twente*
 - Maria Belen Rodriguez, *University of Twente*
 - Marieke Huisman, *University of Twente*
@@ -243,6 +245,7 @@ The following members allowed us to share their information.
 - Nadine Muller, *Universiteit Twente*
 - Nan Yang, *TNO-ESI* and *Eindhoven University of Technology*
 - Nathan Cassee, *Eindhoven University of Technology*
+- Nawmi Nujhat, *Delft University of Technology* and *University of Dhaka*
 - Nelly Condori Fernandez
 - Nico Naus, *The Open University of the Netherlands*
 - Niels Doorn, *NHL Stenden University of Applied Sciences*
@@ -280,16 +283,17 @@ The following members allowed us to share their information.
 - Robbert Krebbers, *Radboud University Nijmegen*
 - Roberto Verdecchia, *VU Amsterdam*
 - Rodin Aarssen, *Centrum Wiskunde & Informatica (CWI)*
+- Rodrigo Otoni, *University of Groningen*
 - Roham Koohestani, *Delft University of Technology*
 - Sajid Anwar, *Institute of Management Sciences, Peshawar, Pakistan*
 - Samina Kanwal, *Vrije University Amsterdam*
-- Sangeeth Kochanthara, *Eindhoven University of Technology*
+- Sangeeth Kochanthara, *Netherlands' Space Observatory - ASTRON* and *Eindhoven University of Technology*
 - Sebastiaan Joosten, *Dartmouth College*
 - Sebastian Junges, *Radboud University*
 - Selin Acan, *University of Amsterdam*
-- Serda Shehu, *ASML*
 - Shah Fahad Hossain, *Eindhoven University of Technology*
 - Shaurya Gaur, *Vrije Universiteit Amsterdam*
+- Shuang Sun, *Leiden University*
 - Siamak Farshidi, *Wageningen University & Research*
 - Sicco Verwer, *Delft University of Technology*
 - Sjaak Brinkkemper, *Utrecht University*
@@ -309,6 +313,7 @@ The following members allowed us to share their information.
 - Thomas Degueule, *LaBRI*
 - Thomas Neele, *Eindhoven University of Technology*
 - Thomas van Binsbergen, *University of Amsterdam*
+- Thomas Rooijakkers, *TNO*
 - Tien Rahayu Tulili, *University of Groningen*
 - Tijs van der Storm, *Centrum Wiskunde & Informatica (CWI)* and *University of  Groningen*
 - Tim Soethout, *ING Bank Netherlands*
@@ -318,7 +323,6 @@ The following members allowed us to share their information.
 - Tjerk Spijkman, *fizor* and *Utrecht University*
 - Tom van Dijk, *University of Twente*
 - Tony Garnock-Jones, *Maastricht University*
-- Vadim Zaytsev, *University of Twente*
 - Vadim Zaytsev, *University of Twente*
 - Valentijn van de Beek, *TU Delft*
 - Valentina Castiglioni, *Eindhoven University of Technology*
