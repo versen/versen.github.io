@@ -7,6 +7,12 @@ permalink: /contents/honorary-members
 
 The Honorary Fellow of VERSEN is an honorary designation for emeriti professors and research staff members who had an impact on the field of Software Engineering in the Netherlands and beyond. Honorary Fellows are selected by the board of VERSEN and can be proposed by sending an email to [secretary@versen.nl](mailto:secretary@versen.nl?subject=VERSEN%20Honorary%20Fellow%20proposal).
 
+### 2026
+
+In 2026 one new Honorary Fellow was announced:
+
+* Prof. dr. Ed Brinksma ([movie by former colleagues](https://youtu.be/Uedcf_t_97s))
+
 
 ### 2024
 
