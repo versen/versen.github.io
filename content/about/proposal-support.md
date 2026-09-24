@@ -25,12 +25,14 @@ Have you received a grant in one of these (or other) schemes, and would you like
 | 2022 | Marieke Huisman (University of Twente) | Pallas: Program Analysis for LLVM-IR and All its Source languages |
 | 2023 | Frits Vaandrager (Radboud University) and Petra van den Bos (University of Twente); please contact Frits Vaandrager | Evidence-Driven Black-Box Checking (EVI) |
 | 2023 | Anton Wijs and Michel Reniers (Eindhoven University of Technology) | GUESS: GPU Enhanced Synthesis of Supervisory controllers |
+{: .grants}
 
 #### ENW-XL
 
 | Year | Researcher(s) | Proposal |
 |------|---------------|----------|
 | 2023–2024 | Jorge Pérez (University of Groningen) | Cyclic Structures in Programs and Proofs: New Harmonies of Theory and Praxis |
+{: .grants}
 
 ### NWO Talent Programme
 
@@ -43,6 +45,7 @@ Have you received a grant in one of these (or other) schemes, and would you like
 | 2023 | Thomas Neele (Eindhoven University of Technology) | Explainable Formal Methods with Certificates |
 | 2023 | Tobias Kappé (Open Universiteit) | Code versus Flowcharts: Characterising Expressible Behaviour in Operational Semantics |
 | 2024 | Siân Brooke (University of Amsterdam) | From Exclusion to Empowerment: AI Tools for Inclusive Programming |
+{: .grants}
 
 #### Vidi
 
@@ -53,6 +56,7 @@ Have you received a grant in one of these (or other) schemes, and would you like
 | 2022 | Jurriaan Rot (Radboud University) | Approximation, Abstraction and Apartness in Automata Learning (APPLE) |
 | 2022 | Arnd Hartmanns (University of Twente) | Trustworthy Analysis of Stochastic Timed Systems (TruSTy) |
 | 2023 | Robbert Krebbers (Radboud University) | New programming languages for the development of correct concurrent software |
+{: .grants}
 
 #### Vici
 
@@ -60,6 +64,7 @@ Have you received a grant in one of these (or other) schemes, and would you like
 |------|---------------|----------|
 | 2016 | Marieke Huisman (University of Twente) | Mercedes: Maximal Reliability of Concurrent and Distributed Software |
 | 2019 | Andy Zaidman (Delft University of Technology) | TestShift: A Socio-Technical Shift in Software Testing |
+{: .grants}
 
 ### European Research Council (ERC)
 
@@ -69,9 +74,11 @@ Have you received a grant in one of these (or other) schemes, and would you like
 |------|---------------|----------|
 | 2019 | Mariëlle Stoelinga (University of Twente) | CAESAR: Integrating Safety and Cybersecurity through Stochastic Model Checking |
 | 2024 | Robbert Krebbers (Radboud University) | COCONUT: Developing Correct Concurrent Software Using Types |
+{: .grants}
 
 #### Advanced Grant
 
 | Year | Researcher(s) | Proposal |
 |------|---------------|----------|
 | 2018 | Joost-Pieter Katoen (RWTH Aachen University) | Formal Reasoning about Probabilistic Programs: Breaking New Ground for Automation |
+{: .grants}
